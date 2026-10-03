@@ -1,0 +1,36 @@
+{
+  "features": [
+    "Age",
+    "Gender",
+    "BMI",
+    "Blood_Pressure_mmHg",
+    "Cholesterol_mg_dL",
+    "Glucose_mg_dL",
+    "Heart_Rate_bpm",
+    "Smoking",
+    "Exercise_Level"
+  ],
+  "metrics_holdout": {
+    "accuracy": 0.855,
+    "precision": 0.6626,
+    "recall": 0.7714,
+    "f1": 0.7129,
+    "roc_auc": 0.8975,
+    "cv_f1_mean": 0.6856,
+    "cv_f1_std": 0.048,
+    "confusion_matrix": [
+      [
+        405,
+        55
+      ],
+      [
+        32,
+        108
+      ]
+    ],
+    "train_rows": 2400,
+    "test_rows": 600
+  },
+  "model": "RandomForestClassifier",
+  "target": "Disease (1) / No Disease (0)"
+}
