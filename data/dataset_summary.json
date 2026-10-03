@@ -1,0 +1,30 @@
+{
+  "rows": 3000,
+  "columns": 10,
+  "missing_values_total": 0,
+  "duplicate_rows": 0,
+  "target": "Disease",
+  "numeric_features": [
+    "Age",
+    "BMI",
+    "Blood_Pressure_mmHg",
+    "Cholesterol_mg_dL",
+    "Glucose_mg_dL",
+    "Heart_Rate_bpm"
+  ],
+  "categorical_features": [
+    "Gender",
+    "Smoking",
+    "Exercise_Level"
+  ],
+  "selected_processed_features": [
+    "num__Age",
+    "num__BMI",
+    "num__Blood_Pressure_mmHg",
+    "num__Cholesterol_mg_dL",
+    "num__Glucose_mg_dL",
+    "num__Heart_Rate_bpm",
+    "cat__Gender_Male",
+    "cat__Smoking_Yes"
+  ]
+}
