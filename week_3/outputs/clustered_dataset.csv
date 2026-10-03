@@ -1,0 +1,3001 @@
+Age,Gender,BMI,Blood_Pressure_mmHg,Cholesterol_mg_dL,Glucose_mg_dL,Heart_Rate_bpm,Smoking,Exercise_Level,Disease,KMeans_Cluster,Hier_Cluster
+56,Male,26.6,140,277,75,55,No,Moderate,Disease,0,1
+69,Male,29.8,165,215,115,61,No,Low,No Disease,2,1
+46,Male,24.1,128,189,77,50,No,Low,No Disease,1,0
+32,Male,31.8,101,185,120,90,No,Moderate,No Disease,1,2
+60,Male,27.0,170,201,122,76,Yes,Moderate,Disease,2,1
+25,Male,26.4,107,120,65,78,No,Low,No Disease,1,0
+78,Female,19.4,156,230,127,76,No,Moderate,Disease,0,1
+38,Female,26.9,140,173,80,78,Yes,Moderate,No Disease,1,0
+56,Male,21.5,128,156,135,73,No,Low,No Disease,0,0
+75,Female,22.4,137,242,109,76,No,Moderate,No Disease,0,1
+36,Female,21.6,126,157,65,73,Yes,Moderate,No Disease,1,0
+40,Male,20.4,100,180,68,66,No,Low,No Disease,1,0
+28,Male,35.7,112,249,130,71,No,Moderate,No Disease,2,2
+28,Male,31.9,119,157,104,74,No,Moderate,No Disease,1,0
+41,Male,34.7,122,167,123,73,No,High,No Disease,1,2
+70,Female,19.6,126,220,142,58,No,Low,No Disease,0,1
+53,Male,25.8,157,243,93,59,No,High,No Disease,0,1
+57,Female,19.3,139,154,102,83,Yes,Low,No Disease,0,0
+41,Female,22.2,146,206,125,69,No,Moderate,No Disease,0,1
+20,Male,21.1,106,194,90,77,No,Low,No Disease,1,0
+39,Female,31.5,112,145,81,61,No,High,No Disease,1,0
+70,Male,23.6,151,242,122,58,No,Moderate,No Disease,0,1
+19,Female,30.6,106,216,79,63,No,Low,No Disease,1,0
+41,Male,28.4,109,194,140,70,No,Low,No Disease,1,1
+61,Female,36.6,161,268,121,66,No,Low,Disease,2,1
+47,Female,18.4,122,227,161,85,Yes,Low,No Disease,0,0
+55,Male,31.5,110,222,156,74,No,Moderate,Disease,2,2
+19,Female,31.0,128,177,89,90,No,Moderate,No Disease,1,0
+77,Female,20.8,146,190,110,77,No,High,No Disease,0,1
+38,Female,30.3,115,203,129,50,No,High,No Disease,1,0
+50,Female,27.1,108,225,127,83,No,Moderate,No Disease,2,2
+29,Female,24.4,141,179,104,57,No,Low,No Disease,1,0
+75,Male,21.5,133,153,136,75,Yes,Moderate,No Disease,0,1
+39,Male,22.0,125,230,90,64,Yes,Moderate,No Disease,1,0
+78,Female,35.3,166,247,135,95,Yes,Moderate,Disease,2,1
+61,Male,25.5,147,203,104,87,No,Moderate,No Disease,0,0
+42,Female,29.3,126,231,131,65,Yes,High,Disease,2,1
+66,Female,21.7,121,258,113,72,No,High,No Disease,0,1
+44,Male,21.8,117,120,101,75,No,Low,No Disease,1,0
+76,Male,30.7,155,246,148,82,No,Low,Disease,2,1
+80,Female,19.0,144,176,66,73,No,High,No Disease,0,0
+59,Male,23.5,142,224,112,62,Yes,High,No Disease,0,1
+45,Female,25.7,138,206,109,65,No,Low,No Disease,0,0
+77,Male,26.0,166,246,156,73,No,Moderate,Disease,2,1
+33,Female,24.6,103,177,65,84,No,Moderate,No Disease,1,0
+32,Male,27.4,150,139,137,76,Yes,Moderate,No Disease,1,2
+79,Female,28.8,165,219,129,65,No,Low,No Disease,2,1
+79,Male,29.0,154,245,139,80,No,High,No Disease,2,1
+64,Female,20.8,158,240,141,69,No,Moderate,No Disease,0,1
+79,Male,24.1,180,190,128,82,No,Low,Disease,0,1
+68,Female,31.2,126,259,137,98,Yes,Moderate,Disease,2,1
+61,Female,29.8,138,201,127,69,No,Moderate,Disease,2,1
+72,Male,18.9,116,223,97,81,No,High,No Disease,0,0
+69,Male,27.2,149,207,118,65,No,Low,Disease,2,1
+74,Male,16.0,156,215,93,72,No,High,No Disease,0,1
+20,Female,25.7,109,210,92,72,Yes,Low,No Disease,1,0
+54,Female,34.6,126,186,79,70,No,Moderate,No Disease,1,2
+68,Female,21.0,117,192,115,97,No,Moderate,No Disease,0,0
+24,Male,21.5,118,186,83,68,No,Moderate,No Disease,1,0
+38,Male,29.2,144,274,103,78,No,Moderate,Disease,2,1
+26,Female,18.1,106,151,92,52,No,High,No Disease,1,0
+56,Male,22.5,143,267,70,77,Yes,Moderate,No Disease,0,0
+35,Female,28.4,99,259,149,83,Yes,Moderate,No Disease,2,2
+21,Male,22.5,117,177,83,66,No,Low,No Disease,1,0
+42,Female,24.4,121,189,97,50,No,Low,No Disease,1,0
+77,Male,29.1,142,211,106,73,No,Low,No Disease,2,1
+31,Male,27.5,108,192,103,72,No,High,No Disease,1,2
+67,Female,26.8,140,178,148,80,No,Moderate,No Disease,2,1
+75,Female,23.9,157,220,136,93,No,High,Disease,2,1
+26,Female,27.3,96,235,119,68,No,Low,No Disease,1,0
+43,Male,24.9,122,181,114,64,No,Moderate,No Disease,1,0
+70,Male,27.7,147,217,113,61,No,Low,Disease,2,1
+19,Female,23.1,94,128,65,73,No,Moderate,No Disease,1,0
+37,Female,24.6,148,206,94,77,Yes,Moderate,No Disease,0,0
+45,Male,20.7,117,203,90,67,No,Low,No Disease,1,0
+64,Male,25.3,134,218,135,81,No,Moderate,No Disease,2,1
+77,Male,21.6,139,214,116,78,No,Low,No Disease,0,1
+24,Female,20.2,138,170,121,72,No,Moderate,No Disease,1,0
+61,Male,26.7,148,231,141,64,Yes,Moderate,Disease,2,1
+78,Male,26.5,140,227,111,68,Yes,Moderate,Disease,2,1
+25,Male,29.3,129,202,65,50,Yes,High,No Disease,1,0
+64,Male,23.4,146,220,138,75,No,Moderate,No Disease,2,1
+52,Male,27.5,138,244,142,73,Yes,Moderate,Disease,2,1
+31,Male,28.1,113,216,74,74,No,High,No Disease,1,2
+34,Male,27.6,110,203,138,77,No,Moderate,No Disease,1,2
+53,Female,21.5,139,248,107,76,Yes,Low,No Disease,0,1
+67,Male,26.2,138,232,119,72,No,High,No Disease,2,1
+57,Female,27.2,163,253,149,73,No,Low,No Disease,2,1
+21,Female,25.5,93,202,123,57,No,Low,No Disease,1,0
+19,Female,16.0,131,120,98,66,No,Low,No Disease,1,0
+79,Female,26.3,153,268,132,74,No,Low,Disease,2,1
+23,Male,36.1,116,205,134,64,No,Low,No Disease,1,2
+71,Male,23.8,160,217,103,82,No,Low,Disease,0,0
+59,Female,22.0,130,216,100,66,Yes,Moderate,No Disease,0,0
+21,Female,27.3,123,176,78,74,No,Low,No Disease,1,0
+71,Female,27.0,110,231,112,74,No,Low,No Disease,2,1
+46,Female,31.2,119,194,111,80,No,Moderate,No Disease,1,0
+80,Female,19.5,142,257,97,82,No,Low,Disease,0,1
+35,Male,29.0,104,196,111,79,No,Low,No Disease,1,0
+43,Male,28.3,124,193,103,51,No,Moderate,No Disease,1,0
+61,Female,24.8,146,185,120,85,Yes,Low,No Disease,0,0
+51,Female,27.1,143,217,75,88,No,Low,Disease,0,1
+27,Male,30.4,119,201,106,67,Yes,Moderate,No Disease,1,0
+79,Female,29.7,145,245,133,76,Yes,Moderate,Disease,2,1
+53,Male,20.0,140,169,92,63,No,Moderate,No Disease,0,0
+31,Female,29.4,120,149,104,52,No,High,No Disease,1,0
+48,Male,25.2,144,223,70,65,No,Moderate,No Disease,0,1
+65,Male,25.8,155,262,122,67,No,Moderate,Disease,2,1
+32,Female,25.9,119,162,113,68,No,Low,No Disease,1,0
+25,Male,24.8,101,234,104,62,No,Moderate,No Disease,1,0
+31,Female,31.2,109,209,135,64,No,Low,No Disease,1,0
+40,Female,25.1,117,197,105,72,Yes,Moderate,No Disease,1,0
+77,Female,20.1,148,206,120,65,No,Moderate,Disease,0,1
+74,Male,23.6,154,179,116,78,Yes,Moderate,No Disease,0,1
+79,Male,26.4,164,258,137,80,No,High,Disease,2,1
+57,Male,31.4,137,197,89,96,Yes,High,No Disease,2,0
+38,Female,28.4,124,178,88,83,Yes,Low,No Disease,1,0
+33,Female,21.4,122,217,125,74,No,Low,No Disease,1,2
+62,Female,37.4,134,176,87,66,No,High,No Disease,2,2
+35,Female,26.8,108,151,100,75,No,Moderate,No Disease,1,0
+64,Female,31.6,118,225,154,76,No,Moderate,Disease,2,1
+70,Female,24.8,138,228,111,68,Yes,Moderate,Disease,0,1
+41,Male,28.1,132,217,100,80,No,Moderate,No Disease,1,2
+43,Female,29.5,117,197,116,58,No,High,No Disease,1,0
+42,Male,31.3,123,284,109,70,No,Moderate,No Disease,2,1
+77,Female,30.6,159,227,132,79,No,Moderate,Disease,2,1
+77,Female,29.7,160,225,114,70,No,Moderate,Disease,2,1
+77,Female,24.0,138,200,139,71,No,High,Disease,2,1
+62,Male,22.8,155,214,136,71,No,Moderate,Disease,0,1
+58,Male,27.1,154,233,111,64,No,Moderate,No Disease,2,1
+46,Male,30.0,114,246,85,84,No,High,No Disease,1,2
+32,Male,24.4,107,146,84,62,No,Moderate,No Disease,1,0
+62,Male,30.6,158,215,120,76,No,Moderate,Disease,2,1
+18,Female,32.5,106,206,120,75,No,Moderate,No Disease,1,2
+42,Female,21.1,95,211,72,63,No,Moderate,No Disease,1,0
+24,Male,21.5,93,180,69,72,Yes,Low,No Disease,1,0
+26,Male,24.8,111,203,105,62,No,Moderate,No Disease,1,0
+41,Male,27.0,109,177,127,86,Yes,Moderate,Disease,1,2
+18,Female,23.0,103,225,72,60,Yes,Moderate,No Disease,1,0
+61,Male,32.0,141,254,98,66,Yes,Moderate,Disease,2,1
+25,Female,27.5,134,150,172,59,Yes,Moderate,No Disease,1,0
+41,Male,25.7,122,167,120,58,No,High,No Disease,1,0
+80,Female,18.6,170,186,105,89,No,Low,No Disease,0,1
+28,Female,19.2,136,200,107,77,No,Low,No Disease,1,0
+68,Male,26.8,166,183,115,74,No,Moderate,Disease,0,1
+34,Female,16.0,124,170,109,65,Yes,Moderate,No Disease,1,0
+25,Male,30.4,90,208,111,81,No,Low,No Disease,1,0
+52,Female,24.7,140,204,107,64,No,Low,No Disease,0,0
+52,Male,41.1,149,238,144,80,Yes,Moderate,Disease,2,1
+50,Female,36.6,131,190,102,64,Yes,Moderate,Disease,2,2
+76,Female,24.6,176,242,158,67,No,Moderate,Disease,2,1
+22,Female,25.0,124,166,72,79,Yes,Moderate,No Disease,1,0
+59,Female,30.3,147,210,92,81,No,Moderate,Disease,2,1
+56,Male,33.7,152,230,125,78,Yes,Moderate,Disease,2,1
+75,Male,17.6,156,216,88,63,Yes,Moderate,No Disease,0,1
+58,Male,16.9,104,200,100,68,Yes,Moderate,No Disease,0,0
+45,Male,22.5,122,175,112,74,No,High,No Disease,1,0
+24,Female,28.3,130,181,123,63,Yes,High,No Disease,1,0
+26,Male,27.9,103,191,119,85,Yes,Low,No Disease,1,2
+25,Female,30.6,111,153,101,50,No,Low,No Disease,1,0
+29,Female,19.7,102,167,89,64,No,Low,No Disease,1,0
+51,Female,16.0,158,204,107,67,No,Moderate,No Disease,0,0
+50,Male,29.6,156,174,78,50,No,Moderate,No Disease,0,1
+65,Female,21.5,131,246,117,59,No,Moderate,No Disease,0,1
+72,Female,16.0,151,246,75,79,Yes,Low,No Disease,0,1
+40,Male,26.2,115,162,148,72,No,Moderate,No Disease,1,2
+79,Female,29.3,163,274,120,89,No,High,Disease,2,1
+41,Female,24.9,133,194,97,87,No,Moderate,No Disease,1,0
+54,Male,23.3,147,218,86,77,No,Low,No Disease,0,0
+52,Male,24.7,139,191,91,75,Yes,Moderate,No Disease,0,0
+61,Male,23.7,180,239,157,73,No,Moderate,Disease,2,1
+57,Male,19.0,123,213,121,50,No,High,No Disease,0,0
+39,Male,22.1,100,168,65,58,No,Moderate,No Disease,1,0
+44,Male,28.0,122,170,143,73,No,Moderate,No Disease,1,2
+52,Male,27.0,112,166,137,79,No,Moderate,Disease,1,2
+18,Male,26.3,90,189,88,74,Yes,Moderate,No Disease,1,0
+52,Female,20.7,120,217,105,63,No,Moderate,No Disease,0,0
+54,Female,24.6,123,227,105,82,No,Low,No Disease,0,2
+64,Female,16.0,130,198,147,88,Yes,Moderate,No Disease,0,0
+31,Male,26.4,126,158,82,81,No,Low,No Disease,1,0
+20,Male,32.4,103,173,113,81,No,Low,No Disease,1,0
+18,Male,18.4,106,206,74,66,No,Moderate,No Disease,1,0
+22,Male,22.7,124,166,65,82,Yes,Low,No Disease,1,0
+43,Male,27.1,117,207,155,74,No,Low,No Disease,2,1
+72,Female,31.5,145,199,105,78,Yes,Moderate,No Disease,2,1
+80,Male,23.3,160,235,119,77,No,Moderate,Disease,0,1
+31,Female,22.2,91,173,65,71,No,Low,No Disease,1,0
+56,Female,16.0,104,227,91,64,No,Moderate,No Disease,0,0
+44,Male,26.0,133,225,114,71,Yes,Low,Disease,2,0
+26,Male,35.3,121,188,102,81,No,Low,No Disease,1,2
+32,Female,26.8,148,190,114,67,No,Moderate,No Disease,1,0
+32,Male,25.4,121,176,92,81,No,Low,No Disease,1,2
+43,Male,27.0,139,160,132,79,No,High,No Disease,1,1
+59,Female,25.4,137,187,140,70,No,Low,No Disease,2,1
+77,Male,21.6,157,226,97,87,No,Moderate,No Disease,0,1
+30,Female,29.5,141,207,109,68,No,High,No Disease,1,2
+68,Female,26.6,116,225,121,88,No,High,No Disease,2,1
+80,Male,25.6,161,219,134,78,No,Moderate,Disease,2,1
+49,Male,20.8,162,226,97,72,No,High,No Disease,0,1
+56,Male,31.8,141,222,129,64,No,High,No Disease,2,2
+66,Male,28.7,168,244,116,72,No,Low,Disease,2,1
+69,Male,22.8,138,163,111,71,Yes,Moderate,No Disease,0,1
+78,Female,30.3,153,120,159,61,No,Low,No Disease,2,1
+49,Male,23.1,132,210,114,70,Yes,Moderate,No Disease,0,1
+21,Male,21.7,90,136,100,63,No,Moderate,No Disease,1,0
+47,Female,21.9,114,192,112,78,No,Low,No Disease,1,2
+54,Female,17.0,120,187,96,85,No,Moderate,No Disease,0,0
+40,Female,27.8,137,249,115,60,No,Low,No Disease,2,1
+56,Male,16.7,149,209,76,90,Yes,High,No Disease,0,0
+62,Female,19.6,146,211,131,71,No,Low,Disease,0,1
+32,Female,16.0,131,203,65,62,No,Moderate,No Disease,1,0
+60,Male,25.1,138,224,108,80,No,Low,No Disease,0,0
+46,Male,24.8,146,188,128,68,No,Low,No Disease,0,2
+53,Female,23.9,135,238,74,72,No,Moderate,No Disease,0,1
+30,Male,20.5,118,150,97,68,No,Low,No Disease,1,0
+49,Male,19.9,128,206,82,64,No,Moderate,No Disease,0,0
+24,Male,27.7,123,143,92,79,No,High,No Disease,1,0
+76,Male,22.9,146,227,132,70,No,Low,No Disease,0,1
+68,Female,27.0,160,227,122,58,Yes,High,Disease,2,1
+39,Female,21.3,108,241,65,77,No,Low,No Disease,1,0
+45,Female,26.4,113,156,85,60,No,Low,No Disease,1,0
+19,Male,31.8,119,174,130,60,No,Low,No Disease,1,2
+59,Male,28.3,138,241,127,84,No,High,No Disease,2,2
+62,Male,23.5,135,222,145,61,No,Low,No Disease,2,1
+79,Male,26.7,167,235,159,50,No,High,Disease,2,1
+74,Male,24.3,142,193,107,79,Yes,High,No Disease,0,1
+70,Female,25.5,145,203,170,70,No,Moderate,No Disease,2,1
+23,Male,23.9,132,220,91,69,Yes,Moderate,No Disease,1,0
+45,Female,24.7,150,199,81,69,No,Moderate,No Disease,0,1
+45,Male,26.5,151,215,93,74,No,Moderate,No Disease,0,2
+61,Male,20.7,137,203,65,65,No,Low,No Disease,0,0
+61,Male,20.6,158,171,138,87,No,Moderate,No Disease,0,1
+37,Female,18.8,109,214,127,57,No,Moderate,No Disease,1,0
+47,Female,17.8,118,207,74,77,No,Moderate,No Disease,0,0
+79,Female,19.7,121,288,106,80,No,Low,No Disease,0,1
+28,Male,26.3,139,160,100,64,Yes,Low,No Disease,1,0
+75,Male,21.2,139,243,88,63,No,High,No Disease,0,1
+72,Female,28.0,147,187,84,83,No,Low,No Disease,0,1
+45,Male,25.7,116,207,100,62,No,Moderate,No Disease,1,0
+42,Female,16.1,136,215,87,66,No,Low,No Disease,0,0
+56,Male,28.6,132,153,108,81,No,High,No Disease,1,1
+79,Male,29.4,136,227,134,74,No,High,Disease,2,1
+50,Male,20.7,139,182,129,54,No,Low,No Disease,0,0
+18,Male,27.5,90,164,90,89,No,Low,No Disease,1,0
+74,Female,21.4,139,229,112,68,No,Moderate,No Disease,0,1
+44,Male,26.0,99,236,121,68,Yes,Low,No Disease,1,1
+79,Male,19.4,134,214,123,76,No,Moderate,Disease,0,1
+74,Male,16.9,153,217,95,79,No,Moderate,No Disease,0,1
+69,Male,23.7,119,221,112,92,Yes,Low,No Disease,0,0
+30,Female,24.9,97,190,108,55,No,Moderate,No Disease,1,0
+58,Female,23.6,138,176,80,81,No,Moderate,No Disease,0,0
+20,Female,19.8,102,208,112,79,No,Moderate,No Disease,1,0
+56,Female,23.6,165,216,136,71,Yes,Low,No Disease,2,1
+23,Male,26.8,138,199,81,79,Yes,Moderate,No Disease,1,0
+25,Female,25.3,102,163,99,81,Yes,Moderate,No Disease,1,0
+44,Male,26.4,136,189,120,58,No,Moderate,No Disease,1,0
+26,Male,22.3,125,178,75,89,No,Low,No Disease,1,0
+79,Female,31.1,146,190,144,58,Yes,Low,Disease,2,1
+54,Male,19.9,115,150,103,61,No,High,No Disease,1,0
+50,Female,27.8,132,191,80,70,No,High,No Disease,1,0
+68,Male,31.2,144,243,139,92,Yes,Moderate,Disease,2,1
+59,Female,27.8,133,196,92,69,No,Low,No Disease,0,1
+61,Female,24.5,147,182,129,72,Yes,Moderate,No Disease,0,1
+41,Female,23.0,115,171,81,86,Yes,High,No Disease,1,0
+32,Female,30.5,103,186,107,69,No,Moderate,No Disease,1,0
+76,Female,18.7,154,204,139,61,No,Low,Disease,0,1
+71,Male,20.8,154,279,118,69,No,Moderate,No Disease,0,1
+49,Male,23.6,115,234,77,86,No,High,No Disease,0,0
+49,Male,31.4,145,245,98,73,No,Low,Disease,2,1
+41,Female,27.3,101,237,94,91,No,Moderate,No Disease,1,0
+58,Male,20.9,130,175,110,80,No,Moderate,No Disease,0,0
+69,Female,24.0,143,181,119,66,No,Moderate,No Disease,0,1
+66,Male,22.6,136,180,88,73,No,Moderate,No Disease,0,0
+79,Male,22.1,146,262,85,65,No,Moderate,No Disease,0,1
+66,Female,30.2,171,208,131,66,No,Low,Disease,2,1
+75,Male,18.9,139,177,105,118,No,Low,No Disease,0,0
+69,Male,33.2,180,219,182,83,No,Moderate,Disease,2,1
+29,Male,29.5,123,189,108,80,No,Low,No Disease,1,2
+79,Female,30.7,156,243,172,67,Yes,Moderate,Disease,2,1
+56,Female,23.3,144,214,78,88,No,Moderate,No Disease,0,1
+19,Male,24.8,145,157,65,82,No,Low,No Disease,1,0
+20,Male,18.6,96,193,65,90,Yes,Moderate,No Disease,1,0
+66,Male,23.0,129,195,133,91,No,Moderate,No Disease,0,1
+54,Female,27.9,125,208,153,58,No,Low,No Disease,2,1
+66,Female,31.7,145,248,112,62,No,Moderate,Disease,2,1
+73,Male,20.2,126,196,98,63,No,High,No Disease,0,1
+34,Male,23.7,121,174,69,62,No,Moderate,No Disease,1,0
+76,Male,24.8,176,242,76,76,No,Moderate,Disease,0,1
+66,Female,18.8,147,182,121,67,Yes,Low,No Disease,0,1
+19,Female,28.3,105,175,104,92,No,Low,No Disease,1,0
+19,Male,22.0,101,194,84,90,No,Low,No Disease,1,0
+45,Male,24.6,141,262,71,72,No,Moderate,No Disease,0,1
+71,Male,23.3,137,236,146,92,No,Moderate,No Disease,2,1
+40,Female,21.7,151,207,82,87,No,Low,No Disease,0,0
+54,Male,25.5,163,225,120,68,No,Moderate,Disease,2,1
+49,Female,24.5,135,171,71,52,No,Low,No Disease,1,0
+50,Female,23.7,132,207,98,70,Yes,Low,No Disease,0,1
+18,Male,22.0,123,176,90,65,Yes,Moderate,No Disease,1,0
+36,Male,27.0,137,207,111,74,No,Low,No Disease,1,2
+79,Male,33.4,143,243,142,74,Yes,Moderate,Disease,2,1
+19,Female,26.2,102,195,105,72,No,Low,No Disease,1,0
+70,Female,30.3,129,219,102,78,No,Moderate,No Disease,2,1
+61,Female,18.8,146,206,107,61,No,High,No Disease,0,1
+43,Female,26.3,137,165,108,76,No,High,No Disease,1,0
+49,Male,20.2,113,187,102,68,No,High,No Disease,1,0
+23,Female,18.4,106,217,87,73,No,High,No Disease,1,0
+49,Female,22.0,113,209,69,82,Yes,Moderate,No Disease,1,0
+72,Male,31.2,136,230,101,61,No,Moderate,No Disease,2,1
+21,Female,30.1,118,248,65,69,Yes,Moderate,No Disease,1,0
+72,Female,26.7,139,183,137,72,Yes,Moderate,No Disease,2,1
+28,Female,18.1,112,145,106,66,No,Moderate,No Disease,1,0
+73,Female,24.6,127,273,133,82,No,Low,Disease,2,1
+76,Female,26.9,155,229,128,66,Yes,High,Disease,2,1
+34,Female,26.3,120,188,65,66,No,Moderate,No Disease,1,0
+80,Male,16.6,145,179,88,66,No,High,No Disease,0,1
+55,Male,21.2,134,216,103,83,Yes,Low,No Disease,0,0
+41,Female,25.2,128,215,104,67,No,Low,Disease,1,2
+22,Male,28.1,100,156,95,76,No,Low,No Disease,1,0
+69,Male,16.0,126,202,114,93,No,Moderate,No Disease,0,0
+51,Male,24.7,159,195,105,72,No,Low,No Disease,0,0
+23,Male,26.2,103,194,99,83,Yes,Moderate,No Disease,1,0
+39,Female,29.6,123,170,97,89,Yes,Low,No Disease,1,0
+28,Female,28.8,130,232,126,82,Yes,Low,No Disease,2,2
+80,Male,28.3,180,260,117,73,No,Moderate,Disease,2,1
+65,Male,21.7,126,200,75,79,Yes,High,No Disease,0,0
+33,Male,16.3,126,173,73,59,No,Low,No Disease,1,0
+50,Female,23.6,123,199,94,64,Yes,Moderate,No Disease,1,0
+26,Female,30.3,107,172,129,66,No,Low,No Disease,1,0
+77,Male,32.2,143,223,134,96,Yes,Low,No Disease,2,1
+76,Female,28.9,136,222,122,65,No,Moderate,No Disease,2,1
+23,Female,27.6,112,237,72,63,No,Moderate,No Disease,1,0
+33,Female,27.3,99,224,120,61,No,High,No Disease,1,0
+46,Female,22.8,143,227,83,78,No,Moderate,No Disease,0,1
+20,Male,24.9,111,193,89,73,Yes,High,No Disease,1,0
+37,Female,33.5,129,174,153,83,No,Low,No Disease,2,0
+77,Male,21.0,146,218,121,80,No,Low,Disease,0,1
+76,Female,33.3,147,266,102,59,No,Low,Disease,2,1
+53,Female,24.0,139,168,65,64,Yes,Moderate,No Disease,0,0
+36,Female,31.9,106,224,115,86,Yes,Low,No Disease,1,2
+43,Female,18.7,122,260,68,70,No,Low,Disease,0,0
+20,Male,28.3,98,219,114,83,No,Moderate,No Disease,1,2
+80,Female,22.0,143,265,112,72,No,Low,No Disease,0,1
+36,Female,18.7,92,192,95,62,No,Low,No Disease,1,0
+37,Female,26.5,142,227,87,69,No,Low,No Disease,0,0
+49,Male,30.3,122,191,156,63,No,Low,Disease,2,1
+24,Male,21.4,129,204,148,66,No,Moderate,No Disease,1,0
+69,Male,18.3,162,229,100,75,No,Moderate,No Disease,0,1
+58,Female,25.1,120,220,117,78,No,Low,No Disease,0,2
+50,Female,25.1,117,245,107,56,No,Low,No Disease,1,1
+57,Male,28.1,174,199,110,72,No,High,Disease,2,1
+56,Male,30.1,162,212,102,67,No,Moderate,Disease,2,1
+35,Female,25.2,121,197,75,65,Yes,Moderate,No Disease,1,0
+57,Female,34.4,141,193,107,74,No,Moderate,No Disease,2,1
+18,Female,26.6,100,190,104,66,No,Low,No Disease,1,0
+28,Female,23.8,122,135,81,85,No,High,No Disease,1,0
+45,Male,17.8,119,222,65,84,Yes,Moderate,No Disease,0,0
+74,Male,24.2,122,223,124,85,No,Low,No Disease,0,1
+42,Female,23.9,108,182,98,67,Yes,Moderate,No Disease,1,0
+67,Female,30.1,146,200,155,63,No,Low,Disease,2,1
+40,Female,27.7,109,195,115,73,No,Low,No Disease,1,2
+48,Female,19.8,130,216,65,71,Yes,High,No Disease,0,0
+47,Female,26.3,115,221,65,66,Yes,High,No Disease,1,0
+59,Male,28.7,128,196,102,61,No,Low,No Disease,1,1
+52,Male,32.8,146,193,112,72,Yes,Moderate,No Disease,2,1
+24,Male,29.8,116,212,126,67,No,Moderate,Disease,1,0
+77,Male,29.2,153,210,127,80,No,Low,Disease,2,1
+33,Female,25.8,132,195,124,78,No,Moderate,No Disease,1,1
+43,Female,27.4,134,207,79,83,No,Moderate,No Disease,1,0
+65,Male,31.5,164,235,149,60,Yes,Moderate,Disease,2,1
+74,Male,19.1,144,240,124,77,No,Moderate,Disease,0,1
+69,Female,23.8,141,180,66,66,No,Moderate,No Disease,0,0
+77,Male,21.8,135,163,139,61,No,High,No Disease,0,1
+66,Female,27.3,138,203,120,68,No,Low,No Disease,2,1
+19,Female,31.4,123,245,116,82,No,High,No Disease,1,2
+18,Female,22.6,127,238,66,68,Yes,Low,No Disease,1,0
+65,Male,16.0,157,258,132,88,No,Low,Disease,0,1
+79,Male,23.5,129,219,88,79,No,Low,Disease,0,0
+29,Female,29.9,132,143,126,68,No,Moderate,No Disease,1,2
+22,Female,28.1,90,120,118,83,Yes,Low,No Disease,1,0
+54,Male,27.6,148,193,92,77,No,High,No Disease,0,2
+49,Female,24.2,127,197,146,63,Yes,Moderate,No Disease,2,1
+76,Male,19.4,162,255,114,92,No,Low,No Disease,0,1
+72,Female,28.0,130,252,137,76,No,Moderate,No Disease,2,1
+26,Male,21.5,131,189,65,72,No,High,No Disease,1,0
+58,Female,36.0,118,201,183,64,Yes,Moderate,No Disease,2,1
+52,Male,28.2,125,182,87,84,No,Low,No Disease,1,2
+36,Male,22.7,108,199,115,77,Yes,High,No Disease,1,0
+65,Male,22.6,119,234,84,79,No,Moderate,No Disease,0,1
+33,Male,25.1,121,204,84,67,Yes,Moderate,No Disease,1,0
+20,Female,24.4,135,151,107,80,No,Low,No Disease,1,0
+37,Female,30.9,160,224,137,81,No,Moderate,Disease,2,2
+41,Male,26.4,127,213,76,65,No,High,No Disease,1,2
+71,Male,22.0,164,184,131,59,Yes,Low,Disease,0,1
+73,Female,34.6,153,213,162,79,No,Low,Disease,2,1
+50,Female,25.7,139,227,86,57,No,High,No Disease,0,0
+41,Female,29.2,121,198,147,74,No,Low,No Disease,2,2
+69,Male,22.6,149,263,75,68,Yes,High,Disease,0,1
+28,Male,27.2,124,207,87,84,No,Low,No Disease,1,2
+66,Female,27.0,136,205,128,69,No,Moderate,Disease,2,1
+25,Male,16.4,113,173,67,83,No,Low,No Disease,1,0
+53,Female,35.2,134,224,138,67,No,High,Disease,2,1
+55,Male,31.7,148,197,129,82,No,Moderate,No Disease,2,2
+57,Female,23.6,123,181,101,93,No,High,No Disease,0,0
+37,Male,20.2,122,209,110,61,Yes,Moderate,No Disease,1,0
+79,Female,27.2,180,255,119,76,No,Low,Disease,2,1
+52,Male,25.9,150,226,113,100,No,Low,Disease,2,1
+65,Female,27.2,163,265,142,73,Yes,Moderate,Disease,2,1
+79,Male,26.4,155,213,139,74,No,Moderate,Disease,2,1
+42,Female,27.9,131,254,126,80,No,High,No Disease,2,2
+52,Female,32.4,148,191,99,73,Yes,Moderate,No Disease,2,2
+42,Female,28.2,148,173,121,55,Yes,Moderate,No Disease,1,0
+46,Female,20.5,102,142,76,84,No,High,No Disease,1,0
+35,Female,32.0,103,191,88,52,Yes,Low,No Disease,1,0
+63,Female,33.4,161,212,130,69,Yes,High,Disease,2,1
+35,Male,40.6,117,233,117,84,No,Moderate,No Disease,2,2
+19,Female,20.1,100,182,101,68,No,Moderate,No Disease,1,0
+71,Male,26.7,131,188,137,66,No,Low,No Disease,2,1
+52,Male,16.0,126,181,65,81,No,Low,No Disease,0,0
+33,Male,28.2,100,186,87,63,No,Low,No Disease,1,0
+78,Male,22.9,180,170,80,61,No,High,Disease,0,0
+58,Female,34.7,138,196,123,75,No,High,No Disease,2,1
+53,Female,21.8,134,179,109,71,Yes,Low,No Disease,0,1
+50,Female,17.4,141,237,92,60,Yes,High,Disease,0,0
+21,Male,23.2,124,186,74,78,No,Moderate,No Disease,1,0
+50,Male,16.0,146,211,126,77,No,High,No Disease,0,1
+31,Male,29.1,133,152,65,68,Yes,Low,No Disease,1,0
+38,Male,16.0,115,218,119,69,Yes,Moderate,No Disease,1,0
+65,Male,25.6,140,256,101,77,No,Moderate,Disease,0,1
+37,Male,16.0,134,122,90,84,Yes,Low,No Disease,1,0
+73,Male,24.0,142,200,101,70,No,Moderate,No Disease,0,1
+25,Female,33.4,114,214,149,78,Yes,Moderate,Disease,2,2
+24,Female,27.2,119,208,72,77,Yes,Low,No Disease,1,0
+20,Female,21.4,121,157,84,80,No,Low,No Disease,1,0
+34,Female,25.4,96,184,110,72,No,High,No Disease,1,0
+50,Female,25.6,143,188,71,63,No,Low,No Disease,0,0
+65,Male,27.8,140,224,99,68,No,Low,No Disease,0,1
+29,Female,18.9,127,216,85,75,No,Moderate,No Disease,1,0
+76,Female,28.3,163,206,105,91,No,Moderate,Disease,2,1
+68,Male,16.0,169,235,88,68,No,Moderate,Disease,0,1
+39,Male,22.5,143,170,86,80,No,Moderate,No Disease,1,0
+72,Female,23.2,168,193,125,70,Yes,Low,Disease,0,1
+39,Male,28.5,144,227,101,73,No,Moderate,No Disease,2,2
+63,Female,25.6,146,243,136,88,No,Moderate,Disease,2,1
+47,Female,18.8,131,219,74,80,Yes,High,No Disease,0,0
+55,Male,20.8,148,163,72,60,Yes,Moderate,No Disease,0,0
+55,Male,26.5,146,197,153,67,No,Low,Disease,2,1
+62,Male,25.1,137,239,96,85,No,Moderate,No Disease,0,0
+68,Male,22.7,152,216,79,74,Yes,Low,Disease,0,1
+71,Male,23.2,148,186,72,61,Yes,Moderate,No Disease,0,1
+25,Female,28.8,102,206,127,63,No,Low,No Disease,1,0
+44,Male,23.0,146,176,90,79,No,Low,No Disease,0,0
+44,Male,25.1,129,254,97,82,Yes,Moderate,No Disease,0,0
+51,Male,35.9,162,268,129,73,No,Moderate,Disease,2,1
+38,Female,18.7,101,205,114,97,Yes,Moderate,No Disease,1,0
+47,Male,16.6,122,231,92,80,No,Moderate,No Disease,0,0
+50,Male,29.3,133,213,167,70,No,Moderate,No Disease,2,2
+45,Female,22.2,145,220,99,64,No,Moderate,No Disease,0,1
+64,Female,24.0,149,258,132,63,No,Moderate,Disease,2,1
+50,Male,21.8,137,208,115,76,Yes,Low,No Disease,0,0
+22,Female,24.3,96,175,90,67,No,Moderate,No Disease,1,0
+77,Male,33.2,137,186,125,90,Yes,Moderate,No Disease,2,1
+78,Male,29.4,158,230,136,88,No,Moderate,Disease,2,1
+65,Male,29.6,125,248,134,79,No,Moderate,Disease,2,1
+36,Male,18.7,115,213,79,60,No,Moderate,No Disease,1,0
+21,Female,20.0,118,191,88,65,No,High,No Disease,1,0
+52,Male,16.0,120,177,126,85,Yes,Moderate,No Disease,0,0
+66,Male,21.6,167,153,150,67,No,Moderate,No Disease,0,1
+34,Female,30.1,138,186,129,83,Yes,Moderate,Disease,2,0
+61,Female,28.0,119,209,158,77,No,Low,No Disease,2,2
+45,Male,24.4,116,191,87,73,Yes,Moderate,No Disease,1,0
+47,Female,25.4,98,222,120,65,Yes,Moderate,No Disease,1,0
+46,Male,22.2,119,257,126,71,Yes,Low,No Disease,0,1
+63,Female,26.5,153,221,95,75,No,Moderate,No Disease,0,1
+70,Female,29.2,142,220,114,83,Yes,Moderate,Disease,2,1
+23,Female,17.7,119,166,124,63,No,High,No Disease,1,0
+52,Male,26.9,113,213,89,70,Yes,High,No Disease,1,0
+77,Male,30.0,164,208,100,74,Yes,Low,Disease,2,1
+58,Male,23.5,131,212,138,79,No,Moderate,No Disease,2,1
+54,Male,28.9,136,227,143,63,No,Low,Disease,2,1
+41,Male,39.0,124,226,145,59,Yes,Low,Disease,2,2
+46,Female,25.0,112,216,102,79,Yes,Moderate,No Disease,1,0
+66,Male,27.4,128,234,109,58,No,Low,No Disease,2,1
+63,Male,22.0,156,157,110,86,No,Low,Disease,0,0
+70,Female,26.4,153,241,152,71,No,High,Disease,2,1
+48,Male,27.7,146,187,116,57,Yes,High,Disease,2,0
+52,Female,26.4,139,176,157,68,No,Moderate,Disease,2,1
+77,Male,20.6,155,186,90,77,Yes,High,No Disease,0,1
+50,Male,26.5,108,220,108,67,No,Moderate,No Disease,1,0
+69,Male,32.5,143,224,124,73,No,Low,Disease,2,1
+80,Male,27.7,155,181,101,81,No,Moderate,No Disease,0,1
+78,Female,30.1,180,248,127,71,No,Moderate,Disease,2,1
+38,Male,24.4,133,152,107,63,No,Low,No Disease,1,0
+49,Female,29.1,153,215,126,69,Yes,High,Disease,2,1
+40,Male,26.8,133,207,153,86,Yes,Moderate,No Disease,2,2
+50,Male,20.9,123,225,108,89,No,Low,No Disease,0,0
+20,Female,27.0,112,239,122,51,No,Low,No Disease,1,0
+35,Male,20.7,125,146,92,83,Yes,Low,No Disease,1,0
+42,Female,22.5,113,194,132,75,No,High,No Disease,1,0
+59,Female,26.4,134,206,165,82,No,Moderate,Disease,2,1
+48,Female,26.9,128,219,121,67,No,Moderate,No Disease,2,0
+71,Female,19.8,171,219,85,55,No,Moderate,No Disease,0,1
+75,Male,30.6,122,222,118,79,No,Moderate,No Disease,2,1
+20,Male,28.2,127,174,106,62,Yes,Moderate,No Disease,1,0
+57,Male,22.1,125,172,111,59,No,Moderate,No Disease,1,0
+63,Female,18.1,123,234,119,60,No,High,Disease,0,0
+41,Female,24.8,142,212,111,78,Yes,High,No Disease,0,0
+67,Male,23.4,155,243,109,74,No,High,No Disease,0,1
+49,Female,26.0,149,196,93,80,No,Moderate,Disease,0,1
+64,Male,23.8,154,194,117,79,No,High,No Disease,0,1
+39,Female,16.0,153,151,133,68,Yes,Moderate,No Disease,0,0
+40,Male,23.6,133,206,119,71,Yes,High,No Disease,1,0
+19,Female,24.0,107,149,100,66,No,High,No Disease,1,0
+80,Female,28.5,160,288,150,71,No,High,Disease,2,1
+44,Male,22.1,145,157,87,62,No,High,No Disease,1,0
+59,Male,33.6,128,233,119,76,No,Moderate,No Disease,2,2
+19,Male,16.3,100,216,67,82,No,Low,No Disease,1,0
+43,Male,31.8,123,228,116,64,No,Low,No Disease,2,2
+34,Male,24.4,91,197,87,85,No,Moderate,No Disease,1,2
+57,Female,29.6,140,188,146,74,Yes,Low,No Disease,2,2
+50,Female,25.9,106,165,97,75,No,Moderate,No Disease,1,0
+26,Female,31.0,115,219,92,55,No,Moderate,No Disease,1,0
+60,Male,23.6,152,256,149,55,Yes,Moderate,Disease,2,1
+71,Female,20.2,142,200,97,74,No,High,No Disease,0,1
+65,Female,32.3,167,193,133,81,No,Moderate,Disease,2,1
+56,Male,25.0,117,136,118,66,No,Moderate,No Disease,1,0
+46,Female,26.6,146,175,82,89,No,Moderate,Disease,0,0
+59,Female,31.4,149,218,152,80,Yes,High,Disease,2,1
+72,Male,20.5,125,263,121,64,No,Low,No Disease,0,1
+43,Male,28.4,165,225,145,72,Yes,Low,Disease,2,1
+52,Male,22.7,133,212,85,97,Yes,High,No Disease,0,0
+67,Male,24.9,133,206,115,60,No,Moderate,No Disease,0,0
+42,Female,25.8,107,183,104,77,No,Moderate,No Disease,1,0
+41,Female,18.3,123,230,99,69,No,Moderate,No Disease,0,0
+30,Female,21.8,116,191,65,79,No,Moderate,No Disease,1,0
+77,Male,32.0,154,173,137,86,No,Moderate,No Disease,2,1
+75,Male,29.8,147,211,97,69,No,Low,No Disease,2,1
+24,Female,25.2,122,160,102,83,No,Moderate,No Disease,1,0
+74,Female,26.7,145,209,73,95,Yes,Moderate,Disease,0,1
+53,Male,24.1,108,223,65,73,Yes,Moderate,No Disease,1,0
+62,Male,32.0,139,221,146,81,No,Moderate,No Disease,2,1
+37,Female,24.5,90,192,86,66,No,High,No Disease,1,0
+18,Male,26.6,113,223,73,72,Yes,Moderate,No Disease,1,0
+25,Male,31.0,100,174,137,70,Yes,High,No Disease,1,2
+63,Female,21.8,145,266,111,81,Yes,Moderate,No Disease,0,1
+33,Male,33.0,138,184,137,84,No,Moderate,No Disease,2,2
+31,Male,18.2,105,183,85,71,Yes,Low,No Disease,1,0
+29,Male,33.3,132,193,175,87,Yes,Low,No Disease,2,2
+68,Male,23.7,140,220,97,88,No,Moderate,No Disease,0,0
+40,Female,24.3,150,210,137,80,No,Moderate,No Disease,2,1
+32,Male,16.4,114,192,88,67,No,Moderate,No Disease,1,0
+45,Male,23.3,117,176,65,66,No,Moderate,No Disease,1,0
+51,Female,20.5,143,165,109,64,Yes,High,No Disease,0,0
+19,Female,22.6,103,253,92,81,No,High,No Disease,1,0
+49,Female,24.8,120,189,81,60,No,Low,No Disease,1,0
+40,Male,30.1,118,226,93,79,No,Moderate,No Disease,1,2
+80,Male,26.5,154,182,122,62,No,Moderate,Disease,0,1
+39,Female,27.0,143,191,113,80,No,Low,No Disease,1,2
+68,Female,20.2,119,207,65,73,Yes,Low,No Disease,0,0
+42,Male,21.3,127,208,117,85,No,High,No Disease,0,0
+75,Male,34.1,160,156,128,84,Yes,High,Disease,2,1
+80,Male,22.0,158,228,82,88,No,Moderate,No Disease,0,1
+79,Female,33.4,173,205,160,88,No,Moderate,Disease,2,1
+78,Female,24.3,152,235,115,75,No,Moderate,Disease,0,1
+39,Male,25.5,122,166,128,60,No,Moderate,No Disease,1,0
+75,Male,30.6,160,206,140,63,No,Moderate,No Disease,2,1
+75,Female,31.6,153,225,133,52,No,Moderate,No Disease,2,1
+39,Female,25.0,119,165,97,61,No,Low,No Disease,1,0
+66,Male,23.6,152,201,119,73,No,High,Disease,0,1
+69,Female,25.2,138,184,105,67,No,Moderate,No Disease,0,1
+59,Female,27.1,131,160,96,71,No,Moderate,No Disease,1,1
+23,Male,29.8,105,222,118,76,No,High,No Disease,1,2
+32,Female,25.5,138,153,95,69,No,Low,No Disease,1,0
+71,Male,28.5,103,221,124,62,No,Low,No Disease,2,1
+60,Female,33.4,146,248,154,72,No,High,Disease,2,1
+77,Female,27.3,153,210,120,64,No,High,Disease,2,1
+54,Female,27.0,112,186,112,70,No,Moderate,No Disease,1,0
+50,Female,18.2,137,202,84,86,No,Low,No Disease,0,0
+25,Male,16.0,120,206,96,69,Yes,Moderate,No Disease,1,0
+70,Female,27.4,156,189,128,91,No,Low,Disease,2,1
+77,Female,25.0,116,221,137,87,No,Moderate,No Disease,2,1
+61,Male,23.0,160,158,92,67,Yes,Low,No Disease,0,1
+61,Female,26.7,130,204,104,62,No,High,No Disease,0,0
+22,Female,25.2,121,185,110,71,No,Moderate,No Disease,1,0
+56,Male,30.9,147,193,128,84,No,High,No Disease,2,2
+21,Female,25.9,98,171,74,67,No,Low,No Disease,1,0
+23,Female,21.9,121,138,114,81,No,Moderate,No Disease,1,0
+62,Male,30.3,136,224,86,85,No,High,No Disease,2,0
+49,Female,24.5,103,235,121,65,Yes,Low,No Disease,1,0
+69,Male,28.0,163,191,93,66,No,Moderate,No Disease,0,1
+47,Male,23.2,119,181,141,79,No,Moderate,No Disease,1,2
+64,Male,22.4,131,227,71,74,No,Moderate,No Disease,0,1
+52,Female,25.9,128,244,133,65,No,Low,No Disease,2,1
+72,Female,25.6,153,178,115,69,Yes,Moderate,Disease,0,1
+57,Male,27.8,137,209,107,72,No,Moderate,No Disease,2,2
+69,Male,24.2,154,227,116,57,No,Moderate,Disease,0,1
+33,Female,16.7,101,177,104,79,Yes,Low,No Disease,1,0
+30,Male,23.4,107,120,72,67,No,Moderate,No Disease,1,0
+67,Female,29.3,144,239,105,50,No,Moderate,Disease,2,1
+77,Female,24.1,179,269,129,73,No,Low,Disease,2,1
+59,Male,24.3,138,214,70,65,No,Moderate,No Disease,0,1
+47,Female,30.2,145,180,104,89,Yes,High,No Disease,2,0
+36,Male,22.1,123,175,158,66,No,Low,No Disease,1,1
+34,Female,18.1,114,236,69,61,Yes,Moderate,No Disease,1,0
+73,Female,24.7,146,249,140,78,No,Moderate,No Disease,2,1
+80,Female,23.2,153,244,101,67,No,Low,Disease,0,1
+36,Male,20.9,130,199,102,64,No,Low,No Disease,1,0
+45,Female,24.7,148,181,116,77,No,Moderate,No Disease,0,1
+75,Male,27.9,156,222,148,63,Yes,Moderate,Disease,2,1
+72,Male,25.5,166,220,112,58,No,Low,Disease,0,1
+43,Male,27.0,114,219,151,89,No,High,No Disease,2,2
+54,Female,34.2,130,267,117,78,No,Moderate,Disease,2,1
+43,Female,23.9,117,232,104,69,Yes,Low,No Disease,1,0
+70,Female,26.8,152,180,124,73,No,Moderate,No Disease,2,1
+79,Female,23.1,149,231,89,78,No,High,No Disease,0,1
+40,Male,21.4,135,214,87,82,No,Low,No Disease,0,0
+80,Female,22.7,142,243,116,66,No,Moderate,Disease,0,1
+26,Male,23.2,115,165,80,75,No,Moderate,No Disease,1,0
+29,Female,27.2,126,280,155,67,No,Low,No Disease,2,1
+70,Female,36.8,119,199,125,71,No,Low,No Disease,2,1
+18,Female,22.1,138,144,109,73,Yes,Low,No Disease,1,0
+75,Female,23.5,147,229,131,73,No,Low,Disease,2,1
+75,Male,25.2,123,288,116,80,No,Low,No Disease,2,1
+18,Male,27.4,111,160,78,76,No,High,No Disease,1,0
+64,Female,26.8,143,210,99,58,Yes,High,No Disease,0,0
+51,Male,31.7,132,248,111,59,Yes,Low,No Disease,2,0
+49,Male,16.0,146,190,65,69,No,Moderate,No Disease,0,0
+79,Male,16.0,165,203,88,91,Yes,Low,Disease,0,0
+71,Female,23.1,152,235,77,64,Yes,Low,No Disease,0,1
+65,Male,30.8,150,233,156,71,No,Low,Disease,2,1
+42,Male,18.0,125,219,108,67,No,Moderate,No Disease,0,0
+57,Female,16.0,163,235,118,67,No,High,No Disease,0,1
+62,Female,28.2,121,228,131,74,No,Moderate,No Disease,2,1
+70,Male,26.7,149,231,122,87,No,Moderate,No Disease,2,1
+18,Male,20.3,109,180,115,76,No,Low,No Disease,1,0
+33,Male,20.8,131,201,76,64,No,Low,No Disease,1,0
+78,Male,20.8,142,221,112,101,No,High,No Disease,0,0
+56,Male,26.0,113,211,127,73,No,Low,No Disease,2,1
+80,Female,22.5,157,260,83,67,Yes,High,No Disease,0,1
+22,Female,27.9,115,234,168,86,No,Low,No Disease,2,2
+39,Female,16.0,145,138,93,67,No,Moderate,No Disease,0,0
+46,Male,21.4,112,197,99,89,No,High,No Disease,1,0
+72,Female,20.1,165,193,135,64,No,Low,No Disease,0,1
+20,Male,24.3,143,172,110,86,No,Moderate,No Disease,1,0
+29,Female,22.9,111,198,91,74,No,Moderate,No Disease,1,0
+43,Female,29.3,109,226,115,85,No,Low,No Disease,1,0
+33,Male,16.6,114,176,65,91,No,Moderate,No Disease,1,0
+68,Female,25.7,146,162,103,62,No,Low,No Disease,0,1
+54,Male,28.2,143,184,126,85,No,Low,Disease,2,2
+39,Female,34.4,116,238,133,58,No,Low,Disease,2,2
+74,Male,23.2,172,138,138,63,No,High,Disease,0,1
+46,Male,27.1,114,241,106,64,No,Low,No Disease,1,1
+31,Female,16.8,94,194,65,77,Yes,Low,No Disease,1,0
+45,Male,16.0,144,227,118,72,No,Moderate,No Disease,0,1
+22,Female,29.6,90,185,135,70,Yes,Low,No Disease,1,0
+64,Male,25.5,140,154,132,74,No,Moderate,No Disease,0,1
+66,Female,31.2,180,239,124,79,No,Low,Disease,2,1
+47,Female,18.9,130,232,119,79,No,Moderate,No Disease,0,0
+63,Male,28.0,127,247,194,84,No,Moderate,No Disease,2,1
+79,Male,34.5,153,221,144,91,No,Moderate,Disease,2,1
+69,Male,27.5,146,226,91,73,No,Low,Disease,0,1
+22,Male,26.8,114,171,84,66,No,Moderate,No Disease,1,0
+29,Male,25.5,126,165,111,78,No,Moderate,No Disease,1,2
+33,Female,18.0,105,210,65,60,Yes,Low,No Disease,1,0
+43,Female,32.0,151,174,123,65,Yes,Low,Disease,2,2
+43,Female,22.6,131,169,104,82,No,Low,No Disease,1,2
+65,Female,27.9,154,187,153,72,Yes,Moderate,Disease,2,1
+38,Female,18.0,115,141,121,60,No,High,No Disease,1,0
+56,Female,19.8,155,206,119,58,Yes,Low,No Disease,0,1
+53,Male,32.4,131,253,77,73,No,Low,Disease,2,1
+50,Female,23.8,136,198,122,84,No,Low,No Disease,0,2
+79,Female,32.5,141,193,152,84,No,Low,Disease,2,1
+47,Female,25.1,116,228,110,73,Yes,Moderate,Disease,1,0
+54,Male,16.7,145,246,65,93,Yes,High,No Disease,0,0
+40,Male,29.8,119,185,95,71,No,Low,No Disease,1,0
+75,Male,22.7,139,206,85,72,Yes,Moderate,Disease,0,1
+27,Female,28.9,106,209,65,50,No,Moderate,No Disease,1,0
+71,Female,25.6,158,270,116,68,No,High,Disease,2,1
+22,Male,18.1,103,158,67,80,Yes,Moderate,No Disease,1,0
+53,Female,26.3,133,169,167,88,No,Low,No Disease,2,2
+51,Male,36.0,133,241,129,64,No,High,No Disease,2,2
+69,Male,27.9,120,248,149,77,No,Low,No Disease,2,1
+48,Male,25.2,110,204,70,83,No,Moderate,No Disease,1,0
+27,Female,30.7,120,180,97,72,No,High,No Disease,1,0
+75,Female,26.5,141,256,122,50,No,Low,No Disease,2,1
+36,Male,26.5,137,213,82,74,No,Moderate,No Disease,1,0
+75,Female,20.3,165,194,99,81,Yes,High,Disease,0,1
+49,Male,26.6,142,208,104,63,No,High,Disease,0,0
+18,Female,30.5,134,149,99,69,No,Moderate,No Disease,1,0
+73,Female,21.5,149,238,149,61,No,Low,Disease,2,1
+22,Female,32.3,121,187,119,50,No,Moderate,No Disease,1,0
+62,Male,25.1,133,201,121,83,No,Moderate,No Disease,0,1
+21,Female,21.2,145,177,96,71,No,Moderate,No Disease,1,0
+33,Female,30.3,148,201,124,88,No,High,No Disease,2,2
+41,Male,24.1,126,224,97,81,No,Low,No Disease,1,0
+33,Female,29.1,125,216,101,68,No,Low,No Disease,1,0
+72,Male,24.1,168,215,116,72,No,Moderate,Disease,0,1
+19,Female,25.2,107,205,117,77,No,High,No Disease,1,0
+66,Male,27.9,135,233,144,82,Yes,Moderate,No Disease,2,1
+45,Female,26.9,141,191,102,75,No,High,No Disease,0,0
+49,Female,16.0,133,187,114,83,Yes,High,No Disease,0,0
+44,Male,20.1,131,189,91,69,Yes,High,No Disease,1,0
+37,Male,30.0,111,218,112,62,No,High,No Disease,1,2
+41,Male,24.9,102,187,90,71,No,High,No Disease,1,0
+29,Male,23.0,120,175,87,74,No,High,No Disease,1,0
+67,Male,19.0,158,268,135,61,No,Moderate,Disease,0,1
+52,Female,20.3,131,228,100,59,No,Low,No Disease,0,1
+77,Male,16.0,173,189,113,78,No,Low,Disease,0,1
+50,Male,25.0,123,222,73,68,No,Low,No Disease,1,0
+50,Female,22.6,118,205,92,71,No,Low,No Disease,1,2
+78,Male,20.9,153,232,105,70,No,Low,Disease,0,1
+68,Female,25.2,145,223,95,88,No,High,Disease,0,1
+60,Female,27.2,151,251,115,85,Yes,Moderate,No Disease,2,1
+54,Female,35.5,125,234,124,60,Yes,Low,No Disease,2,2
+29,Female,18.2,136,177,90,66,No,Moderate,No Disease,1,0
+20,Female,31.1,138,223,109,80,No,Moderate,No Disease,1,2
+18,Male,30.2,108,196,83,77,No,Low,No Disease,1,0
+50,Male,21.8,150,204,89,72,Yes,High,No Disease,0,0
+57,Male,26.5,123,222,114,61,No,Low,No Disease,2,1
+27,Female,23.3,130,182,116,65,No,Moderate,No Disease,1,0
+60,Male,26.4,155,215,119,67,No,Low,Disease,2,0
+61,Female,32.7,153,207,115,75,No,Moderate,Disease,2,1
+46,Female,28.4,129,185,120,89,Yes,High,No Disease,2,0
+30,Female,27.9,90,164,141,65,No,Low,No Disease,1,0
+29,Female,23.4,108,145,112,61,Yes,High,No Disease,1,0
+48,Male,18.4,122,167,109,71,No,Low,No Disease,1,0
+63,Female,24.5,129,209,126,83,Yes,Moderate,No Disease,0,1
+19,Female,31.3,111,194,138,57,No,High,No Disease,1,0
+78,Male,18.2,148,208,134,88,No,High,No Disease,0,0
+68,Male,20.4,134,141,118,71,No,Low,No Disease,0,0
+67,Female,26.1,130,267,139,65,No,Low,Disease,2,1
+52,Female,20.8,124,233,75,56,Yes,Moderate,No Disease,0,0
+40,Female,21.7,141,206,65,79,No,Low,No Disease,0,0
+34,Female,23.5,111,248,98,70,No,Moderate,No Disease,1,0
+43,Female,18.9,120,161,96,74,No,Moderate,No Disease,1,0
+25,Male,20.8,107,237,74,63,No,Moderate,No Disease,1,0
+46,Male,28.9,134,179,131,69,No,Low,No Disease,2,2
+43,Male,19.2,134,198,65,67,No,Moderate,No Disease,0,0
+27,Male,17.8,90,139,75,71,No,High,No Disease,1,0
+43,Female,22.5,142,196,85,65,No,Moderate,No Disease,0,1
+79,Female,29.0,174,244,92,58,No,Moderate,Disease,2,1
+51,Female,24.6,119,201,137,100,No,Low,No Disease,2,1
+68,Male,23.3,132,237,79,59,Yes,Low,No Disease,0,1
+58,Female,25.7,132,215,97,74,No,Low,No Disease,0,1
+24,Female,17.1,102,158,106,54,No,Moderate,No Disease,1,0
+21,Female,27.9,114,171,113,51,Yes,Low,No Disease,1,0
+75,Female,27.3,124,252,98,74,Yes,Moderate,No Disease,2,1
+70,Male,23.5,132,198,125,75,No,Moderate,No Disease,0,0
+67,Male,30.3,167,253,132,85,Yes,Moderate,Disease,2,1
+62,Male,20.1,129,243,154,77,Yes,Low,No Disease,2,1
+28,Male,30.9,133,147,119,70,No,Moderate,No Disease,1,2
+46,Male,26.2,134,238,103,63,No,Moderate,No Disease,0,1
+73,Female,23.9,124,282,94,88,Yes,Low,Disease,0,1
+53,Female,25.4,144,215,91,82,No,Low,No Disease,0,1
+42,Female,25.0,125,217,83,60,No,Moderate,No Disease,1,0
+38,Female,31.4,117,237,146,72,No,Moderate,No Disease,2,2
+78,Male,20.3,157,211,110,75,No,Low,Disease,0,1
+74,Female,21.8,157,224,121,70,No,Low,Disease,0,1
+53,Male,30.5,145,176,153,80,Yes,Low,No Disease,2,1
+27,Male,22.6,132,188,65,80,No,High,No Disease,1,0
+54,Male,29.8,141,230,147,71,Yes,Moderate,Disease,2,1
+26,Male,33.7,95,216,117,69,Yes,Moderate,No Disease,1,2
+41,Male,23.6,119,228,107,87,No,High,No Disease,1,0
+52,Male,28.8,175,189,97,82,Yes,Moderate,Disease,0,1
+66,Male,20.0,155,194,88,74,No,Moderate,No Disease,0,1
+52,Female,29.1,167,270,127,56,No,Low,No Disease,2,1
+65,Male,26.5,163,214,168,76,No,Moderate,Disease,2,1
+53,Male,27.8,138,217,135,79,Yes,Low,Disease,2,1
+35,Male,22.4,125,188,120,50,No,Moderate,No Disease,1,0
+66,Female,17.5,144,181,100,75,No,Low,No Disease,0,1
+56,Male,27.9,113,263,102,68,No,Low,No Disease,2,1
+49,Male,16.0,132,175,80,70,No,Low,No Disease,0,0
+41,Male,24.0,143,163,88,63,Yes,Moderate,No Disease,1,0
+40,Male,30.0,117,191,68,71,Yes,High,No Disease,1,0
+79,Male,26.4,160,169,106,87,No,Moderate,Disease,0,1
+49,Male,34.9,144,200,117,68,Yes,High,Disease,2,1
+54,Male,30.4,123,187,116,82,No,Moderate,No Disease,2,2
+29,Male,22.4,110,204,92,64,No,Moderate,No Disease,1,0
+66,Male,25.6,130,198,122,80,No,Low,No Disease,0,2
+72,Female,25.3,137,249,115,73,No,High,Disease,2,1
+30,Female,17.9,99,221,76,75,No,Low,No Disease,1,0
+40,Male,21.0,112,215,65,72,No,Moderate,No Disease,1,0
+42,Male,22.8,146,189,83,78,No,Moderate,No Disease,0,0
+52,Female,16.0,121,197,77,50,No,Moderate,No Disease,0,0
+58,Male,25.7,140,166,121,58,No,Low,Disease,0,0
+47,Male,24.3,123,198,122,76,No,Moderate,No Disease,1,0
+34,Female,17.5,137,156,111,51,No,High,No Disease,1,0
+66,Male,27.4,163,241,135,67,No,High,No Disease,2,1
+79,Male,28.9,166,310,125,73,Yes,High,Disease,2,1
+37,Male,26.6,127,213,92,64,Yes,Low,No Disease,1,0
+65,Female,23.9,141,155,93,66,Yes,Moderate,No Disease,0,1
+42,Male,28.3,110,193,76,75,Yes,Low,No Disease,1,0
+39,Female,28.8,151,206,131,82,No,High,Disease,2,2
+30,Female,27.0,107,196,97,62,Yes,Low,No Disease,1,0
+76,Male,21.5,161,197,82,67,No,Moderate,Disease,0,1
+36,Male,26.8,137,205,85,65,No,High,No Disease,1,2
+66,Male,31.2,137,189,109,50,Yes,Moderate,No Disease,2,0
+53,Male,22.6,149,175,101,74,Yes,Moderate,No Disease,0,1
+29,Male,35.6,127,225,146,81,No,Low,No Disease,2,2
+78,Female,23.0,178,193,105,83,No,Moderate,No Disease,0,1
+58,Female,25.7,132,228,65,64,No,High,No Disease,0,0
+36,Female,22.3,104,149,88,59,No,Moderate,No Disease,1,0
+29,Male,26.6,110,245,96,72,No,Low,No Disease,1,2
+26,Female,17.1,117,152,82,80,No,Low,No Disease,1,0
+24,Female,22.9,114,176,74,73,Yes,Low,No Disease,1,0
+45,Female,20.3,123,204,100,75,No,Moderate,No Disease,0,0
+31,Male,26.1,92,175,101,83,No,Low,No Disease,1,0
+48,Female,30.3,138,216,117,65,No,Moderate,No Disease,2,1
+69,Male,28.6,174,242,132,71,No,Moderate,Disease,2,1
+36,Male,16.0,128,210,82,88,No,Moderate,No Disease,0,0
+75,Male,35.3,160,263,131,71,Yes,Low,Disease,2,1
+64,Female,26.9,151,213,146,60,No,Moderate,Disease,2,1
+33,Female,21.8,125,183,102,65,No,Moderate,No Disease,1,0
+70,Male,26.3,161,292,135,64,No,Moderate,Disease,2,1
+22,Male,26.3,117,214,123,75,Yes,High,No Disease,1,0
+52,Male,22.3,130,175,111,63,No,Low,No Disease,1,0
+29,Male,26.5,106,194,120,74,No,Moderate,No Disease,1,2
+42,Male,22.6,123,185,65,65,No,Low,No Disease,1,0
+69,Male,23.6,151,213,115,52,No,Moderate,No Disease,0,1
+76,Female,22.2,148,183,106,76,No,Moderate,Disease,0,1
+38,Male,18.6,128,174,129,73,Yes,Low,No Disease,1,0
+53,Male,26.2,141,263,130,78,Yes,Moderate,No Disease,2,0
+70,Male,28.3,159,242,108,66,No,Moderate,Disease,2,1
+40,Female,28.0,143,127,116,64,No,Moderate,No Disease,1,0
+33,Female,29.4,121,235,112,76,Yes,Low,No Disease,1,2
+74,Female,27.1,132,259,131,88,No,Low,Disease,2,1
+56,Male,22.9,132,196,80,73,No,Moderate,No Disease,0,0
+62,Female,29.5,142,242,130,77,Yes,Low,Disease,2,1
+70,Male,19.0,122,185,101,70,No,Moderate,No Disease,0,0
+59,Female,21.2,159,192,108,57,No,Low,No Disease,0,1
+75,Female,20.9,153,263,93,83,Yes,Low,No Disease,0,1
+56,Female,30.7,142,210,109,82,No,High,Disease,2,1
+31,Female,30.0,137,142,135,79,No,Moderate,No Disease,1,2
+48,Female,27.8,122,206,88,70,Yes,Moderate,No Disease,1,0
+75,Male,30.6,159,230,109,79,No,High,Disease,2,1
+22,Female,21.3,110,214,84,80,Yes,Moderate,No Disease,1,0
+52,Male,27.2,131,210,94,89,Yes,Moderate,No Disease,0,0
+40,Female,24.9,114,185,81,82,Yes,High,No Disease,1,0
+46,Male,29.6,153,240,117,73,Yes,Moderate,Disease,2,1
+60,Male,24.9,135,216,76,60,Yes,Moderate,No Disease,0,1
+28,Male,23.7,126,164,70,73,No,Moderate,No Disease,1,0
+35,Male,28.1,95,233,151,74,No,High,No Disease,1,2
+64,Male,29.7,160,228,133,80,Yes,Low,Disease,2,1
+29,Female,22.3,131,185,72,85,Yes,Low,No Disease,1,0
+26,Male,25.2,116,193,104,71,No,Low,No Disease,1,0
+27,Male,20.4,112,149,100,93,No,Low,No Disease,1,0
+75,Female,16.0,157,194,131,55,No,Low,No Disease,0,1
+61,Male,26.5,173,216,111,77,Yes,High,Disease,0,1
+34,Female,28.4,96,192,128,64,No,Moderate,No Disease,1,0
+78,Female,26.8,164,267,77,54,No,Low,Disease,0,1
+55,Female,16.1,123,202,77,70,Yes,Moderate,No Disease,0,0
+24,Female,23.8,113,209,94,57,No,Moderate,No Disease,1,0
+63,Male,16.0,139,202,111,71,No,Moderate,No Disease,0,1
+30,Female,32.1,112,232,94,72,Yes,Moderate,No Disease,1,0
+57,Male,20.3,138,215,106,84,No,High,No Disease,0,0
+59,Male,31.5,123,222,112,57,No,Low,No Disease,2,2
+26,Female,30.0,129,194,101,81,No,Low,No Disease,1,0
+67,Male,21.2,120,183,128,74,No,Low,No Disease,0,0
+44,Female,20.1,136,208,115,82,No,Moderate,No Disease,0,0
+75,Female,27.2,147,226,100,69,No,Moderate,No Disease,0,1
+19,Female,21.4,93,161,65,58,No,Low,No Disease,1,0
+22,Female,26.0,114,219,86,59,No,Low,No Disease,1,0
+46,Male,23.2,108,162,98,59,Yes,Moderate,No Disease,1,0
+54,Male,17.0,136,183,85,77,No,Moderate,No Disease,0,0
+55,Female,16.0,116,226,123,87,No,Moderate,No Disease,0,0
+36,Male,26.6,128,206,110,66,No,High,No Disease,1,0
+25,Female,22.8,101,182,97,78,No,High,No Disease,1,0
+65,Female,22.8,137,220,78,58,No,Low,No Disease,0,0
+62,Female,28.8,146,225,146,74,Yes,Moderate,Disease,2,1
+18,Male,31.1,98,145,65,78,No,Low,No Disease,1,0
+39,Male,24.2,123,185,116,57,No,Moderate,No Disease,1,0
+69,Male,23.9,126,266,131,71,No,Moderate,No Disease,2,1
+34,Male,27.9,129,178,96,79,No,Low,No Disease,1,2
+80,Female,19.0,180,209,139,50,No,Moderate,Disease,0,1
+24,Male,26.6,152,172,96,85,No,High,No Disease,1,0
+42,Male,28.1,128,201,111,76,No,Low,No Disease,1,2
+62,Male,28.8,153,202,127,80,Yes,Low,Disease,2,1
+21,Female,16.2,90,185,155,67,Yes,Low,No Disease,1,0
+53,Female,21.8,156,208,128,55,No,Moderate,No Disease,0,1
+23,Male,21.3,123,202,101,77,No,Moderate,No Disease,1,0
+77,Male,26.0,146,195,100,72,No,Moderate,No Disease,0,1
+48,Male,27.8,148,197,114,73,Yes,Moderate,No Disease,2,1
+36,Male,32.7,118,199,100,83,No,Moderate,No Disease,1,2
+78,Female,23.1,147,237,131,81,Yes,Moderate,No Disease,0,1
+61,Female,23.1,147,187,108,92,No,Moderate,Disease,0,1
+71,Male,31.0,133,257,105,74,No,Moderate,No Disease,2,1
+56,Male,26.9,151,248,114,66,Yes,High,Disease,2,1
+44,Female,31.6,113,181,100,70,Yes,Low,No Disease,1,0
+27,Male,26.9,101,176,103,76,Yes,Low,No Disease,1,0
+43,Female,19.9,115,176,75,82,Yes,Low,No Disease,1,0
+36,Male,19.1,133,265,92,57,No,High,No Disease,0,0
+56,Male,18.1,128,186,117,73,Yes,Moderate,No Disease,0,0
+79,Male,28.7,135,283,126,89,No,Low,Disease,2,1
+20,Male,31.2,102,154,98,69,No,High,No Disease,1,0
+62,Female,34.4,141,198,138,82,No,High,Disease,2,1
+30,Male,29.5,101,176,123,77,Yes,High,No Disease,1,2
+67,Male,31.1,129,202,104,82,No,Low,No Disease,2,2
+45,Male,22.7,158,190,103,64,No,High,No Disease,0,0
+79,Male,19.9,142,198,140,65,No,Low,No Disease,0,1
+75,Male,29.6,147,206,140,73,No,Low,Disease,2,1
+37,Male,27.5,118,234,107,57,Yes,Moderate,Disease,1,0
+45,Female,26.0,123,239,119,69,Yes,Moderate,No Disease,2,0
+25,Male,27.4,122,218,110,74,No,Low,No Disease,1,2
+78,Male,27.1,167,245,139,91,No,Moderate,Disease,2,1
+80,Female,31.7,151,240,91,77,No,High,Disease,2,1
+58,Male,31.7,121,206,91,79,No,Moderate,No Disease,2,2
+56,Female,28.1,155,186,138,84,No,Moderate,Disease,2,1
+18,Male,29.6,107,199,69,62,No,Low,No Disease,1,0
+20,Female,28.0,134,152,108,70,Yes,High,No Disease,1,0
+30,Female,23.3,90,158,84,96,No,Low,No Disease,1,0
+45,Female,29.1,131,242,91,71,Yes,Moderate,No Disease,2,0
+79,Female,18.8,180,274,118,84,No,Low,No Disease,0,1
+74,Male,30.6,146,243,134,83,No,High,Disease,2,1
+80,Female,19.8,152,253,157,58,No,Low,Disease,2,1
+77,Male,26.9,157,221,108,76,No,Moderate,Disease,0,1
+66,Male,21.4,137,171,136,74,No,Moderate,No Disease,0,0
+42,Male,28.2,122,222,117,75,No,High,No Disease,2,2
+73,Female,25.3,145,240,102,65,No,Low,No Disease,0,1
+50,Male,17.8,124,196,115,61,No,Moderate,No Disease,0,0
+55,Female,27.5,153,205,126,68,No,Low,Disease,2,1
+70,Female,22.7,154,245,109,72,No,High,Disease,0,1
+23,Female,29.7,116,162,110,83,Yes,Moderate,No Disease,1,2
+75,Female,25.5,163,201,104,91,Yes,Moderate,Disease,0,1
+61,Male,27.4,137,187,98,87,Yes,Moderate,No Disease,0,0
+62,Male,20.9,131,210,120,81,No,Low,No Disease,0,1
+49,Male,22.7,123,168,94,62,No,Low,No Disease,1,0
+62,Male,23.3,142,191,104,69,No,Moderate,No Disease,0,0
+78,Male,29.6,139,212,135,75,No,High,Disease,2,1
+64,Male,33.6,136,221,139,66,No,Moderate,No Disease,2,1
+38,Male,21.6,116,146,65,78,Yes,High,No Disease,1,0
+33,Female,30.7,149,203,140,79,Yes,Low,Disease,2,2
+71,Female,16.0,109,245,110,78,No,High,No Disease,0,0
+38,Male,19.8,121,192,88,82,No,Moderate,No Disease,1,0
+28,Female,20.9,140,229,97,63,Yes,Moderate,No Disease,1,0
+77,Male,19.0,154,256,115,82,No,Moderate,No Disease,0,1
+54,Male,17.9,146,221,116,65,No,Moderate,No Disease,0,1
+53,Female,27.5,136,213,124,63,No,Moderate,No Disease,2,0
+52,Male,24.5,125,206,120,78,Yes,Moderate,No Disease,0,1
+36,Male,27.3,91,221,134,84,No,Moderate,No Disease,1,2
+37,Female,28.8,126,189,128,77,No,Low,No Disease,1,2
+74,Female,26.8,140,169,117,73,No,Low,No Disease,0,1
+35,Female,28.7,110,214,83,75,No,Low,No Disease,1,0
+64,Female,25.2,136,182,148,74,No,Moderate,No Disease,2,1
+58,Female,19.8,163,174,96,61,No,Moderate,No Disease,0,0
+66,Male,30.6,178,225,116,60,Yes,Moderate,Disease,2,1
+31,Male,22.7,121,184,65,71,Yes,Moderate,No Disease,1,0
+32,Male,21.0,112,143,97,73,No,Low,No Disease,1,0
+48,Male,24.6,115,208,106,72,No,Moderate,No Disease,1,0
+18,Female,21.1,115,204,65,78,No,Low,No Disease,1,0
+70,Male,23.5,172,184,120,71,No,Moderate,Disease,0,1
+71,Female,27.2,145,262,109,79,Yes,Low,Disease,2,1
+71,Female,27.2,115,177,179,71,Yes,Moderate,Disease,2,1
+20,Female,21.2,119,240,71,90,No,Moderate,No Disease,1,0
+33,Female,23.2,134,177,83,73,No,Moderate,No Disease,1,0
+40,Female,30.7,103,210,96,95,No,Moderate,No Disease,1,0
+74,Male,27.9,153,171,151,77,No,Low,Disease,2,1
+28,Female,35.5,122,202,113,70,No,Low,No Disease,1,0
+29,Male,31.2,116,205,95,63,No,Moderate,No Disease,1,0
+27,Female,31.0,104,194,125,57,No,High,No Disease,1,0
+49,Male,18.8,146,178,67,62,No,Moderate,No Disease,0,0
+33,Female,29.2,114,170,122,63,Yes,Low,Disease,1,0
+25,Female,25.2,93,220,133,75,No,Moderate,No Disease,1,2
+55,Male,22.9,108,207,114,67,No,Moderate,No Disease,1,0
+29,Male,26.3,134,237,113,74,No,Moderate,No Disease,1,2
+41,Female,30.0,134,190,133,85,Yes,High,Disease,2,0
+45,Male,27.9,130,193,148,71,Yes,Moderate,No Disease,2,2
+70,Female,21.3,141,239,133,94,Yes,Low,No Disease,0,0
+25,Female,29.1,106,144,114,60,No,Low,No Disease,1,0
+75,Male,22.4,136,183,130,72,No,Moderate,No Disease,0,0
+45,Male,26.5,123,236,87,67,No,Moderate,No Disease,1,1
+53,Male,24.0,105,171,121,82,No,Low,No Disease,1,0
+43,Female,24.4,117,144,78,50,No,High,No Disease,1,0
+25,Male,29.2,109,249,96,57,No,Low,No Disease,1,0
+75,Male,20.5,160,175,65,72,Yes,Moderate,No Disease,0,1
+77,Male,34.8,152,245,150,89,Yes,Low,Disease,2,1
+67,Female,16.8,156,208,91,75,No,High,Disease,0,1
+45,Female,22.6,148,120,121,59,Yes,Moderate,No Disease,1,0
+45,Female,27.3,144,197,117,60,No,Low,No Disease,2,0
+54,Male,28.3,142,226,140,89,No,High,No Disease,2,2
+58,Female,25.0,139,222,85,66,Yes,Low,Disease,0,1
+53,Female,25.2,121,235,130,63,No,Moderate,No Disease,2,0
+44,Female,27.5,138,193,155,87,No,High,Disease,2,2
+71,Female,24.4,172,241,130,83,Yes,Moderate,Disease,2,1
+80,Male,32.2,160,218,154,86,No,High,Disease,2,1
+34,Male,29.5,147,157,113,62,No,High,No Disease,1,0
+26,Female,29.7,93,155,94,56,No,High,No Disease,1,0
+50,Male,20.9,116,155,114,74,No,Low,No Disease,1,0
+70,Female,25.1,159,250,81,76,No,Low,Disease,0,1
+37,Female,24.1,126,148,88,76,No,Moderate,No Disease,1,0
+30,Male,20.7,136,192,65,86,Yes,Moderate,No Disease,1,0
+45,Female,27.2,129,197,93,55,No,Moderate,No Disease,1,0
+65,Male,22.9,132,210,121,81,No,Low,No Disease,0,1
+46,Male,28.6,127,248,123,61,No,High,Disease,2,2
+30,Female,20.4,96,170,90,80,No,High,No Disease,1,0
+63,Female,33.8,126,246,137,68,Yes,Moderate,Disease,2,2
+52,Male,21.2,148,202,65,64,No,Low,No Disease,0,0
+78,Male,26.6,166,224,113,67,No,Low,Disease,2,1
+23,Female,29.3,117,260,89,57,No,Low,No Disease,1,0
+35,Female,22.8,97,147,78,72,No,Moderate,No Disease,1,0
+68,Female,29.6,141,264,138,65,No,High,Disease,2,1
+22,Male,19.6,94,196,66,79,No,Low,No Disease,1,0
+64,Male,32.5,159,212,117,79,No,Moderate,Disease,2,1
+42,Male,25.6,118,249,65,89,No,Moderate,No Disease,1,0
+19,Female,22.6,94,123,79,75,No,Low,No Disease,1,0
+27,Male,24.1,116,171,68,77,No,Moderate,No Disease,1,0
+73,Male,29.4,141,193,128,87,No,Moderate,Disease,2,1
+47,Female,22.7,151,212,77,66,Yes,High,Disease,0,0
+67,Male,21.9,135,180,107,58,No,Moderate,No Disease,0,0
+76,Female,24.4,132,237,112,75,No,Moderate,No Disease,0,1
+62,Female,19.9,111,201,140,58,No,Low,No Disease,0,1
+22,Female,34.2,111,183,126,96,No,Low,No Disease,1,0
+72,Male,22.8,141,230,69,88,Yes,Low,No Disease,0,0
+73,Male,29.5,130,221,99,95,Yes,Moderate,Disease,2,0
+50,Female,26.5,149,175,110,73,No,Low,Disease,0,2
+71,Female,20.8,158,298,86,78,No,Low,Disease,0,1
+18,Female,25.5,108,167,65,67,Yes,Moderate,No Disease,1,0
+35,Male,29.3,140,134,139,81,No,Moderate,Disease,1,2
+49,Female,24.6,141,178,119,60,No,Low,No Disease,0,0
+64,Female,31.2,131,187,138,50,No,Low,Disease,2,1
+66,Female,30.4,130,250,112,65,Yes,Moderate,No Disease,2,1
+28,Female,29.9,127,205,117,57,Yes,Low,No Disease,1,0
+38,Female,23.3,129,205,80,87,No,Moderate,No Disease,1,0
+43,Female,20.3,130,182,99,90,Yes,Moderate,No Disease,0,0
+80,Male,22.6,143,216,92,59,No,Low,Disease,0,1
+42,Male,26.4,135,190,138,85,Yes,Low,No Disease,2,2
+39,Male,28.1,114,199,73,81,No,Low,No Disease,1,2
+76,Male,16.0,151,236,136,57,No,Low,Disease,0,1
+44,Male,25.5,148,211,104,68,No,High,No Disease,0,0
+66,Male,26.3,135,234,105,67,Yes,Moderate,No Disease,0,1
+30,Male,24.2,95,204,98,79,No,Moderate,No Disease,1,2
+50,Male,31.7,118,242,138,60,No,Moderate,No Disease,2,0
+51,Female,27.5,147,218,142,71,Yes,Low,Disease,2,2
+58,Female,31.8,142,232,132,66,No,Low,Disease,2,1
+52,Male,24.5,132,241,85,77,No,High,No Disease,0,0
+80,Female,30.0,148,215,132,71,No,High,No Disease,2,1
+18,Female,33.3,115,168,151,66,Yes,Moderate,No Disease,1,0
+38,Male,31.8,112,171,146,70,Yes,Moderate,No Disease,1,2
+65,Male,20.3,148,215,124,93,Yes,Moderate,Disease,0,0
+72,Male,24.3,139,165,131,69,No,Low,Disease,0,0
+23,Female,23.8,100,197,105,61,No,Low,No Disease,1,0
+45,Female,27.8,120,202,135,78,No,Low,Disease,2,2
+34,Male,28.8,115,233,97,70,No,Moderate,No Disease,1,0
+22,Male,21.5,111,159,65,57,Yes,Low,No Disease,1,0
+48,Male,25.8,134,199,108,95,No,Moderate,No Disease,0,1
+22,Male,16.0,90,204,67,68,Yes,Moderate,No Disease,1,0
+55,Male,32.4,125,261,103,69,Yes,Moderate,Disease,2,1
+20,Male,23.0,105,159,71,73,Yes,Low,No Disease,1,0
+70,Female,25.8,169,227,171,90,Yes,Moderate,Disease,2,1
+40,Female,24.0,110,205,101,55,No,Moderate,No Disease,1,0
+54,Male,31.0,138,228,130,75,No,Low,No Disease,2,1
+70,Female,16.0,168,199,80,94,Yes,Low,No Disease,0,0
+54,Male,25.4,117,247,67,74,No,Moderate,No Disease,0,1
+27,Male,25.0,121,131,77,59,No,Low,No Disease,1,0
+27,Male,23.3,104,173,122,65,Yes,High,No Disease,1,0
+36,Female,33.8,115,221,128,74,Yes,Moderate,No Disease,2,2
+34,Female,21.2,109,201,103,85,No,Low,No Disease,1,0
+38,Female,29.2,113,243,126,69,No,Moderate,No Disease,2,2
+31,Male,27.2,156,230,89,80,No,Moderate,No Disease,0,2
+26,Female,31.6,126,188,141,57,No,Low,No Disease,1,1
+63,Male,22.3,158,250,90,58,No,Low,Disease,0,1
+18,Female,22.0,115,155,114,67,No,Moderate,No Disease,1,0
+68,Male,30.8,124,255,137,87,No,Low,Disease,2,1
+62,Male,27.5,147,272,77,73,No,Low,No Disease,0,1
+30,Female,18.1,133,216,72,75,No,Low,No Disease,1,0
+21,Female,22.9,99,183,65,74,No,Low,No Disease,1,0
+79,Male,27.4,168,220,150,84,Yes,Moderate,Disease,2,1
+18,Female,29.5,118,142,101,65,No,High,No Disease,1,0
+66,Male,22.2,170,222,65,80,No,Moderate,No Disease,0,1
+57,Female,16.0,132,163,109,64,No,Moderate,No Disease,0,0
+49,Female,28.0,116,185,100,92,Yes,High,No Disease,1,0
+51,Female,19.6,128,162,65,64,No,Low,No Disease,1,0
+45,Female,16.0,149,174,132,63,No,Low,No Disease,0,1
+48,Female,16.0,105,189,99,78,No,Moderate,No Disease,1,0
+25,Male,29.4,90,201,98,72,No,Moderate,No Disease,1,2
+56,Female,26.1,138,193,102,76,No,Moderate,No Disease,0,1
+43,Male,24.4,121,231,67,74,No,Low,No Disease,1,0
+75,Male,32.2,151,228,106,62,No,Low,Disease,2,1
+51,Male,28.6,146,188,143,88,No,Moderate,No Disease,2,2
+71,Male,33.3,141,240,125,82,Yes,High,Disease,2,1
+71,Female,18.8,122,270,107,87,Yes,Moderate,No Disease,0,1
+20,Male,25.3,139,193,65,66,No,Low,No Disease,1,0
+76,Female,17.7,138,203,80,77,No,Moderate,No Disease,0,0
+67,Male,24.4,130,171,125,75,No,Low,No Disease,0,0
+29,Male,24.3,132,182,102,83,No,Low,No Disease,1,2
+18,Male,28.5,103,193,138,83,No,Low,No Disease,1,0
+71,Male,25.7,147,210,146,75,Yes,Moderate,No Disease,2,1
+61,Male,28.5,148,169,114,57,No,High,No Disease,2,1
+22,Female,28.9,127,164,113,89,No,Moderate,No Disease,1,0
+47,Male,35.8,126,263,124,78,Yes,Low,Disease,2,2
+47,Female,24.0,152,244,146,66,No,Low,No Disease,2,1
+76,Male,21.0,122,192,134,77,Yes,Low,Disease,0,1
+74,Male,26.7,161,246,124,58,No,High,Disease,2,1
+34,Female,21.6,109,153,95,82,No,Moderate,No Disease,1,0
+65,Male,32.6,163,270,163,58,No,Low,Disease,2,1
+80,Male,24.1,157,234,129,71,Yes,Moderate,Disease,2,1
+64,Male,22.8,134,241,140,75,No,Moderate,No Disease,2,1
+40,Male,23.2,134,143,65,82,No,High,No Disease,1,0
+32,Female,28.9,132,218,117,73,No,High,No Disease,1,2
+54,Male,24.7,144,207,95,79,No,Low,Disease,0,0
+38,Female,22.4,109,218,132,72,No,Moderate,No Disease,1,2
+31,Female,33.5,111,231,152,71,No,Moderate,No Disease,2,2
+19,Male,21.4,109,178,84,72,No,Low,No Disease,1,0
+28,Female,25.7,115,172,131,70,No,Moderate,No Disease,1,0
+68,Male,28.6,156,247,161,56,No,Moderate,Disease,2,1
+56,Female,17.7,109,197,102,65,No,Low,No Disease,1,0
+55,Male,27.8,141,187,169,75,No,Moderate,No Disease,2,1
+77,Female,20.4,149,191,109,71,Yes,Moderate,No Disease,0,1
+51,Male,29.4,122,168,112,71,No,Low,No Disease,1,2
+55,Male,20.9,126,187,119,69,Yes,Low,No Disease,0,0
+67,Female,28.8,142,257,114,64,No,Moderate,No Disease,2,1
+51,Female,30.8,90,220,122,67,Yes,Low,No Disease,1,0
+35,Male,29.6,111,185,141,69,No,High,No Disease,1,2
+47,Male,26.7,118,229,108,72,No,Low,No Disease,1,1
+32,Female,24.4,126,166,65,76,No,Low,No Disease,1,0
+44,Female,22.7,117,200,105,70,Yes,Low,No Disease,1,0
+68,Female,32.6,143,225,117,63,No,Moderate,No Disease,2,1
+80,Female,22.1,177,247,130,59,No,Moderate,Disease,0,1
+51,Female,20.5,147,152,113,98,No,Moderate,No Disease,0,0
+69,Female,28.7,159,199,155,62,No,Low,Disease,2,1
+74,Male,21.7,144,169,128,68,No,High,Disease,0,1
+55,Male,20.9,144,195,124,78,Yes,Low,No Disease,0,0
+50,Female,18.6,129,232,83,76,No,Low,No Disease,0,0
+41,Female,23.2,123,180,114,77,No,Low,No Disease,1,2
+32,Male,25.1,125,176,140,67,No,Low,No Disease,1,1
+77,Male,26.7,144,254,106,75,Yes,Moderate,Disease,2,1
+47,Female,30.1,151,242,156,73,No,Low,Disease,2,1
+72,Male,28.0,147,223,110,70,Yes,Low,Disease,2,1
+59,Male,24.6,148,232,89,75,No,High,Disease,0,1
+68,Male,24.5,166,185,118,83,Yes,Low,No Disease,0,0
+34,Male,27.9,135,239,121,72,No,Moderate,No Disease,2,2
+22,Male,31.6,92,258,129,71,Yes,Moderate,No Disease,1,2
+46,Male,26.1,136,219,85,83,No,Low,Disease,0,2
+21,Male,23.2,123,120,97,81,No,Moderate,No Disease,1,0
+27,Female,20.7,128,165,72,87,No,Moderate,No Disease,1,0
+73,Male,18.6,134,231,75,55,No,Low,No Disease,0,1
+34,Female,28.7,111,186,87,81,No,High,No Disease,1,0
+27,Female,28.3,129,231,86,78,Yes,Moderate,No Disease,1,0
+34,Male,28.3,110,216,118,63,Yes,High,No Disease,1,0
+77,Female,24.9,149,204,142,76,No,High,Disease,2,1
+37,Male,32.3,145,207,85,82,No,Low,Disease,1,2
+41,Female,23.2,125,169,104,64,No,Low,No Disease,1,0
+22,Male,30.1,101,186,79,76,Yes,Low,No Disease,1,0
+51,Female,25.3,121,190,120,81,No,High,No Disease,1,0
+23,Female,22.6,117,216,73,61,No,High,No Disease,1,0
+70,Male,28.3,129,288,99,71,No,Moderate,No Disease,2,1
+19,Male,27.5,106,143,115,74,No,Low,No Disease,1,0
+30,Female,27.2,122,136,89,64,No,Low,No Disease,1,0
+79,Female,25.9,172,221,113,64,No,High,Disease,0,1
+60,Male,25.3,149,167,65,71,Yes,High,No Disease,0,0
+60,Female,37.0,130,232,160,81,No,Low,Disease,2,1
+65,Male,31.2,160,248,145,79,No,Low,Disease,2,1
+28,Female,29.0,112,239,105,63,Yes,Low,No Disease,1,0
+68,Male,26.0,129,226,82,79,Yes,Low,No Disease,0,0
+64,Female,30.3,141,218,151,64,Yes,High,No Disease,2,1
+74,Male,28.0,171,168,109,57,No,Moderate,No Disease,0,1
+40,Male,25.6,127,199,92,68,Yes,Moderate,No Disease,1,0
+72,Male,24.0,149,222,163,84,No,Moderate,Disease,2,1
+33,Male,25.1,143,212,82,78,No,Low,No Disease,1,0
+48,Male,16.0,111,169,113,72,No,Low,No Disease,1,0
+28,Male,26.5,98,178,111,67,No,Moderate,No Disease,1,0
+71,Female,23.2,126,174,119,69,No,Moderate,No Disease,0,1
+33,Male,33.1,125,136,124,73,Yes,Moderate,No Disease,1,2
+25,Male,25.6,116,154,104,61,No,Low,No Disease,1,0
+21,Male,19.8,132,128,90,68,No,Low,No Disease,1,0
+57,Male,25.3,141,221,108,70,No,Low,No Disease,0,0
+21,Male,20.5,105,161,118,58,No,Moderate,No Disease,1,0
+73,Male,27.8,150,210,93,65,Yes,Moderate,No Disease,0,1
+42,Male,26.9,128,172,129,76,No,Moderate,No Disease,1,2
+20,Male,30.1,90,120,122,71,Yes,High,No Disease,1,0
+49,Female,21.7,170,245,112,69,Yes,Moderate,No Disease,0,1
+20,Female,25.7,117,154,118,62,No,Moderate,No Disease,1,0
+44,Male,18.9,131,179,93,88,No,Low,No Disease,0,0
+46,Male,28.9,138,164,72,64,No,High,No Disease,1,0
+49,Female,28.0,142,238,110,75,No,Moderate,Disease,2,1
+67,Male,27.9,143,226,98,68,No,Low,No Disease,0,1
+78,Female,25.5,145,202,103,74,No,Moderate,Disease,0,1
+75,Male,27.5,160,216,95,78,No,Moderate,Disease,0,1
+68,Female,33.2,151,281,123,59,No,High,Disease,2,1
+36,Female,24.1,111,191,83,72,Yes,High,No Disease,1,0
+38,Female,26.2,143,192,65,84,Yes,Moderate,No Disease,1,0
+22,Female,20.3,116,149,100,89,No,Moderate,No Disease,1,0
+35,Male,21.3,131,131,140,71,No,Low,No Disease,1,0
+45,Male,26.0,148,198,119,73,No,Moderate,Disease,2,2
+59,Female,30.8,140,230,119,95,No,Moderate,Disease,2,1
+78,Female,24.3,158,258,115,84,Yes,Moderate,No Disease,0,1
+39,Male,24.4,136,128,89,66,Yes,Moderate,No Disease,1,0
+38,Male,23.5,113,160,98,66,Yes,High,No Disease,1,0
+23,Male,22.9,113,164,87,81,No,Low,No Disease,1,0
+18,Male,26.9,110,184,77,61,No,Low,No Disease,1,0
+22,Female,18.3,98,170,122,82,No,Moderate,No Disease,1,0
+58,Male,31.6,171,217,92,76,No,High,No Disease,2,1
+29,Male,22.3,97,197,105,77,No,High,No Disease,1,0
+43,Male,29.0,109,179,110,70,No,Moderate,No Disease,1,0
+63,Male,19.4,161,234,145,66,No,High,Disease,0,1
+51,Male,28.7,143,224,122,87,No,Moderate,Disease,2,2
+66,Female,28.7,130,213,114,70,No,Low,No Disease,2,1
+31,Female,27.3,127,242,97,68,No,Moderate,No Disease,1,0
+43,Female,20.7,148,240,95,71,No,Low,No Disease,0,0
+62,Male,26.7,141,245,90,75,No,Low,No Disease,0,1
+44,Female,19.8,164,120,78,62,No,Moderate,No Disease,0,0
+26,Female,24.3,90,233,65,66,No,Low,No Disease,1,0
+43,Female,30.4,137,232,95,66,No,Low,No Disease,2,0
+74,Male,29.3,167,290,129,81,Yes,Low,Disease,2,1
+64,Male,25.6,155,254,119,64,No,Low,Disease,2,1
+74,Male,20.8,148,264,65,55,No,Low,No Disease,0,1
+39,Male,28.6,120,229,106,52,Yes,Moderate,No Disease,1,0
+64,Male,25.6,149,257,125,58,No,Moderate,No Disease,2,1
+73,Male,16.0,161,269,104,87,No,High,No Disease,0,1
+47,Male,29.3,139,216,100,72,No,High,No Disease,2,2
+60,Female,25.4,155,166,101,78,No,Moderate,No Disease,0,1
+80,Male,31.3,141,228,122,79,No,Moderate,Disease,2,1
+65,Male,20.2,141,221,90,73,No,Low,No Disease,0,0
+78,Female,16.0,140,215,114,72,Yes,Low,No Disease,0,1
+34,Female,26.8,115,158,153,82,No,Moderate,No Disease,1,2
+43,Female,26.9,141,154,90,74,No,Moderate,No Disease,1,1
+53,Female,17.4,136,174,92,86,No,High,No Disease,0,0
+18,Female,20.8,145,199,82,78,Yes,Moderate,No Disease,1,0
+25,Female,38.7,116,254,113,65,No,Low,Disease,2,2
+66,Male,24.0,145,243,134,68,No,High,No Disease,2,1
+52,Male,29.0,135,244,65,65,No,Moderate,No Disease,0,1
+78,Male,22.4,145,220,99,85,No,High,Disease,0,0
+69,Male,16.0,146,153,124,69,No,Moderate,No Disease,0,0
+32,Male,24.7,135,177,90,64,Yes,Low,No Disease,1,0
+64,Female,24.2,145,207,91,76,No,Low,Disease,0,1
+80,Female,23.6,144,210,125,72,No,Low,Disease,0,1
+73,Female,24.9,137,224,135,76,Yes,Low,Disease,2,1
+39,Male,26.8,118,213,109,91,No,Low,No Disease,1,0
+31,Female,24.8,119,216,78,81,No,Moderate,No Disease,1,0
+43,Female,19.4,144,183,104,72,No,High,No Disease,0,0
+45,Male,27.8,110,148,101,58,No,High,No Disease,1,0
+40,Female,16.1,121,170,109,67,Yes,Moderate,No Disease,1,0
+31,Male,16.0,120,179,122,79,No,Low,No Disease,1,0
+41,Male,29.0,100,241,65,60,No,Low,No Disease,1,0
+19,Female,27.9,98,169,101,93,No,Moderate,No Disease,1,0
+62,Male,25.2,132,230,73,73,No,Low,No Disease,0,1
+43,Male,18.8,116,199,148,73,Yes,High,No Disease,1,0
+31,Female,22.1,121,188,79,65,Yes,High,No Disease,1,0
+76,Female,24.2,150,251,131,78,No,Moderate,Disease,2,1
+73,Male,17.8,142,192,107,61,No,Moderate,No Disease,0,0
+68,Male,22.0,152,197,88,94,Yes,Low,No Disease,0,0
+24,Male,28.6,137,191,82,85,No,Moderate,No Disease,1,0
+20,Female,32.4,133,174,145,81,No,Low,No Disease,1,0
+64,Male,23.5,116,228,129,59,Yes,Low,No Disease,2,1
+40,Male,29.1,133,182,154,74,Yes,Moderate,No Disease,2,2
+63,Female,16.3,140,208,105,85,No,Moderate,No Disease,0,0
+60,Female,28.7,142,215,125,79,No,Moderate,No Disease,2,1
+64,Male,21.6,137,217,98,63,No,Moderate,No Disease,0,1
+77,Male,27.0,154,214,116,67,No,Moderate,No Disease,2,1
+62,Female,24.3,144,203,86,68,No,Moderate,No Disease,0,1
+35,Male,31.8,113,207,117,66,No,High,No Disease,1,2
+75,Male,21.3,139,224,91,88,Yes,High,No Disease,0,0
+55,Female,28.5,130,214,126,53,No,Moderate,No Disease,2,0
+52,Male,24.2,137,256,108,79,Yes,Moderate,No Disease,0,0
+68,Female,24.7,154,188,119,60,No,Moderate,No Disease,0,1
+32,Male,24.6,131,189,133,62,No,Low,No Disease,1,1
+42,Male,21.4,120,146,93,52,Yes,Low,No Disease,1,0
+72,Male,25.4,153,233,133,67,No,High,Disease,2,1
+54,Male,25.2,149,175,152,88,No,High,No Disease,2,1
+45,Male,26.7,145,195,136,75,No,Moderate,No Disease,2,2
+27,Male,25.9,114,178,122,60,Yes,Moderate,No Disease,1,0
+56,Female,29.3,134,224,112,83,No,Low,Disease,2,2
+74,Female,29.9,153,214,133,85,No,Low,No Disease,2,1
+34,Female,20.5,104,168,65,73,No,Moderate,No Disease,1,0
+56,Female,29.7,134,260,130,93,Yes,Moderate,Disease,2,1
+39,Male,19.8,135,197,99,80,No,High,No Disease,0,0
+43,Female,28.3,136,188,111,79,No,Low,No Disease,1,2
+79,Male,28.5,150,224,149,65,No,Moderate,Disease,2,1
+61,Female,16.3,144,250,76,79,Yes,Moderate,No Disease,0,1
+42,Female,25.9,115,193,140,74,No,High,No Disease,1,0
+34,Female,23.3,130,170,113,77,Yes,High,No Disease,1,0
+30,Female,21.9,116,165,87,65,No,Moderate,No Disease,1,0
+37,Female,32.0,119,189,113,73,No,High,No Disease,1,0
+42,Male,22.4,121,177,105,64,Yes,Moderate,No Disease,1,0
+21,Male,21.6,110,140,118,50,No,Low,No Disease,1,0
+27,Female,25.9,109,155,99,82,Yes,Moderate,No Disease,1,0
+20,Male,28.8,119,163,104,56,No,Low,No Disease,1,0
+58,Female,24.8,133,228,108,74,Yes,Moderate,No Disease,0,1
+62,Female,31.1,164,212,165,76,Yes,High,Disease,2,1
+35,Male,28.0,142,192,98,75,No,Moderate,No Disease,1,0
+64,Female,16.0,131,240,103,70,No,Low,No Disease,0,0
+53,Female,23.0,136,243,134,75,Yes,Low,No Disease,2,1
+64,Female,22.8,134,204,109,77,Yes,Low,No Disease,0,1
+39,Female,27.8,120,182,132,79,Yes,Low,No Disease,1,0
+51,Female,16.0,161,166,78,90,No,Low,No Disease,0,0
+64,Female,37.7,139,255,139,75,No,Moderate,Disease,2,1
+25,Female,28.0,119,185,134,72,No,Moderate,No Disease,1,0
+57,Male,26.2,145,200,96,63,No,Moderate,No Disease,0,0
+66,Male,31.2,130,202,124,77,Yes,Low,No Disease,2,1
+61,Female,36.7,129,208,145,79,No,Low,Disease,2,1
+36,Male,29.7,105,211,89,70,Yes,Low,No Disease,1,0
+59,Female,30.1,127,180,113,78,No,Low,No Disease,2,2
+58,Female,26.1,99,242,114,70,No,Moderate,No Disease,1,2
+54,Male,24.8,143,192,107,79,No,Low,Disease,0,0
+23,Female,23.2,141,178,117,81,Yes,Moderate,No Disease,1,0
+69,Female,21.5,149,174,140,82,Yes,High,No Disease,0,0
+43,Male,22.2,107,195,76,73,No,Moderate,No Disease,1,0
+51,Male,19.0,124,187,100,62,No,Moderate,No Disease,0,0
+76,Male,25.1,146,223,132,67,Yes,Low,No Disease,2,1
+73,Male,17.4,136,255,141,79,Yes,High,No Disease,0,1
+76,Female,26.4,164,232,136,98,No,Low,Disease,2,1
+62,Male,25.3,153,191,118,69,No,Low,Disease,0,0
+23,Female,26.2,96,165,111,76,No,Low,No Disease,1,0
+54,Male,23.0,146,223,117,67,Yes,Low,Disease,0,0
+74,Male,40.3,172,285,134,63,No,Moderate,Disease,2,1
+50,Female,32.0,159,224,127,66,Yes,High,Disease,2,1
+70,Female,19.5,180,232,139,52,No,Moderate,Disease,0,1
+39,Male,26.6,112,217,99,86,Yes,Moderate,No Disease,1,0
+38,Male,22.6,163,235,96,50,Yes,Moderate,No Disease,0,1
+23,Male,20.6,107,120,80,69,Yes,Moderate,No Disease,1,0
+23,Male,19.1,104,196,65,60,No,High,No Disease,1,0
+72,Female,27.6,154,255,122,64,No,Moderate,Disease,2,1
+65,Male,22.2,136,172,111,87,No,Moderate,No Disease,0,0
+21,Male,30.1,116,164,93,73,No,Moderate,Disease,1,0
+47,Male,30.3,112,185,91,63,No,Moderate,No Disease,1,0
+28,Female,32.1,113,177,93,66,No,Low,No Disease,1,0
+79,Female,21.4,172,207,127,66,No,Low,Disease,0,1
+79,Male,27.8,153,238,168,73,No,Moderate,Disease,2,1
+47,Female,28.5,132,234,143,74,Yes,High,Disease,2,1
+48,Male,23.2,138,233,70,91,No,Moderate,No Disease,0,0
+41,Male,21.8,142,168,112,53,Yes,High,Disease,1,0
+72,Female,33.2,126,208,121,73,No,Low,Disease,2,1
+26,Female,26.6,123,229,85,68,No,Moderate,No Disease,1,0
+72,Female,28.6,145,246,114,82,No,Moderate,Disease,2,1
+20,Female,21.6,112,180,100,75,No,High,No Disease,1,0
+68,Male,19.6,161,225,127,79,Yes,Low,Disease,0,1
+48,Female,22.8,114,199,96,76,No,Moderate,No Disease,1,0
+57,Male,24.9,124,226,106,63,No,Low,Disease,0,1
+54,Female,20.4,108,191,110,85,Yes,Moderate,No Disease,1,0
+53,Male,25.5,127,216,120,80,No,High,Disease,2,2
+41,Female,17.4,144,142,119,81,Yes,Low,No Disease,0,0
+48,Male,20.1,129,176,68,85,No,High,No Disease,0,0
+23,Male,28.7,93,170,103,76,No,High,No Disease,1,0
+19,Female,28.4,102,176,76,86,No,Low,No Disease,1,0
+37,Male,23.6,102,165,95,76,Yes,Moderate,No Disease,1,0
+45,Male,20.6,113,179,90,70,Yes,Low,No Disease,1,0
+28,Male,20.6,121,136,87,72,Yes,Low,No Disease,1,0
+21,Male,23.7,94,198,71,71,Yes,Moderate,No Disease,1,0
+32,Male,28.6,135,194,73,67,No,Moderate,No Disease,1,0
+23,Male,30.0,111,141,65,88,No,Moderate,No Disease,1,0
+71,Female,23.1,149,193,107,76,No,Low,Disease,0,1
+66,Male,20.0,141,220,95,74,No,High,No Disease,0,1
+47,Female,26.8,141,189,93,76,Yes,Moderate,No Disease,0,0
+73,Female,21.5,161,196,137,103,No,Low,No Disease,0,1
+55,Male,23.0,141,204,83,61,Yes,Moderate,No Disease,0,1
+68,Female,31.9,154,239,162,64,No,Low,Disease,2,1
+79,Male,29.5,151,190,165,59,Yes,Low,Disease,2,1
+74,Female,26.3,158,241,76,71,No,Moderate,Disease,0,1
+19,Male,19.4,105,149,86,74,Yes,Moderate,No Disease,1,0
+32,Male,26.5,119,193,92,67,No,Low,No Disease,1,0
+28,Female,30.6,112,196,65,66,No,Moderate,No Disease,1,0
+25,Female,23.7,107,168,65,73,No,Low,No Disease,1,0
+43,Female,32.0,118,180,136,67,No,Moderate,No Disease,2,2
+68,Male,31.7,153,220,174,76,No,Low,Disease,2,1
+62,Female,33.5,160,276,152,84,No,Moderate,Disease,2,1
+61,Male,27.0,157,175,122,79,No,Low,Disease,2,1
+22,Male,28.3,94,240,100,80,Yes,Moderate,No Disease,1,2
+23,Male,32.3,130,188,148,82,No,Moderate,No Disease,2,2
+43,Female,27.6,123,205,156,75,No,Low,No Disease,2,2
+71,Male,23.1,157,185,97,71,No,Low,No Disease,0,0
+21,Male,23.3,98,158,65,64,No,Moderate,No Disease,1,0
+36,Female,26.6,124,182,65,68,No,Low,No Disease,1,0
+37,Male,19.3,127,155,121,67,Yes,Moderate,No Disease,1,0
+50,Male,24.8,112,198,103,80,Yes,Moderate,No Disease,1,0
+37,Male,30.8,131,192,118,75,No,Moderate,No Disease,1,2
+66,Female,16.0,163,259,65,80,No,High,No Disease,0,1
+29,Male,32.9,114,166,99,60,Yes,Moderate,No Disease,1,0
+64,Male,30.9,162,227,120,87,Yes,Moderate,Disease,2,1
+18,Female,23.3,106,186,91,67,No,Moderate,No Disease,1,0
+43,Female,28.1,139,172,101,61,Yes,High,No Disease,1,0
+31,Male,25.5,90,212,75,67,No,Low,No Disease,1,0
+55,Female,31.4,170,206,106,97,Yes,High,Disease,2,1
+54,Female,30.2,156,141,146,69,Yes,High,No Disease,2,1
+79,Female,18.8,150,237,116,70,No,Moderate,No Disease,0,1
+28,Male,28.3,90,160,117,70,No,Low,No Disease,1,0
+80,Female,24.5,159,195,97,72,No,High,Disease,0,1
+53,Female,25.9,115,229,65,65,No,Moderate,Disease,1,0
+30,Male,22.0,124,175,77,73,No,Moderate,No Disease,1,0
+60,Male,33.9,146,253,113,83,No,Moderate,No Disease,2,1
+20,Male,30.5,97,227,113,75,No,Low,No Disease,1,0
+50,Male,21.9,148,181,170,61,No,Low,No Disease,2,1
+23,Female,19.1,124,200,101,68,No,Moderate,No Disease,1,0
+67,Male,23.6,159,193,169,67,No,Moderate,Disease,2,1
+73,Male,27.6,150,293,134,74,No,High,Disease,2,1
+27,Female,26.7,95,170,85,85,No,Moderate,No Disease,1,0
+22,Male,31.5,125,225,116,70,No,High,No Disease,1,2
+40,Female,29.3,121,229,150,71,No,Low,No Disease,2,2
+27,Male,30.2,96,205,148,89,Yes,Moderate,No Disease,1,2
+61,Male,27.1,160,196,103,81,No,Low,No Disease,0,0
+19,Male,18.8,139,168,89,77,Yes,Moderate,No Disease,1,0
+30,Male,24.6,117,125,65,91,Yes,High,No Disease,1,0
+57,Male,30.6,168,225,140,77,No,Low,Disease,2,1
+19,Female,25.3,111,193,126,52,No,High,No Disease,1,0
+37,Female,27.9,117,204,107,80,No,Low,No Disease,1,2
+18,Male,24.0,100,120,73,55,No,Low,No Disease,1,0
+80,Female,20.6,178,183,119,78,No,Low,Disease,0,1
+54,Female,24.9,125,185,116,55,Yes,Moderate,No Disease,1,0
+26,Female,27.0,125,199,101,67,Yes,Low,No Disease,1,0
+34,Male,22.4,113,198,95,68,No,Moderate,No Disease,1,0
+26,Male,24.4,108,181,89,64,No,Moderate,No Disease,1,0
+28,Male,21.0,130,202,110,68,No,Low,No Disease,1,0
+32,Female,30.9,114,170,128,82,Yes,Moderate,No Disease,1,2
+41,Female,24.1,120,215,77,65,Yes,Moderate,No Disease,1,0
+55,Male,32.5,152,234,104,78,Yes,High,Disease,2,1
+72,Male,32.8,171,245,129,63,No,Low,Disease,2,1
+52,Female,25.1,143,201,122,70,Yes,Low,No Disease,0,1
+47,Female,20.7,121,251,99,75,No,Moderate,Disease,0,0
+48,Female,16.0,124,205,82,62,No,Moderate,No Disease,0,0
+66,Female,18.4,146,178,110,60,No,Moderate,No Disease,0,0
+22,Male,18.9,116,182,78,76,Yes,High,No Disease,1,0
+79,Female,32.1,140,260,155,84,Yes,High,Disease,2,1
+77,Female,26.1,163,209,127,72,No,Low,Disease,2,1
+61,Male,27.4,142,250,109,68,No,Moderate,No Disease,2,1
+67,Female,16.0,121,216,110,74,No,Moderate,No Disease,0,0
+31,Female,19.7,105,120,118,72,No,High,No Disease,1,0
+70,Male,29.8,140,236,113,75,No,Low,No Disease,2,1
+73,Female,26.9,149,213,129,50,Yes,Moderate,Disease,2,1
+28,Female,24.8,142,204,93,61,Yes,High,No Disease,1,0
+26,Female,28.2,118,220,112,63,No,Moderate,No Disease,1,0
+51,Male,33.4,121,224,112,74,No,Moderate,No Disease,2,2
+29,Male,24.4,120,238,96,74,No,High,No Disease,1,2
+52,Female,25.8,129,202,132,79,No,High,No Disease,2,0
+52,Male,26.4,139,227,89,75,No,Low,Disease,0,0
+18,Female,37.0,117,223,91,58,No,Low,Disease,1,2
+57,Female,16.0,155,194,72,87,Yes,Moderate,No Disease,0,1
+39,Male,28.8,124,226,84,85,Yes,High,No Disease,1,0
+77,Male,24.9,176,207,130,61,No,High,Disease,2,1
+46,Male,28.2,142,194,80,76,No,Moderate,No Disease,0,0
+25,Male,22.3,104,143,80,66,No,Moderate,No Disease,1,0
+28,Female,25.3,147,196,109,73,No,Low,Disease,1,2
+58,Female,28.9,143,227,128,83,No,Moderate,No Disease,2,1
+54,Female,40.4,124,266,137,94,No,Moderate,Disease,2,1
+31,Female,29.4,141,221,112,79,Yes,Moderate,No Disease,2,0
+77,Male,21.4,180,211,112,76,No,Moderate,Disease,0,1
+47,Female,23.5,130,165,95,69,No,Moderate,No Disease,1,1
+52,Female,23.3,127,217,97,74,No,High,Disease,0,0
+38,Female,16.9,121,217,141,86,No,Low,No Disease,0,0
+54,Female,23.9,146,229,122,72,No,Moderate,No Disease,0,1
+22,Male,29.0,129,223,157,63,No,Moderate,No Disease,2,2
+36,Female,19.4,130,180,80,56,Yes,Moderate,No Disease,1,0
+76,Male,30.5,153,219,129,78,Yes,Moderate,Disease,2,1
+31,Male,27.8,139,173,74,74,Yes,Low,No Disease,1,0
+43,Male,22.0,123,194,77,66,Yes,Low,No Disease,1,0
+79,Female,24.8,169,224,159,83,No,Low,Disease,2,1
+21,Female,33.2,107,202,101,67,No,Low,No Disease,1,0
+42,Female,29.0,133,201,154,71,No,Moderate,No Disease,2,1
+62,Female,25.5,140,211,84,72,No,Low,No Disease,0,1
+59,Female,24.4,138,188,84,69,No,Moderate,No Disease,0,1
+42,Female,25.9,121,229,96,74,No,Low,No Disease,1,2
+35,Male,23.0,140,193,92,83,Yes,Moderate,No Disease,1,0
+57,Male,16.0,127,192,121,61,No,Moderate,No Disease,0,0
+25,Male,35.3,103,179,129,76,Yes,Low,No Disease,1,2
+56,Female,26.2,167,171,102,74,No,Moderate,Disease,0,1
+57,Female,27.4,151,253,111,74,No,High,No Disease,2,1
+31,Male,25.2,90,208,90,80,No,Low,No Disease,1,0
+49,Male,22.0,124,151,77,73,Yes,Moderate,No Disease,1,0
+68,Female,24.6,121,241,93,78,Yes,Low,No Disease,0,0
+78,Male,17.8,140,243,133,80,No,Low,No Disease,0,1
+55,Female,36.4,92,230,96,67,No,Moderate,No Disease,1,2
+50,Female,19.6,131,245,133,75,Yes,Low,Disease,0,1
+40,Male,20.5,109,197,85,69,No,High,No Disease,1,0
+80,Male,23.4,156,183,98,72,Yes,Low,Disease,0,1
+32,Female,31.7,96,213,130,69,No,Low,No Disease,1,0
+50,Female,25.6,134,213,139,77,No,Moderate,No Disease,2,1
+42,Female,19.6,121,173,118,73,No,Moderate,No Disease,1,0
+34,Female,31.5,142,220,125,76,No,Moderate,No Disease,2,2
+50,Male,29.0,152,161,139,72,Yes,Low,No Disease,2,1
+64,Male,28.1,154,250,81,57,Yes,High,Disease,0,1
+72,Female,28.9,144,201,113,73,No,High,No Disease,2,1
+19,Female,37.0,137,170,101,72,Yes,Moderate,No Disease,1,2
+31,Male,36.0,97,204,151,74,No,Moderate,No Disease,2,2
+70,Female,22.2,128,229,99,67,No,Moderate,No Disease,0,1
+57,Female,33.3,137,228,147,61,No,Low,No Disease,2,1
+57,Male,27.3,169,191,126,79,No,Low,Disease,2,1
+68,Male,27.9,143,208,101,70,No,Low,Disease,0,1
+56,Female,17.4,134,164,87,74,No,High,No Disease,0,0
+68,Male,24.7,126,211,141,70,No,Low,No Disease,2,1
+23,Male,21.6,125,212,68,71,No,Moderate,No Disease,1,0
+23,Male,29.5,126,191,107,67,No,Low,No Disease,1,0
+20,Female,30.6,121,217,88,62,No,Moderate,No Disease,1,0
+24,Female,16.0,104,216,79,76,No,Low,No Disease,1,0
+68,Female,25.4,136,201,113,67,No,Moderate,No Disease,0,1
+25,Male,30.9,96,190,91,73,No,Low,No Disease,1,0
+59,Female,24.6,140,276,87,77,No,High,Disease,0,1
+69,Female,29.0,132,269,130,67,No,High,No Disease,2,1
+32,Female,27.2,103,145,84,60,No,Moderate,No Disease,1,0
+64,Female,27.1,137,230,99,97,No,Low,No Disease,0,1
+46,Male,24.2,123,201,81,67,No,Low,No Disease,1,0
+50,Female,19.7,125,222,96,79,No,High,No Disease,0,0
+69,Male,20.1,153,190,127,92,Yes,Low,No Disease,0,0
+47,Female,28.9,131,183,147,80,No,Low,No Disease,2,2
+56,Male,25.6,133,190,93,69,Yes,Moderate,No Disease,0,0
+44,Male,24.8,131,183,149,71,No,Low,No Disease,2,1
+53,Male,23.5,121,229,80,64,No,Low,No Disease,0,0
+46,Female,24.0,131,165,125,81,No,Moderate,No Disease,1,1
+55,Male,30.5,138,198,105,78,No,Moderate,Disease,2,2
+74,Female,23.9,129,168,94,68,Yes,Low,No Disease,0,1
+50,Male,19.1,146,226,81,62,No,Moderate,No Disease,0,0
+78,Male,29.1,141,270,127,60,No,Moderate,Disease,2,1
+54,Female,24.5,137,197,118,82,Yes,Moderate,No Disease,0,1
+44,Male,25.7,144,193,119,73,No,Low,No Disease,0,2
+72,Male,33.2,162,247,115,75,No,Moderate,Disease,2,1
+50,Female,25.4,133,250,84,64,Yes,Moderate,No Disease,0,0
+79,Male,26.9,149,242,103,59,No,Moderate,Disease,2,1
+21,Male,19.8,124,155,82,81,No,Low,No Disease,1,0
+39,Male,24.4,134,147,94,72,Yes,Low,No Disease,1,0
+19,Female,28.4,101,153,79,80,No,High,No Disease,1,0
+27,Female,18.0,104,179,93,68,No,Low,No Disease,1,0
+22,Female,26.5,90,167,146,69,No,Moderate,No Disease,1,0
+76,Female,26.0,154,232,108,80,No,High,Disease,0,1
+27,Male,25.7,114,172,87,79,Yes,Moderate,No Disease,1,0
+50,Male,30.5,148,182,131,80,No,Moderate,Disease,2,2
+71,Female,27.1,153,189,107,70,Yes,Low,No Disease,0,1
+55,Male,32.6,155,267,141,79,No,High,Disease,2,1
+30,Male,20.7,108,210,73,83,No,Moderate,No Disease,1,0
+48,Male,26.2,147,257,147,71,No,Moderate,Disease,2,1
+64,Male,25.9,136,233,121,68,No,Moderate,Disease,2,1
+53,Female,20.4,146,187,85,86,No,High,No Disease,0,0
+62,Male,30.1,121,261,110,66,No,Moderate,No Disease,2,1
+41,Male,36.7,129,215,119,78,No,Low,Disease,2,2
+69,Male,25.4,119,226,145,72,No,Moderate,No Disease,2,1
+73,Female,27.9,146,225,95,55,No,Moderate,No Disease,0,1
+32,Male,25.9,125,120,84,83,No,Low,No Disease,1,0
+46,Male,22.1,122,246,84,50,No,High,No Disease,1,0
+25,Female,16.8,99,189,86,52,No,Low,No Disease,1,0
+22,Female,22.1,123,190,79,77,Yes,Moderate,No Disease,1,0
+46,Male,18.8,128,191,65,77,No,Low,No Disease,0,0
+64,Male,33.7,136,233,124,66,No,Low,No Disease,2,1
+21,Male,24.9,111,165,90,73,No,Moderate,No Disease,1,0
+29,Male,23.8,154,206,79,50,No,High,No Disease,1,0
+62,Male,29.8,158,182,138,80,Yes,Moderate,Disease,2,1
+19,Male,20.1,126,180,104,74,Yes,Low,No Disease,1,0
+44,Male,21.8,134,213,93,72,No,Moderate,No Disease,0,0
+48,Male,25.8,133,199,111,72,No,Low,No Disease,0,2
+68,Female,30.4,112,238,79,78,No,Low,No Disease,2,1
+68,Female,27.9,136,193,111,73,No,Low,Disease,2,1
+53,Female,26.7,128,181,133,54,Yes,Low,No Disease,1,0
+53,Male,25.9,109,216,99,94,No,Moderate,No Disease,1,0
+43,Male,27.4,111,224,92,84,No,Moderate,No Disease,1,2
+60,Female,26.5,112,159,163,60,No,Low,No Disease,2,1
+44,Male,20.6,127,210,135,69,Yes,Moderate,No Disease,0,0
+22,Male,25.7,123,169,104,69,Yes,Low,No Disease,1,0
+37,Female,20.3,138,182,117,83,Yes,High,No Disease,0,0
+28,Female,25.9,122,150,65,50,No,Moderate,No Disease,1,0
+79,Female,23.2,141,199,96,68,Yes,Low,No Disease,0,1
+27,Male,37.7,90,236,116,54,Yes,High,No Disease,1,2
+57,Male,25.3,113,212,104,70,No,Low,No Disease,1,1
+55,Female,18.8,118,188,89,68,No,Moderate,No Disease,0,0
+23,Male,24.9,100,181,65,72,No,Low,No Disease,1,0
+25,Female,28.0,112,205,110,66,No,Moderate,No Disease,1,0
+40,Female,33.5,111,223,134,64,No,Moderate,No Disease,2,2
+64,Female,22.7,148,210,141,79,No,Low,No Disease,2,1
+43,Male,17.9,124,222,77,77,No,Low,No Disease,0,0
+63,Male,29.4,142,250,103,78,Yes,Moderate,No Disease,2,1
+60,Female,18.9,156,216,65,71,No,Low,No Disease,0,1
+29,Female,23.4,100,188,85,66,No,Low,No Disease,1,0
+43,Female,24.3,133,218,120,71,No,Moderate,No Disease,0,1
+30,Male,25.2,117,200,83,77,No,High,No Disease,1,2
+57,Male,28.8,133,248,165,51,No,Low,No Disease,2,1
+79,Female,22.2,167,250,105,77,Yes,Low,No Disease,0,1
+35,Female,24.2,134,162,99,75,No,High,No Disease,1,0
+42,Female,25.4,113,167,72,73,No,Low,No Disease,1,0
+50,Male,26.2,130,186,114,71,No,Moderate,No Disease,1,0
+64,Female,26.0,147,246,70,50,Yes,High,Disease,0,1
+57,Female,27.6,134,167,130,68,No,High,No Disease,2,0
+77,Female,29.6,161,244,145,91,Yes,Low,Disease,2,1
+60,Male,27.4,144,227,145,73,No,Low,Disease,2,1
+29,Male,27.7,142,228,80,69,Yes,Low,No Disease,1,0
+61,Female,17.9,119,208,106,73,Yes,High,No Disease,0,0
+53,Male,25.7,133,168,121,76,No,High,No Disease,0,1
+65,Male,27.8,131,192,128,79,No,Low,No Disease,2,2
+21,Female,29.0,119,154,83,69,No,Moderate,No Disease,1,0
+22,Male,22.2,90,164,65,76,No,High,No Disease,1,0
+73,Female,22.3,155,213,116,90,No,Low,No Disease,0,1
+54,Male,22.7,127,170,98,82,No,Low,No Disease,0,0
+25,Female,28.1,103,235,89,95,No,Low,No Disease,1,0
+80,Female,30.5,135,196,149,67,No,Moderate,No Disease,2,1
+59,Male,23.5,133,250,104,89,No,High,No Disease,0,0
+66,Male,29.9,160,260,95,65,No,High,Disease,2,1
+45,Male,26.1,128,230,65,76,No,Low,No Disease,1,0
+48,Male,24.9,140,183,79,80,No,Low,No Disease,0,0
+75,Female,24.5,175,233,168,68,No,Moderate,Disease,2,1
+26,Female,29.1,118,155,120,72,No,Moderate,No Disease,1,2
+71,Male,27.1,140,251,124,82,No,Moderate,Disease,2,1
+68,Male,36.4,153,233,138,66,No,Moderate,Disease,2,1
+46,Male,21.4,122,184,90,89,No,Moderate,No Disease,1,0
+31,Female,28.0,111,159,130,58,No,Low,No Disease,1,0
+57,Male,23.0,116,133,92,92,No,Moderate,No Disease,1,0
+58,Female,21.3,151,174,114,83,Yes,High,No Disease,0,0
+39,Female,25.4,119,231,93,71,Yes,Low,No Disease,1,0
+28,Female,26.2,119,178,141,68,No,Moderate,No Disease,1,0
+40,Male,39.5,110,214,153,67,No,Low,No Disease,2,2
+18,Female,24.6,115,200,117,70,Yes,Moderate,No Disease,1,0
+63,Male,20.1,132,262,90,72,No,Moderate,No Disease,0,1
+54,Male,26.8,134,250,135,85,No,Moderate,No Disease,2,1
+38,Female,16.0,136,153,85,92,No,High,No Disease,0,0
+43,Female,25.1,138,142,105,74,No,Moderate,No Disease,1,1
+63,Male,25.6,142,286,148,64,No,Moderate,Disease,2,1
+53,Male,29.3,110,282,94,67,No,Low,No Disease,2,1
+71,Male,30.2,180,234,132,71,Yes,Moderate,Disease,2,1
+40,Male,23.1,149,157,105,62,No,Low,No Disease,1,0
+74,Male,24.8,161,252,127,61,Yes,High,Disease,2,1
+18,Male,21.8,98,173,73,92,No,Low,No Disease,1,0
+80,Male,20.1,153,217,157,76,No,Low,No Disease,0,1
+71,Female,27.0,141,251,91,65,No,Low,No Disease,0,1
+72,Female,19.4,167,223,139,81,No,High,No Disease,0,1
+68,Female,23.5,150,181,136,61,No,Low,No Disease,0,1
+57,Male,20.7,127,194,142,62,Yes,Low,No Disease,0,0
+32,Female,28.1,112,216,70,64,Yes,Low,No Disease,1,0
+38,Female,34.1,139,225,103,88,No,Low,No Disease,2,2
+64,Female,19.3,165,215,137,70,Yes,Low,No Disease,0,1
+26,Female,16.6,136,202,65,50,Yes,Moderate,No Disease,1,0
+70,Female,24.9,158,209,78,85,No,Low,Disease,0,1
+26,Female,25.6,111,193,85,69,No,Moderate,No Disease,1,0
+27,Male,26.5,90,120,103,53,No,Low,No Disease,1,0
+69,Female,23.4,151,203,145,70,No,Moderate,No Disease,2,1
+74,Female,24.5,150,245,110,78,No,Moderate,No Disease,0,1
+70,Female,27.3,149,212,106,77,No,Low,No Disease,0,1
+43,Female,30.5,128,194,122,90,No,Moderate,Disease,2,0
+58,Male,16.1,120,166,111,64,No,Low,No Disease,0,0
+52,Male,23.7,142,235,112,73,No,Low,No Disease,0,0
+80,Female,26.5,164,246,118,66,No,Moderate,Disease,2,1
+69,Female,21.1,156,238,65,57,No,Moderate,No Disease,0,1
+42,Female,33.8,140,160,103,81,No,Moderate,No Disease,1,2
+43,Male,22.5,136,191,127,77,No,Low,No Disease,0,2
+28,Male,25.3,110,181,100,74,No,Low,No Disease,1,0
+55,Female,28.2,135,205,108,77,No,Low,No Disease,2,2
+19,Female,22.7,111,160,110,65,Yes,Moderate,No Disease,1,0
+24,Female,16.6,115,163,65,61,Yes,Moderate,No Disease,1,0
+35,Male,23.4,135,217,89,72,No,Low,No Disease,1,0
+44,Female,30.4,137,151,119,84,No,Moderate,No Disease,1,2
+51,Male,23.9,162,257,93,88,No,Low,No Disease,0,1
+44,Female,21.4,159,210,97,80,No,High,No Disease,0,1
+34,Male,29.9,122,199,106,72,No,Low,No Disease,1,0
+60,Male,23.9,90,238,76,75,Yes,Moderate,No Disease,1,0
+76,Female,23.1,169,178,116,73,No,Moderate,Disease,0,1
+61,Female,26.2,133,195,84,62,No,High,No Disease,0,0
+76,Male,29.2,141,227,131,73,No,Low,Disease,2,1
+68,Female,36.9,140,277,173,59,Yes,Moderate,Disease,2,1
+71,Male,29.5,142,226,120,72,No,Low,No Disease,2,1
+41,Male,31.1,134,221,90,88,Yes,High,No Disease,2,0
+42,Male,23.1,105,178,94,80,Yes,High,No Disease,1,0
+24,Male,20.6,98,194,67,62,No,Low,No Disease,1,0
+69,Male,25.8,152,271,129,72,No,Moderate,Disease,2,1
+23,Male,26.0,121,216,92,63,Yes,Moderate,No Disease,1,0
+70,Male,20.3,156,211,144,72,Yes,Low,Disease,0,1
+41,Female,24.7,115,218,126,82,No,Low,No Disease,1,2
+50,Male,27.4,119,226,108,79,No,High,No Disease,2,2
+66,Female,27.2,137,235,133,98,No,Moderate,Disease,2,1
+46,Male,27.9,133,240,102,84,No,Low,No Disease,2,2
+80,Female,26.9,176,263,124,75,Yes,Low,Disease,2,1
+60,Male,23.1,111,206,97,79,No,Low,No Disease,0,0
+39,Male,23.0,121,213,112,70,No,Moderate,No Disease,1,0
+43,Male,19.7,109,180,126,61,No,Low,No Disease,1,0
+45,Male,34.1,106,187,143,85,Yes,Moderate,No Disease,2,2
+67,Male,25.6,159,211,134,83,No,Low,No Disease,2,1
+38,Female,24.4,131,193,118,70,No,Low,No Disease,1,2
+66,Female,21.0,151,161,117,76,No,Low,No Disease,0,1
+24,Female,39.6,126,233,105,84,Yes,High,No Disease,2,2
+34,Female,20.3,114,120,128,80,No,Low,No Disease,1,0
+37,Male,23.4,117,274,135,57,No,Moderate,No Disease,2,1
+58,Male,27.5,169,260,110,75,Yes,Low,Disease,2,1
+66,Male,28.4,141,214,113,71,No,Moderate,Disease,2,1
+37,Male,30.1,133,203,125,83,Yes,Low,No Disease,2,2
+71,Male,34.2,148,244,150,83,Yes,Moderate,Disease,2,1
+39,Female,27.9,98,183,103,85,No,High,No Disease,1,0
+45,Male,20.4,100,200,68,61,No,Low,No Disease,1,0
+80,Male,24.3,147,222,123,65,No,Low,Disease,0,1
+78,Female,27.0,168,226,135,84,No,Moderate,No Disease,2,1
+57,Female,35.4,149,231,150,67,No,Low,No Disease,2,1
+66,Male,18.8,157,168,112,58,No,Moderate,No Disease,0,0
+24,Female,31.3,99,196,103,77,No,Low,No Disease,1,0
+18,Female,26.4,131,188,116,66,No,Moderate,No Disease,1,0
+49,Male,29.5,118,215,117,90,No,Moderate,No Disease,2,1
+30,Male,25.0,120,184,86,75,Yes,Low,No Disease,1,0
+47,Male,21.5,130,232,92,74,No,Moderate,No Disease,0,0
+40,Female,29.1,123,193,72,68,No,Moderate,No Disease,1,0
+68,Female,28.6,165,231,118,89,No,Low,Disease,2,1
+76,Male,30.2,142,271,145,77,No,Moderate,Disease,2,1
+73,Male,25.4,131,220,124,69,Yes,Moderate,No Disease,2,1
+36,Female,22.6,122,197,126,64,Yes,Low,No Disease,1,0
+79,Male,18.0,149,213,105,72,Yes,High,No Disease,0,1
+49,Male,29.4,179,248,126,62,No,Moderate,Disease,2,1
+47,Female,27.5,140,199,127,82,No,Low,No Disease,2,2
+46,Female,20.9,124,234,147,54,No,High,No Disease,2,0
+66,Female,22.9,130,211,110,71,No,Low,No Disease,0,1
+62,Female,23.3,115,186,83,79,Yes,Moderate,No Disease,0,0
+46,Female,18.4,115,212,114,76,Yes,Low,No Disease,0,0
+47,Male,21.6,132,189,137,65,No,Moderate,No Disease,0,0
+33,Female,20.1,140,204,83,78,No,Moderate,No Disease,0,0
+57,Male,23.5,153,126,123,64,Yes,Moderate,No Disease,0,0
+36,Female,22.0,125,190,118,72,Yes,Low,No Disease,1,0
+35,Male,17.7,117,169,113,78,No,Low,No Disease,1,0
+18,Female,35.2,112,164,119,76,Yes,Moderate,No Disease,1,2
+31,Male,31.5,111,184,97,65,No,Low,No Disease,1,0
+68,Male,21.8,170,196,104,85,No,Low,Disease,0,0
+64,Male,26.8,140,217,126,74,No,Moderate,No Disease,2,1
+67,Male,27.5,144,180,139,80,No,High,Disease,2,1
+19,Female,31.2,90,201,114,87,No,Low,No Disease,1,0
+71,Female,21.6,146,257,99,84,Yes,Low,Disease,0,1
+45,Male,30.7,140,218,129,83,No,High,Disease,2,2
+66,Male,22.9,130,238,126,75,Yes,High,No Disease,0,1
+67,Male,19.1,135,242,114,81,No,Moderate,No Disease,0,1
+47,Male,29.0,141,246,95,74,No,Low,No Disease,2,1
+55,Male,31.7,116,275,120,60,No,Moderate,Disease,2,1
+68,Female,37.9,161,223,166,76,No,Moderate,Disease,2,1
+80,Male,19.7,148,198,81,76,No,Low,No Disease,0,0
+21,Male,28.9,105,213,65,77,Yes,Moderate,No Disease,1,0
+18,Male,23.5,93,200,120,70,No,Moderate,No Disease,1,0
+25,Male,29.3,119,216,116,64,No,Moderate,No Disease,1,0
+46,Male,18.4,164,249,109,79,No,Moderate,No Disease,0,1
+72,Female,19.4,160,213,84,60,Yes,Moderate,No Disease,0,0
+56,Male,21.8,125,217,116,87,Yes,Moderate,No Disease,0,0
+20,Male,25.9,126,154,100,69,Yes,Moderate,No Disease,1,0
+49,Male,22.4,127,264,65,75,Yes,Low,No Disease,0,0
+27,Male,28.7,134,183,135,77,No,Moderate,No Disease,1,2
+27,Male,30.4,127,187,112,78,Yes,Moderate,No Disease,1,2
+36,Female,28.4,90,189,98,58,Yes,High,No Disease,1,0
+63,Female,33.3,128,208,123,81,No,Moderate,Disease,2,1
+51,Female,27.5,146,188,67,75,No,Low,No Disease,0,1
+77,Male,19.7,155,202,123,67,No,High,No Disease,0,1
+50,Male,32.0,118,175,128,65,No,Moderate,No Disease,1,0
+40,Female,22.6,116,170,90,69,Yes,High,No Disease,1,0
+72,Female,29.9,122,287,155,60,Yes,Low,No Disease,2,1
+45,Female,33.1,128,235,93,89,Yes,Low,Disease,2,2
+49,Male,27.7,163,236,98,87,No,Low,No Disease,2,1
+67,Male,18.3,157,243,86,77,Yes,High,No Disease,0,1
+24,Male,21.1,144,235,80,69,No,High,No Disease,1,2
+46,Female,31.8,142,159,122,70,Yes,Moderate,No Disease,2,2
+25,Female,24.7,128,149,102,79,No,Low,No Disease,1,0
+18,Female,25.9,136,158,85,89,No,Low,No Disease,1,0
+74,Male,29.1,156,215,107,67,No,Moderate,Disease,2,1
+72,Female,28.8,146,218,161,62,No,Moderate,No Disease,2,1
+20,Male,26.8,124,172,149,87,No,Moderate,No Disease,1,2
+41,Male,24.5,146,204,103,54,No,Low,No Disease,0,0
+40,Male,24.0,118,197,81,62,No,Moderate,No Disease,1,0
+76,Female,29.6,142,210,161,71,No,Low,Disease,2,1
+80,Male,28.2,157,167,95,58,No,Moderate,Disease,0,1
+78,Male,24.3,165,195,108,84,No,Moderate,Disease,0,1
+25,Female,30.7,125,178,93,80,No,High,No Disease,1,0
+71,Male,24.9,128,213,89,67,Yes,Moderate,No Disease,0,1
+74,Male,21.4,177,184,102,86,No,Moderate,Disease,0,1
+64,Male,21.9,134,196,85,87,No,Low,No Disease,0,0
+54,Male,20.8,132,168,100,71,Yes,High,No Disease,0,0
+20,Female,24.2,97,178,90,67,Yes,Low,No Disease,1,0
+68,Male,31.4,180,196,115,95,No,Low,Disease,2,1
+50,Male,21.6,136,174,89,80,No,High,No Disease,0,0
+45,Female,26.4,117,164,101,75,No,Moderate,No Disease,1,0
+64,Female,22.3,155,207,122,86,No,Moderate,No Disease,0,1
+25,Female,24.3,125,159,89,75,No,Low,No Disease,1,0
+51,Male,18.3,131,223,116,67,No,High,No Disease,0,0
+52,Male,24.4,146,218,117,73,Yes,Low,Disease,0,0
+49,Female,24.6,120,202,116,83,Yes,Low,No Disease,1,0
+41,Female,28.1,119,179,139,52,No,Low,No Disease,1,1
+31,Female,26.6,90,205,76,69,No,Low,No Disease,1,0
+49,Female,19.7,113,217,87,86,Yes,High,No Disease,0,0
+73,Female,30.7,175,235,168,68,No,Moderate,Disease,2,1
+63,Male,26.5,165,265,109,88,No,Moderate,Disease,2,1
+60,Male,26.5,141,229,65,87,No,High,No Disease,0,0
+33,Female,25.5,143,220,94,71,No,Low,No Disease,1,0
+21,Male,23.0,109,184,90,66,No,Low,No Disease,1,0
+69,Male,26.5,143,242,65,70,No,Moderate,No Disease,0,1
+54,Female,27.8,136,188,143,99,No,Moderate,No Disease,2,1
+71,Female,17.1,147,195,91,92,No,Moderate,No Disease,0,0
+38,Male,22.9,120,203,102,73,No,Low,No Disease,1,0
+31,Male,24.3,134,200,90,66,No,Moderate,No Disease,1,0
+48,Male,26.7,133,221,80,73,No,Low,No Disease,0,0
+72,Female,31.2,159,264,107,75,No,Low,Disease,2,1
+65,Female,21.8,158,169,84,60,No,Low,No Disease,0,1
+35,Male,23.1,127,162,117,73,No,Low,No Disease,1,0
+24,Male,23.0,99,189,85,85,Yes,Moderate,No Disease,1,0
+27,Female,21.7,96,161,76,54,No,Low,No Disease,1,0
+24,Male,23.8,115,285,70,80,No,High,No Disease,1,2
+50,Female,29.2,130,227,142,86,No,High,No Disease,2,2
+40,Female,20.4,126,188,125,66,No,Moderate,No Disease,1,0
+38,Male,27.6,123,184,132,89,Yes,High,No Disease,1,2
+36,Female,17.3,158,169,102,65,Yes,High,No Disease,0,0
+65,Male,22.8,125,214,113,77,No,Moderate,No Disease,0,0
+78,Male,23.9,126,228,88,70,No,Moderate,Disease,0,1
+36,Female,33.5,127,194,115,69,Yes,High,No Disease,1,2
+53,Male,24.2,129,198,89,66,No,Moderate,Disease,0,0
+46,Female,16.0,134,229,65,79,No,Low,No Disease,0,0
+77,Female,16.0,161,253,133,82,No,Moderate,Disease,0,1
+35,Male,25.7,139,202,85,71,No,Low,No Disease,1,0
+19,Male,28.4,90,147,126,58,No,Low,No Disease,1,0
+18,Male,27.3,101,201,116,75,No,Low,No Disease,1,0
+64,Male,26.3,149,264,127,77,Yes,Low,Disease,2,1
+22,Male,31.1,122,234,121,69,No,Low,No Disease,1,2
+37,Male,22.9,153,214,80,91,No,High,No Disease,0,1
+28,Male,29.8,129,238,148,56,No,Low,No Disease,2,2
+59,Female,17.7,138,202,102,50,No,Low,No Disease,0,1
+80,Female,21.2,143,241,118,66,No,Low,No Disease,0,1
+19,Female,16.8,101,149,69,78,No,Moderate,No Disease,1,0
+20,Male,24.2,102,190,69,61,No,High,No Disease,1,0
+40,Male,25.3,134,238,112,62,No,Low,Disease,2,1
+72,Female,26.0,153,205,122,82,No,Low,No Disease,2,1
+29,Male,25.8,98,165,80,76,No,Moderate,No Disease,1,0
+37,Male,21.0,117,192,65,76,No,Moderate,No Disease,1,0
+22,Female,24.6,124,177,65,79,Yes,Low,No Disease,1,0
+54,Female,18.3,140,217,126,68,No,Low,No Disease,0,1
+55,Female,32.0,144,206,111,69,No,Moderate,No Disease,2,1
+47,Male,24.0,136,253,94,80,No,Low,No Disease,0,1
+26,Female,23.2,137,146,122,58,Yes,High,No Disease,1,0
+51,Female,33.1,137,256,101,51,No,Low,No Disease,2,1
+70,Female,19.5,142,189,91,69,No,Low,No Disease,0,1
+61,Female,20.1,128,152,86,82,No,High,No Disease,0,0
+52,Female,20.2,137,206,134,75,Yes,High,No Disease,0,0
+69,Male,25.2,113,212,158,81,No,Low,No Disease,2,1
+75,Male,27.6,149,194,139,53,No,High,No Disease,2,1
+39,Female,29.1,121,152,128,75,No,Moderate,No Disease,1,2
+61,Female,37.8,122,232,129,79,No,Low,Disease,2,1
+41,Female,16.0,113,214,136,59,Yes,Moderate,No Disease,1,0
+34,Male,28.4,132,216,112,80,No,Low,No Disease,1,2
+27,Male,22.8,118,186,108,70,No,Low,No Disease,1,0
+47,Female,22.7,132,214,96,103,No,Low,No Disease,0,1
+73,Female,22.5,154,218,103,51,No,Moderate,No Disease,0,1
+76,Female,21.1,153,176,146,87,No,High,No Disease,0,1
+63,Female,33.6,160,185,144,69,No,Moderate,Disease,2,1
+40,Female,29.5,127,198,144,56,No,Low,No Disease,2,1
+49,Female,25.6,111,200,112,67,Yes,Moderate,No Disease,1,0
+34,Female,32.0,143,229,97,75,No,Moderate,No Disease,2,2
+67,Female,18.2,150,230,92,83,Yes,Moderate,Disease,0,1
+68,Female,19.1,138,228,108,90,Yes,Low,No Disease,0,0
+34,Male,16.0,103,171,77,86,Yes,Moderate,No Disease,1,0
+31,Male,22.1,124,145,65,62,No,Moderate,No Disease,1,0
+26,Female,26.3,113,201,124,83,No,Moderate,No Disease,1,1
+57,Male,26.0,160,228,99,76,No,Low,Disease,0,0
+19,Male,26.2,104,120,97,65,Yes,Low,No Disease,1,0
+62,Male,18.7,130,180,109,71,No,Moderate,No Disease,0,0
+42,Male,29.4,139,185,99,65,No,High,No Disease,1,0
+56,Male,26.7,150,216,144,73,No,Moderate,No Disease,2,1
+26,Male,29.0,117,169,80,64,Yes,High,No Disease,1,0
+71,Female,16.4,158,207,113,63,Yes,Low,Disease,0,1
+39,Male,27.0,124,193,110,77,Yes,Moderate,No Disease,1,2
+60,Male,19.8,143,200,101,79,No,Moderate,No Disease,0,1
+63,Male,23.6,159,191,79,71,No,Moderate,Disease,0,1
+21,Female,28.1,120,169,119,85,No,High,No Disease,1,0
+43,Male,25.9,125,169,120,69,No,High,No Disease,1,0
+75,Female,21.4,170,230,94,70,No,Moderate,No Disease,0,1
+46,Female,25.5,96,220,120,79,No,Moderate,No Disease,1,2
+62,Female,18.1,170,181,111,71,No,High,No Disease,0,1
+51,Male,31.0,109,260,92,73,Yes,Moderate,No Disease,2,1
+40,Female,24.5,116,187,80,50,No,High,No Disease,1,0
+54,Male,30.9,135,263,147,73,No,High,No Disease,2,1
+28,Female,23.0,114,166,97,53,Yes,Moderate,No Disease,1,0
+23,Female,23.0,126,121,75,59,No,Moderate,No Disease,1,0
+35,Male,21.8,106,201,72,58,No,Moderate,No Disease,1,0
+38,Male,29.7,127,211,100,62,No,Low,No Disease,1,1
+59,Male,22.1,131,208,92,67,No,Moderate,No Disease,0,0
+53,Female,28.6,139,193,97,68,No,Low,No Disease,0,1
+58,Male,23.7,138,208,67,79,Yes,Moderate,No Disease,0,0
+55,Female,16.0,138,180,125,75,Yes,High,No Disease,0,0
+51,Male,22.8,126,193,121,53,No,Low,No Disease,1,0
+34,Female,19.8,113,210,65,73,No,Low,No Disease,1,0
+54,Female,25.7,140,215,112,76,Yes,Moderate,No Disease,0,1
+42,Female,19.8,140,209,74,69,No,Low,No Disease,0,0
+55,Female,29.9,128,209,114,72,No,Moderate,No Disease,2,1
+75,Male,25.1,139,214,109,75,Yes,Moderate,No Disease,0,1
+29,Male,24.6,125,154,85,79,No,Low,No Disease,1,0
+40,Female,28.6,125,192,154,56,No,Low,No Disease,2,1
+70,Male,30.1,159,128,117,70,No,High,No Disease,2,1
+59,Male,25.4,127,195,92,88,No,Low,No Disease,0,0
+39,Male,21.8,99,189,76,86,Yes,Moderate,No Disease,1,0
+38,Male,17.0,116,201,115,80,No,High,No Disease,1,0
+44,Male,22.2,117,188,65,77,No,High,No Disease,1,0
+74,Female,22.5,149,230,93,90,No,Low,No Disease,0,1
+48,Male,26.0,122,140,138,91,Yes,Moderate,No Disease,1,2
+23,Female,23.8,123,181,95,70,No,Moderate,No Disease,1,0
+44,Male,28.8,124,156,116,62,No,Moderate,No Disease,1,0
+57,Female,22.6,140,170,149,70,No,Moderate,No Disease,0,1
+51,Male,25.2,135,200,111,103,No,Moderate,No Disease,0,1
+29,Female,31.2,119,237,95,56,No,Low,No Disease,1,0
+62,Female,27.1,141,228,109,68,Yes,Moderate,No Disease,2,1
+74,Male,25.2,158,224,91,59,No,Moderate,Disease,0,1
+70,Female,22.6,136,216,136,74,No,Moderate,Disease,0,1
+24,Female,22.5,133,160,100,59,Yes,Low,No Disease,1,0
+27,Female,21.4,112,166,112,71,Yes,Low,No Disease,1,0
+62,Female,22.9,123,224,132,53,Yes,High,No Disease,0,1
+34,Male,29.1,123,158,99,78,Yes,Low,Disease,1,0
+43,Female,24.4,115,217,80,84,No,Low,No Disease,1,0
+38,Male,19.0,133,175,91,68,Yes,Moderate,No Disease,1,0
+45,Male,34.0,160,240,106,71,No,Moderate,Disease,2,1
+79,Female,27.0,143,259,127,72,No,Low,Disease,2,1
+75,Male,18.7,156,164,134,75,No,Moderate,No Disease,0,0
+63,Female,23.4,118,195,103,72,No,Moderate,No Disease,0,0
+19,Female,26.0,116,158,97,79,No,Moderate,No Disease,1,0
+77,Female,33.7,140,184,137,85,No,High,Disease,2,1
+71,Female,20.2,140,183,125,65,Yes,Low,No Disease,0,1
+60,Male,30.2,125,294,108,70,No,Moderate,No Disease,2,1
+18,Male,32.2,119,210,65,80,No,Low,No Disease,1,0
+68,Male,22.5,160,272,117,59,Yes,Moderate,No Disease,0,1
+70,Male,24.2,148,244,134,53,No,Moderate,Disease,2,1
+53,Male,20.5,123,178,109,75,No,Low,No Disease,0,0
+68,Male,24.5,168,206,98,78,Yes,Moderate,Disease,0,1
+43,Female,25.3,117,218,78,65,No,Low,No Disease,1,0
+46,Female,28.7,99,221,123,66,No,Low,No Disease,1,0
+38,Male,30.7,130,187,117,64,No,Moderate,No Disease,1,0
+28,Female,21.9,101,139,85,63,No,Moderate,No Disease,1,0
+57,Male,16.1,152,296,141,79,No,Low,Disease,0,1
+28,Male,25.4,111,185,75,60,Yes,High,No Disease,1,0
+53,Female,26.9,143,200,150,70,No,Low,No Disease,2,1
+66,Female,26.7,164,223,117,64,No,Low,Disease,2,1
+76,Female,23.9,135,216,74,59,No,Low,No Disease,0,0
+56,Male,26.1,129,215,107,81,Yes,Low,No Disease,0,0
+57,Female,32.8,137,261,149,67,Yes,Low,Disease,2,1
+52,Female,27.3,156,206,104,74,No,Moderate,Disease,0,1
+71,Female,23.7,139,184,79,58,No,Moderate,No Disease,0,0
+51,Female,23.1,125,198,97,65,No,Moderate,No Disease,1,0
+72,Female,24.7,156,207,95,81,No,High,No Disease,0,1
+64,Female,33.4,135,271,143,99,No,Moderate,Disease,2,1
+41,Female,24.6,128,233,117,52,Yes,Low,No Disease,1,0
+71,Female,25.4,127,225,92,71,Yes,Low,Disease,0,0
+39,Female,23.2,155,156,80,76,No,Low,No Disease,0,0
+22,Male,30.8,93,156,124,65,No,Moderate,No Disease,1,0
+73,Female,34.9,145,238,121,81,No,Low,Disease,2,1
+50,Male,27.7,132,219,88,64,No,Moderate,No Disease,0,1
+75,Male,25.9,178,214,93,75,No,Moderate,Disease,0,1
+53,Female,25.7,116,194,116,67,Yes,Moderate,No Disease,1,0
+64,Female,16.0,171,184,111,85,Yes,Moderate,No Disease,0,1
+37,Female,29.1,133,201,94,65,No,Low,Disease,1,0
+36,Male,26.1,128,125,102,68,No,Low,No Disease,1,0
+52,Female,27.6,120,177,146,82,Yes,Moderate,No Disease,2,0
+69,Male,22.1,155,196,85,63,Yes,Low,No Disease,0,1
+60,Female,23.7,130,247,65,73,No,Low,No Disease,0,0
+34,Female,23.5,138,166,104,54,Yes,Moderate,No Disease,1,0
+79,Female,30.4,141,240,129,62,No,Low,Disease,2,1
+76,Female,23.7,150,229,98,77,Yes,Moderate,Disease,0,1
+62,Female,35.5,134,269,151,63,No,Low,Disease,2,1
+60,Female,27.6,126,254,134,67,No,High,Disease,2,1
+51,Male,19.4,144,196,65,77,Yes,Moderate,No Disease,0,0
+26,Male,24.9,122,173,80,66,No,Low,No Disease,1,0
+43,Female,22.4,144,176,146,80,No,Moderate,No Disease,0,1
+19,Female,16.0,90,161,96,74,No,Moderate,No Disease,1,0
+70,Male,33.2,162,219,149,77,No,Moderate,Disease,2,1
+26,Female,28.9,150,209,130,84,No,Moderate,No Disease,2,2
+26,Male,28.1,108,204,102,75,No,Moderate,No Disease,1,2
+57,Male,26.3,164,230,129,88,No,Moderate,No Disease,2,1
+34,Female,18.9,117,222,106,81,No,Low,No Disease,1,0
+18,Female,23.2,90,234,98,66,No,High,No Disease,1,0
+42,Female,29.5,122,209,106,85,No,Low,No Disease,1,2
+78,Male,20.5,168,252,114,76,Yes,Low,Disease,0,1
+60,Male,16.0,128,188,89,69,Yes,Low,No Disease,0,0
+57,Female,24.4,129,245,107,75,Yes,High,No Disease,0,1
+59,Female,24.8,148,243,83,84,No,Moderate,No Disease,0,1
+42,Male,26.2,127,231,87,77,No,Moderate,No Disease,1,2
+56,Female,29.0,145,218,111,91,No,High,Disease,2,1
+52,Male,28.6,137,192,94,83,Yes,High,No Disease,0,0
+20,Female,26.7,117,143,85,77,Yes,Moderate,No Disease,1,0
+67,Female,31.2,139,226,125,63,No,Low,Disease,2,1
+54,Male,18.2,139,244,108,71,No,Low,No Disease,0,1
+61,Male,27.9,128,208,138,73,Yes,Moderate,Disease,2,1
+61,Female,28.5,159,242,108,80,No,Moderate,Disease,2,1
+68,Female,19.6,137,236,135,79,No,Moderate,No Disease,0,1
+47,Female,18.3,146,184,117,74,No,Moderate,No Disease,0,0
+55,Female,21.9,133,244,111,74,No,Moderate,No Disease,0,0
+51,Female,22.3,136,120,102,80,No,Low,No Disease,1,0
+29,Female,29.1,110,159,113,63,No,Low,No Disease,1,0
+36,Female,22.6,108,163,119,89,Yes,Moderate,No Disease,1,0
+54,Male,21.4,111,178,126,52,No,Low,No Disease,1,0
+61,Male,22.6,126,220,133,87,No,Moderate,Disease,0,1
+76,Male,30.9,147,242,132,73,No,Moderate,Disease,2,1
+76,Female,25.6,155,237,130,83,No,High,Disease,2,1
+66,Male,24.6,159,234,141,76,No,High,No Disease,2,1
+78,Female,25.0,147,197,104,77,No,Moderate,No Disease,0,1
+34,Female,31.7,108,167,108,77,No,Moderate,No Disease,1,0
+27,Female,21.9,95,195,88,80,No,Low,No Disease,1,0
+74,Male,31.8,157,214,153,70,No,Moderate,Disease,2,1
+72,Male,26.5,168,177,139,83,No,Moderate,No Disease,2,1
+66,Male,24.7,162,246,106,62,Yes,Moderate,Disease,0,1
+64,Male,37.5,153,276,109,73,No,Moderate,Disease,2,1
+29,Male,20.4,126,229,93,80,Yes,Low,No Disease,1,0
+79,Female,23.8,178,231,95,83,Yes,High,Disease,0,1
+33,Female,19.6,124,203,65,76,Yes,Low,No Disease,1,0
+41,Female,30.1,135,247,86,68,Yes,High,No Disease,2,0
+36,Female,33.6,118,188,127,81,No,Moderate,No Disease,1,2
+25,Male,33.5,95,232,145,65,No,Moderate,No Disease,1,2
+48,Female,31.4,121,221,121,90,Yes,Low,No Disease,2,2
+38,Female,24.6,123,223,103,71,No,Low,No Disease,1,2
+34,Male,23.7,121,197,121,56,Yes,High,No Disease,1,0
+40,Female,17.5,152,225,65,60,No,High,No Disease,0,0
+54,Male,35.3,137,230,144,73,No,Moderate,Disease,2,1
+71,Female,27.8,165,180,121,74,No,Moderate,No Disease,2,1
+33,Female,23.1,114,233,105,91,Yes,Moderate,Disease,1,0
+23,Male,31.9,108,167,99,61,No,Moderate,No Disease,1,0
+25,Female,20.8,95,218,68,72,Yes,Moderate,No Disease,1,0
+42,Female,27.5,116,200,111,61,No,Low,No Disease,1,0
+35,Female,24.7,129,229,134,67,No,High,No Disease,2,2
+42,Male,28.6,127,238,129,89,No,Moderate,No Disease,2,1
+29,Female,25.2,130,202,85,60,No,Low,No Disease,1,0
+32,Male,18.5,122,197,65,78,No,High,No Disease,1,0
+76,Male,25.9,147,239,82,77,No,Moderate,No Disease,0,1
+43,Male,30.5,157,148,145,72,No,Low,Disease,2,1
+58,Female,25.4,137,215,89,78,Yes,Low,No Disease,0,1
+62,Female,29.2,158,187,114,61,No,Moderate,No Disease,2,1
+43,Female,20.5,122,198,123,89,Yes,High,No Disease,0,0
+64,Female,25.4,153,182,77,92,Yes,High,Disease,0,1
+49,Male,22.5,145,165,131,73,Yes,Moderate,No Disease,0,1
+27,Male,29.1,118,242,99,96,No,Low,No Disease,1,0
+33,Male,25.7,90,225,74,68,No,Low,No Disease,1,0
+24,Male,28.8,113,191,97,76,Yes,Low,No Disease,1,0
+34,Male,30.7,138,207,96,86,No,High,No Disease,1,2
+40,Male,28.8,132,196,120,67,No,High,No Disease,1,0
+43,Male,26.8,133,220,92,58,No,Low,No Disease,1,1
+38,Male,20.7,99,169,65,56,No,Moderate,No Disease,1,0
+39,Male,25.5,114,227,96,93,No,Moderate,No Disease,1,0
+75,Male,22.9,157,213,81,68,No,Low,Disease,0,0
+24,Female,23.8,119,171,95,70,Yes,Moderate,No Disease,1,0
+31,Female,23.7,135,189,67,61,No,High,No Disease,1,0
+32,Female,20.8,117,167,79,81,No,Low,No Disease,1,0
+70,Male,16.1,153,217,111,65,Yes,High,No Disease,0,1
+24,Male,22.3,113,165,82,67,No,Low,No Disease,1,0
+26,Female,26.4,101,203,103,75,No,Low,No Disease,1,0
+68,Male,19.0,114,246,121,62,Yes,Low,No Disease,0,1
+65,Male,25.6,150,196,88,71,Yes,High,No Disease,0,1
+25,Male,34.6,116,197,116,86,No,Moderate,No Disease,1,2
+67,Male,30.4,137,240,65,77,No,Moderate,No Disease,0,1
+76,Male,33.4,129,224,143,74,No,Moderate,No Disease,2,1
+40,Male,27.4,134,215,100,74,No,Moderate,No Disease,1,2
+46,Female,31.1,126,228,97,68,No,High,No Disease,2,2
+35,Male,22.0,129,222,98,92,No,Moderate,No Disease,0,0
+48,Male,22.4,157,181,123,64,Yes,High,No Disease,0,0
+47,Female,16.0,100,161,86,74,Yes,Low,No Disease,1,0
+69,Male,31.2,137,219,108,74,No,Moderate,Disease,2,1
+56,Male,32.9,134,192,131,83,No,Moderate,Disease,2,2
+52,Female,22.8,154,220,71,83,No,High,No Disease,0,1
+35,Male,24.3,98,158,82,72,No,Low,No Disease,1,0
+76,Male,21.9,179,290,136,76,Yes,Moderate,Disease,2,1
+59,Male,27.3,141,254,116,76,No,Moderate,Disease,2,1
+56,Male,30.9,136,219,81,50,No,Moderate,No Disease,2,1
+34,Female,17.1,118,207,65,56,No,Low,No Disease,1,0
+31,Female,27.5,112,145,106,66,No,Low,No Disease,1,0
+48,Male,24.2,146,278,121,67,No,High,No Disease,2,1
+41,Female,26.0,111,182,68,60,No,Moderate,No Disease,1,0
+52,Male,27.7,139,207,123,80,No,Moderate,Disease,2,2
+61,Male,24.6,135,157,138,73,Yes,High,No Disease,0,1
+77,Female,25.0,142,240,159,71,Yes,Low,Disease,2,1
+62,Male,24.5,178,180,116,60,Yes,Moderate,Disease,0,1
+51,Male,30.2,139,217,130,72,Yes,High,No Disease,2,1
+20,Male,27.5,119,170,65,50,No,High,No Disease,1,0
+54,Male,26.6,151,178,157,71,No,Moderate,No Disease,2,1
+60,Male,19.4,120,180,89,73,No,Moderate,No Disease,0,0
+57,Female,23.7,162,215,84,75,No,Moderate,No Disease,0,1
+43,Male,29.8,92,169,108,56,No,High,No Disease,1,0
+72,Male,25.7,138,200,150,75,Yes,Moderate,Disease,2,1
+40,Male,28.7,119,223,158,62,No,Moderate,No Disease,2,2
+61,Female,34.0,149,305,135,65,No,Low,Disease,2,1
+56,Female,30.5,140,232,143,80,No,Moderate,Disease,2,1
+32,Female,25.9,117,165,100,92,No,Moderate,No Disease,1,0
+73,Female,23.0,150,208,88,74,Yes,Moderate,No Disease,0,1
+66,Female,16.0,131,204,137,65,No,Moderate,No Disease,0,0
+21,Male,24.7,90,172,78,73,No,High,No Disease,1,0
+46,Female,23.9,140,227,134,82,No,Moderate,No Disease,2,1
+39,Female,27.4,134,207,135,78,No,Low,No Disease,2,2
+42,Female,24.8,149,226,114,99,No,High,No Disease,0,1
+30,Female,24.0,106,179,134,65,Yes,Low,No Disease,1,0
+35,Male,17.0,131,222,140,74,Yes,Moderate,No Disease,0,0
+50,Male,21.0,129,194,94,88,No,High,No Disease,0,0
+33,Male,27.8,136,167,87,87,Yes,Low,No Disease,1,0
+62,Female,33.7,156,292,91,53,No,High,Disease,2,1
+59,Male,25.0,142,157,158,73,No,Moderate,Disease,2,1
+61,Male,27.1,136,194,106,87,No,Moderate,No Disease,0,0
+79,Female,30.1,168,216,156,102,No,Low,Disease,2,1
+19,Male,21.6,118,252,67,78,Yes,Moderate,No Disease,1,0
+72,Female,27.3,139,279,154,69,No,High,Disease,2,1
+52,Male,21.9,115,247,83,62,No,Low,No Disease,0,0
+59,Male,29.7,135,209,95,95,No,Moderate,No Disease,2,1
+51,Male,26.2,154,280,104,80,No,Low,Disease,2,1
+47,Female,26.9,146,217,97,64,Yes,Low,Disease,0,1
+76,Male,21.7,136,249,122,71,No,Moderate,Disease,0,1
+72,Male,28.9,133,233,124,76,No,Low,Disease,2,1
+30,Female,35.5,135,204,136,77,No,High,No Disease,2,2
+30,Male,20.7,102,176,82,63,No,Moderate,No Disease,1,0
+35,Female,23.9,128,186,81,66,Yes,Moderate,No Disease,1,0
+49,Female,26.6,123,225,96,56,Yes,Low,No Disease,1,0
+49,Male,29.3,154,222,160,83,No,High,Disease,2,2
+52,Female,22.8,123,202,105,69,No,Low,No Disease,0,2
+76,Male,16.0,168,256,66,78,No,Moderate,Disease,0,1
+56,Female,32.0,140,131,114,87,Yes,Moderate,No Disease,2,2
+63,Male,29.2,146,236,123,75,Yes,Moderate,No Disease,2,1
+69,Female,17.1,119,229,147,72,No,Moderate,No Disease,0,0
+46,Male,22.6,99,233,120,74,No,Moderate,No Disease,1,2
+79,Female,33.0,151,237,118,74,No,Low,Disease,2,1
+66,Male,32.4,148,234,184,85,No,Moderate,Disease,2,1
+46,Male,30.0,114,239,115,75,Yes,Moderate,No Disease,2,1
+79,Male,24.7,139,271,145,68,Yes,Moderate,Disease,2,1
+70,Male,25.9,155,212,91,83,No,Low,No Disease,0,0
+61,Female,24.9,149,221,65,85,No,Low,No Disease,0,1
+74,Male,30.9,149,282,100,60,No,Low,Disease,2,1
+33,Female,21.3,131,123,65,87,No,Low,No Disease,1,0
+73,Female,21.6,133,196,154,77,No,Moderate,No Disease,2,1
+61,Female,30.3,136,265,128,75,Yes,Moderate,No Disease,2,1
+64,Male,25.3,166,249,92,83,Yes,Low,Disease,0,1
+74,Male,32.1,151,249,144,67,No,Moderate,Disease,2,1
+27,Female,22.3,117,170,92,81,No,High,No Disease,1,0
+47,Male,25.2,163,177,118,68,No,High,No Disease,0,0
+42,Male,21.1,107,175,121,57,No,High,No Disease,1,0
+80,Female,25.5,166,275,113,63,No,Low,Disease,2,1
+56,Female,18.4,160,181,81,78,Yes,Low,No Disease,0,0
+37,Female,23.2,118,196,113,62,No,High,No Disease,1,0
+22,Male,18.6,124,152,103,88,No,Low,No Disease,1,0
+18,Female,28.8,95,212,102,83,No,Low,No Disease,1,0
+47,Male,28.9,121,192,161,86,No,Moderate,No Disease,2,2
+66,Male,17.2,150,202,95,74,No,Low,No Disease,0,0
+20,Female,31.9,121,142,89,74,Yes,High,No Disease,1,0
+62,Male,37.5,157,184,151,61,No,Moderate,No Disease,2,1
+31,Male,25.7,140,192,83,82,No,Moderate,No Disease,1,0
+73,Male,22.4,149,179,120,77,No,High,No Disease,0,1
+47,Female,39.1,147,287,121,78,Yes,Low,Disease,2,1
+67,Female,19.2,140,147,96,90,Yes,Moderate,No Disease,0,0
+21,Female,25.6,123,160,135,65,Yes,Moderate,No Disease,1,0
+35,Female,26.4,124,196,93,71,No,Moderate,No Disease,1,0
+79,Male,32.0,160,226,118,76,No,Low,Disease,2,1
+54,Male,27.2,141,178,138,63,Yes,Moderate,Disease,2,0
+42,Male,23.1,104,167,74,70,No,High,No Disease,1,0
+65,Male,20.9,128,180,89,78,No,Low,No Disease,0,0
+18,Male,23.9,110,171,101,68,No,Low,No Disease,1,0
+70,Female,20.7,124,272,127,86,Yes,Low,Disease,0,1
+63,Male,25.7,154,218,139,58,Yes,Moderate,No Disease,2,1
+32,Male,22.8,131,224,75,83,Yes,Low,No Disease,1,0
+26,Male,18.3,119,192,100,78,No,High,No Disease,1,0
+32,Male,31.5,103,235,103,66,No,Moderate,No Disease,1,0
+66,Female,23.1,164,130,94,64,Yes,Moderate,No Disease,0,0
+74,Male,19.4,179,205,135,52,Yes,Moderate,Disease,0,1
+41,Male,24.7,128,237,88,64,Yes,Moderate,No Disease,1,0
+21,Female,25.8,118,167,100,82,Yes,Moderate,No Disease,1,0
+29,Male,17.1,120,230,91,71,No,Moderate,No Disease,1,0
+76,Male,27.1,159,272,98,85,No,Moderate,Disease,2,1
+75,Male,20.5,150,203,130,67,No,Low,Disease,0,1
+54,Female,33.7,135,206,141,79,No,Low,No Disease,2,1
+78,Female,28.0,166,200,81,66,No,Low,Disease,0,1
+54,Female,23.6,168,187,109,63,Yes,Moderate,No Disease,0,1
+60,Male,21.9,120,171,85,72,No,Low,No Disease,1,0
+77,Female,25.0,151,238,141,66,No,Moderate,Disease,2,1
+23,Male,28.4,96,146,70,56,Yes,High,No Disease,1,0
+56,Male,25.4,159,228,101,71,No,Low,No Disease,0,0
+73,Male,24.5,142,240,122,74,No,Moderate,No Disease,2,1
+80,Male,25.8,135,179,122,86,Yes,Moderate,Disease,0,1
+63,Male,22.6,151,258,122,82,No,Moderate,Disease,0,1
+41,Female,23.9,150,212,65,84,Yes,Moderate,No Disease,0,0
+28,Female,16.0,125,197,124,79,No,High,No Disease,1,0
+79,Male,30.2,157,212,143,76,No,Low,Disease,2,1
+30,Male,26.9,123,212,131,59,No,Low,Disease,1,2
+51,Male,21.8,153,235,117,74,Yes,Moderate,No Disease,0,0
+42,Male,34.6,114,210,125,78,No,Moderate,Disease,2,2
+24,Female,25.9,111,247,67,86,No,Low,No Disease,1,0
+69,Male,20.5,140,214,94,80,Yes,Low,No Disease,0,0
+21,Female,29.6,94,224,138,84,No,Moderate,No Disease,1,2
+76,Male,27.4,147,237,153,63,No,Low,Disease,2,1
+25,Male,27.4,129,207,86,68,No,High,No Disease,1,2
+37,Male,23.5,131,143,65,76,Yes,Moderate,No Disease,1,0
+46,Male,27.7,139,217,105,84,No,Low,Disease,2,2
+80,Male,24.2,157,204,110,72,Yes,Moderate,Disease,0,1
+71,Female,28.2,156,200,117,72,No,Low,Disease,2,1
+70,Male,16.4,136,259,118,80,No,Moderate,No Disease,0,1
+68,Female,23.4,142,210,128,62,No,Moderate,No Disease,0,1
+62,Male,33.8,144,197,154,89,Yes,Moderate,Disease,2,1
+63,Male,21.8,146,199,113,64,No,Moderate,No Disease,0,0
+27,Male,22.6,120,145,65,52,No,Low,No Disease,1,0
+60,Female,23.3,138,253,98,73,No,High,No Disease,0,1
+51,Male,19.7,128,177,149,89,No,Moderate,No Disease,0,0
+74,Female,16.0,180,225,117,79,No,Low,Disease,0,1
+43,Male,24.4,140,240,108,80,No,Low,No Disease,0,1
+58,Female,26.2,144,198,120,73,Yes,Low,No Disease,0,1
+66,Male,25.2,141,233,122,71,No,Low,Disease,2,1
+75,Female,24.8,145,193,65,58,No,Moderate,No Disease,0,0
+20,Female,25.7,108,257,88,50,No,Low,No Disease,1,0
+73,Female,30.4,154,258,128,75,Yes,High,Disease,2,1
+23,Male,24.6,90,178,120,85,No,Low,No Disease,1,0
+22,Male,22.7,90,157,88,75,Yes,Low,No Disease,1,0
+22,Male,24.2,103,179,65,78,No,Low,No Disease,1,0
+71,Female,28.3,151,216,132,89,No,Low,No Disease,2,1
+64,Female,32.3,140,285,112,76,Yes,High,Disease,2,1
+40,Female,22.5,146,157,67,71,No,Moderate,No Disease,1,0
+66,Male,26.0,124,223,96,65,No,Low,Disease,0,1
+26,Male,27.1,104,190,111,92,No,High,No Disease,1,0
+52,Male,20.7,155,197,126,78,No,High,No Disease,0,1
+37,Female,25.6,125,193,111,62,No,Moderate,No Disease,1,0
+75,Female,18.5,164,211,123,61,Yes,High,Disease,0,1
+66,Female,17.0,173,231,115,85,Yes,Moderate,Disease,0,1
+78,Male,27.3,144,248,126,63,No,Moderate,Disease,2,1
+76,Female,23.7,151,235,129,92,Yes,Moderate,Disease,2,1
+59,Female,26.5,135,123,65,50,No,Low,No Disease,1,0
+52,Male,25.4,107,216,109,87,Yes,Moderate,No Disease,1,0
+67,Female,20.8,141,162,82,78,No,High,No Disease,0,0
+35,Female,25.3,134,214,125,73,No,Moderate,No Disease,1,1
+79,Female,19.6,162,263,107,71,Yes,High,Disease,0,1
+34,Female,32.2,129,176,116,91,No,Moderate,No Disease,1,0
+41,Male,19.0,120,181,65,79,No,Moderate,No Disease,1,0
+20,Male,24.6,101,164,113,62,No,Moderate,No Disease,1,0
+49,Female,20.5,150,235,111,55,No,Moderate,No Disease,0,1
+52,Male,28.2,127,214,126,74,No,Moderate,No Disease,2,0
+55,Female,23.9,140,259,87,72,No,Low,No Disease,0,0
+30,Female,23.0,120,199,74,57,No,Low,No Disease,1,0
+73,Female,29.6,170,236,132,72,No,High,Disease,2,1
+78,Female,25.6,167,229,104,67,Yes,Low,Disease,0,1
+64,Male,28.0,125,245,128,73,No,Moderate,No Disease,2,1
+42,Male,20.8,110,141,65,79,No,Moderate,No Disease,1,0
+26,Male,18.8,123,180,76,87,No,Moderate,No Disease,1,0
+21,Male,26.0,110,183,134,81,No,Moderate,No Disease,1,2
+31,Male,24.0,112,211,104,65,No,Moderate,No Disease,1,0
+54,Male,28.5,150,208,119,76,No,High,No Disease,2,2
+51,Female,25.1,136,175,149,73,No,Moderate,Disease,2,1
+28,Female,26.5,117,191,65,58,No,Moderate,No Disease,1,0
+58,Male,17.7,149,168,83,77,Yes,High,No Disease,0,0
+73,Male,34.6,144,179,131,92,No,High,Disease,2,1
+20,Female,24.7,132,204,110,72,No,High,No Disease,1,2
+76,Male,28.8,141,248,145,57,No,Moderate,Disease,2,1
+45,Male,21.5,138,210,76,72,No,Low,No Disease,0,0
+46,Male,27.0,150,244,130,60,No,Low,No Disease,2,1
+26,Female,19.2,95,158,78,80,Yes,High,No Disease,1,0
+20,Male,27.7,105,144,125,77,No,High,No Disease,1,0
+42,Female,23.8,142,195,76,70,No,Moderate,No Disease,0,1
+51,Male,25.6,149,196,104,69,No,Low,Disease,0,0
+29,Male,28.9,114,170,95,70,Yes,Moderate,No Disease,1,0
+59,Male,19.6,129,201,125,73,No,Low,Disease,0,0
+26,Male,22.2,128,164,76,64,No,Moderate,No Disease,1,0
+32,Female,27.7,136,140,103,58,Yes,Moderate,No Disease,1,0
+57,Female,35.6,121,213,146,84,No,High,Disease,2,1
+42,Female,24.8,110,165,113,68,No,Low,No Disease,1,0
+22,Female,28.3,115,196,120,73,Yes,Moderate,No Disease,1,0
+28,Female,25.0,125,169,100,74,No,Moderate,No Disease,1,0
+76,Female,34.8,148,273,132,76,No,Moderate,Disease,2,1
+51,Female,17.1,143,242,90,61,Yes,Moderate,No Disease,0,0
+41,Male,26.0,116,220,104,55,No,High,No Disease,1,0
+77,Male,17.7,123,168,115,67,No,Low,No Disease,0,0
+32,Male,16.0,113,223,86,76,Yes,Low,No Disease,1,0
+55,Female,26.9,137,259,112,65,No,Moderate,No Disease,2,1
+25,Male,26.2,110,189,65,68,No,Moderate,No Disease,1,0
+76,Male,24.1,136,263,129,94,No,Low,No Disease,2,1
+22,Female,25.0,90,167,96,53,Yes,Moderate,No Disease,1,0
+65,Female,40.4,137,183,172,65,No,Moderate,Disease,2,1
+43,Female,24.3,140,176,100,91,Yes,Low,No Disease,0,0
+35,Male,27.9,139,250,67,71,No,Low,No Disease,1,0
+23,Female,22.4,129,136,78,64,No,High,No Disease,1,0
+54,Male,26.9,124,211,107,84,No,Moderate,No Disease,0,0
+77,Male,24.4,137,225,132,74,No,Low,No Disease,2,1
+65,Male,23.5,151,199,65,69,No,Low,No Disease,0,0
+30,Male,34.2,126,190,120,74,No,Moderate,No Disease,1,2
+45,Male,31.2,134,213,130,66,No,Low,Disease,2,2
+22,Female,26.2,90,169,81,61,Yes,High,No Disease,1,0
+30,Male,16.0,105,134,90,71,No,Moderate,No Disease,1,0
+34,Female,23.8,120,198,81,62,No,Moderate,No Disease,1,0
+67,Female,38.5,152,270,130,73,No,High,Disease,2,1
+57,Male,24.4,148,235,98,76,Yes,Moderate,No Disease,0,0
+62,Male,30.8,144,198,109,81,No,Low,Disease,2,2
+49,Male,32.4,136,178,138,84,No,Moderate,No Disease,2,2
+79,Female,26.6,155,221,106,69,Yes,Moderate,Disease,0,1
+46,Male,21.5,139,244,76,77,No,Low,No Disease,0,0
+68,Male,16.0,150,224,144,78,No,Low,No Disease,0,1
+75,Male,28.8,152,251,147,76,No,Moderate,Disease,2,1
+20,Female,21.6,106,204,65,67,No,Low,No Disease,1,0
+73,Female,26.3,151,237,102,63,No,Moderate,Disease,0,1
+57,Male,19.5,145,206,106,78,No,Moderate,No Disease,0,1
+51,Female,24.2,137,224,111,55,No,Moderate,Disease,0,1
+57,Female,25.7,143,195,77,70,No,Moderate,No Disease,0,1
+44,Female,26.8,147,161,132,50,No,Moderate,No Disease,1,0
+30,Female,20.1,121,204,107,58,No,Low,No Disease,1,0
+62,Female,31.2,132,260,137,64,Yes,Low,Disease,2,1
+50,Female,22.6,145,168,129,83,No,Low,No Disease,0,2
+23,Female,17.5,93,198,95,78,Yes,Low,Disease,1,0
+41,Male,25.0,111,249,111,66,Yes,Moderate,No Disease,1,0
+36,Male,25.7,127,195,135,79,Yes,Moderate,No Disease,1,2
+33,Male,26.3,127,170,125,81,Yes,Moderate,No Disease,1,2
+57,Female,32.0,120,224,107,71,No,High,Disease,2,2
+45,Female,24.4,123,184,115,58,No,High,No Disease,1,0
+50,Male,24.9,124,186,90,70,No,High,No Disease,1,0
+76,Female,20.2,145,230,120,72,Yes,High,Disease,0,1
+76,Male,29.4,165,183,138,61,No,Moderate,Disease,2,1
+65,Male,26.4,154,175,85,76,No,Moderate,No Disease,0,1
+58,Female,23.5,138,209,102,75,No,Low,No Disease,0,1
+30,Male,16.4,110,176,94,76,No,Moderate,No Disease,1,0
+60,Male,32.4,121,234,118,75,Yes,Moderate,No Disease,2,1
+62,Female,19.6,161,262,110,80,No,Moderate,Disease,0,1
+42,Female,22.7,135,199,113,70,No,Moderate,No Disease,0,1
+70,Male,27.2,138,241,119,75,No,Moderate,Disease,2,1
+59,Female,19.8,149,175,106,69,No,Moderate,No Disease,0,0
+53,Female,18.3,134,220,129,67,No,Moderate,No Disease,0,0
+80,Male,16.0,151,198,121,87,No,Moderate,Disease,0,1
+44,Male,29.0,134,209,117,52,No,High,No Disease,2,0
+55,Female,22.9,126,202,81,81,Yes,High,No Disease,0,0
+77,Male,39.6,148,278,168,67,No,Moderate,Disease,2,1
+24,Female,20.7,115,140,93,64,No,Low,No Disease,1,0
+22,Female,21.1,105,120,113,74,No,High,No Disease,1,0
+60,Female,22.8,149,203,105,58,No,Low,No Disease,0,1
+62,Male,26.7,168,231,75,64,Yes,High,No Disease,0,1
+75,Female,23.2,141,226,74,65,No,Low,No Disease,0,0
+74,Male,28.4,127,265,140,71,No,Moderate,No Disease,2,1
+68,Male,20.8,118,225,93,65,No,Moderate,No Disease,0,1
+48,Male,18.9,129,177,106,88,No,Moderate,No Disease,0,0
+40,Male,16.9,116,120,96,90,No,Moderate,No Disease,1,0
+59,Female,16.0,142,191,98,52,Yes,Moderate,No Disease,0,0
+27,Male,23.0,117,216,88,77,No,Moderate,No Disease,1,0
+49,Male,24.1,109,191,83,81,No,Low,No Disease,1,0
+60,Female,22.5,115,210,103,78,No,Moderate,No Disease,0,0
+70,Male,31.5,152,242,117,66,Yes,Low,Disease,2,1
+47,Female,31.4,132,182,111,70,Yes,Moderate,No Disease,1,2
+56,Male,23.9,131,227,98,65,No,Low,No Disease,0,1
+48,Female,16.9,108,240,92,68,No,Moderate,No Disease,0,0
+35,Female,22.8,128,185,113,60,No,Moderate,Disease,1,0
+53,Male,22.6,153,170,97,71,Yes,Low,Disease,0,1
+19,Male,22.3,113,176,107,56,No,Moderate,No Disease,1,0
+31,Male,22.2,106,120,123,70,Yes,Moderate,No Disease,1,0
+30,Female,22.4,118,196,108,59,No,High,No Disease,1,0
+46,Male,23.6,110,213,111,74,No,High,No Disease,1,0
+29,Male,22.4,132,236,96,65,No,Moderate,No Disease,1,0
+56,Male,26.5,138,206,130,75,Yes,Moderate,No Disease,2,1
+19,Male,27.2,90,197,99,82,No,Moderate,No Disease,1,2
+49,Male,21.1,128,173,119,88,Yes,Low,No Disease,0,0
+30,Female,31.6,124,189,126,50,Yes,Moderate,No Disease,1,0
+63,Male,20.8,138,163,95,64,No,High,No Disease,0,0
+44,Male,17.7,124,184,115,69,No,Moderate,No Disease,1,0
+66,Female,27.3,127,211,120,77,No,Moderate,No Disease,2,1
+58,Female,21.6,146,215,99,56,No,Low,No Disease,0,1
+34,Male,27.0,111,177,92,62,No,Low,No Disease,1,0
+57,Male,16.0,108,199,104,74,No,Low,No Disease,0,0
+48,Male,32.2,126,204,144,73,No,Moderate,No Disease,2,2
+51,Female,28.7,147,201,134,76,No,Moderate,No Disease,2,1
+77,Male,18.3,147,218,117,78,No,Moderate,Disease,0,1
+41,Female,18.4,150,190,107,75,Yes,Moderate,Disease,0,0
+62,Female,33.5,148,250,160,75,Yes,Moderate,Disease,2,1
+52,Female,22.0,139,198,95,73,No,Moderate,No Disease,0,1
+65,Male,21.5,142,201,80,79,Yes,Moderate,No Disease,0,0
+23,Male,16.0,111,166,114,50,No,Moderate,No Disease,1,0
+36,Male,23.8,118,171,84,87,No,Moderate,No Disease,1,0
+47,Male,24.4,126,191,87,50,No,High,No Disease,1,0
+24,Female,28.9,120,252,65,61,No,Low,No Disease,1,0
+27,Female,18.8,102,151,100,69,Yes,Low,No Disease,1,0
+58,Female,18.2,123,192,65,79,No,Moderate,No Disease,0,0
+49,Female,27.7,116,197,95,50,Yes,Moderate,No Disease,1,0
+51,Male,30.3,162,206,132,72,No,Low,Disease,2,1
+80,Male,18.0,162,207,127,81,No,Moderate,Disease,0,1
+45,Male,30.7,133,218,103,82,No,Moderate,No Disease,2,2
+77,Female,25.7,138,175,116,66,Yes,Moderate,No Disease,0,1
+32,Female,30.7,128,231,92,69,No,Moderate,No Disease,1,0
+47,Female,25.2,129,222,92,66,No,Moderate,No Disease,0,0
+54,Male,16.0,138,157,105,68,Yes,Low,Disease,0,0
+46,Male,24.8,116,134,92,62,No,Low,No Disease,1,0
+39,Female,30.6,126,176,109,63,No,Low,No Disease,1,0
+21,Male,21.2,105,170,65,76,No,Moderate,No Disease,1,0
+37,Female,23.6,112,271,121,73,No,Moderate,No Disease,2,0
+49,Female,24.7,142,220,115,77,No,Moderate,Disease,0,1
+53,Female,16.0,113,140,116,75,No,Moderate,No Disease,1,0
+67,Male,33.5,153,210,162,80,No,Moderate,Disease,2,1
+21,Male,21.2,120,176,66,80,No,Low,No Disease,1,0
+44,Male,27.9,116,212,102,55,Yes,Low,No Disease,1,0
+34,Male,25.1,109,154,65,63,No,High,No Disease,1,0
+29,Male,31.5,114,195,181,69,No,Moderate,No Disease,2,2
+39,Female,27.4,128,179,103,72,No,Moderate,No Disease,1,0
+34,Female,24.4,118,159,119,65,Yes,Moderate,No Disease,1,0
+27,Male,21.2,121,190,65,81,No,Moderate,No Disease,1,0
+71,Male,29.3,173,250,147,93,No,Moderate,Disease,2,1
+18,Male,16.5,101,193,124,73,Yes,Low,No Disease,1,0
+39,Male,28.6,100,219,108,73,No,High,No Disease,1,2
+43,Female,20.2,139,178,72,81,No,Low,No Disease,0,0
+73,Male,31.5,173,253,129,54,No,Low,Disease,2,1
+76,Male,26.3,157,236,71,73,No,Low,Disease,0,0
+35,Male,28.6,106,203,106,82,No,Moderate,No Disease,1,2
+67,Female,25.9,144,201,133,66,No,Moderate,No Disease,2,1
+31,Female,17.1,103,164,88,59,No,Moderate,No Disease,1,0
+64,Male,21.4,152,212,98,71,No,High,Disease,0,1
+46,Male,28.7,111,281,124,72,Yes,Low,Disease,2,1
+29,Female,26.3,113,200,112,63,No,Moderate,No Disease,1,0
+53,Female,31.2,121,198,85,93,Yes,Moderate,No Disease,1,0
+76,Male,27.4,154,203,125,68,No,High,Disease,2,1
+52,Female,20.9,129,186,152,61,No,Low,No Disease,0,1
+69,Female,21.7,149,280,77,72,No,High,No Disease,0,1
+78,Female,26.0,154,216,118,82,No,Low,Disease,2,1
+29,Female,16.0,103,203,131,72,No,Moderate,No Disease,1,0
+24,Female,33.5,122,187,139,76,No,Moderate,Disease,1,2
+46,Male,27.6,129,214,98,63,No,High,No Disease,1,0
+28,Female,31.4,102,222,116,87,No,Low,No Disease,1,0
+50,Female,17.9,164,177,97,78,No,Low,Disease,0,0
+23,Female,31.5,119,175,93,82,No,Low,No Disease,1,0
+64,Male,36.2,141,282,138,76,No,Moderate,Disease,2,1
+32,Female,19.2,139,212,83,80,No,Moderate,No Disease,0,0
+49,Female,29.2,158,234,118,64,No,High,No Disease,2,2
+68,Male,25.5,144,243,98,68,No,Moderate,No Disease,0,1
+28,Female,18.1,121,192,65,85,No,Low,No Disease,1,0
+75,Female,27.9,137,289,123,89,Yes,Low,Disease,2,1
+40,Female,29.5,123,206,149,61,No,Low,No Disease,2,1
+43,Male,22.6,124,213,98,75,No,Moderate,No Disease,1,0
+51,Male,31.1,136,171,113,68,No,High,No Disease,2,0
+63,Female,17.5,147,179,120,66,No,High,No Disease,0,1
+51,Male,18.3,141,160,94,75,Yes,Moderate,No Disease,0,1
+46,Female,26.2,133,242,147,84,No,Low,Disease,2,2
+21,Male,25.6,94,120,93,76,Yes,Low,No Disease,1,0
+34,Male,22.1,107,177,106,69,No,Moderate,No Disease,1,0
+52,Male,29.4,126,123,100,78,No,High,No Disease,1,1
+30,Female,28.0,114,170,115,68,No,Low,No Disease,1,0
+58,Male,29.6,153,203,126,77,No,Low,Disease,2,1
+56,Male,24.9,121,251,106,86,Yes,Moderate,No Disease,0,0
+32,Male,28.4,114,208,94,51,No,Moderate,No Disease,1,0
+72,Male,23.4,162,194,97,81,No,Low,Disease,0,0
+46,Female,35.4,125,250,135,57,No,High,No Disease,2,2
+46,Female,21.6,136,197,110,84,No,Low,No Disease,0,2
+28,Male,35.6,114,206,119,65,No,High,No Disease,1,2
+69,Female,25.7,150,184,122,61,Yes,Low,No Disease,0,1
+49,Male,18.9,129,165,96,79,Yes,Low,No Disease,0,0
+19,Female,32.1,119,168,111,75,No,Low,No Disease,1,0
+64,Female,26.1,121,219,110,63,No,Low,No Disease,0,1
+31,Female,29.6,113,200,108,59,No,Moderate,No Disease,1,0
+37,Male,31.4,127,251,175,70,No,Moderate,No Disease,2,2
+39,Female,27.1,132,211,112,60,Yes,Moderate,No Disease,1,0
+28,Male,22.7,137,120,104,61,No,Moderate,No Disease,1,0
+44,Female,30.2,123,216,125,73,Yes,Moderate,No Disease,2,2
+20,Male,25.5,131,140,87,62,Yes,Low,No Disease,1,0
+34,Female,28.8,111,170,136,76,No,High,No Disease,1,0
+79,Female,16.0,173,189,104,88,No,High,No Disease,0,1
+61,Female,27.6,152,197,140,71,Yes,Low,Disease,2,2
+73,Male,22.4,137,177,101,74,No,Moderate,No Disease,0,0
+45,Female,33.4,133,220,103,92,No,Moderate,No Disease,2,2
+46,Male,28.5,129,165,120,60,Yes,Low,No Disease,1,0
+38,Female,26.7,132,209,80,84,No,Moderate,No Disease,1,0
+64,Male,27.8,140,287,130,83,No,Moderate,Disease,2,1
+33,Male,20.7,115,146,65,80,No,Low,No Disease,1,0
+54,Female,33.3,155,212,121,85,Yes,Low,Disease,2,2
+76,Male,35.1,151,164,110,76,No,Moderate,Disease,2,1
+37,Male,27.4,134,190,167,66,No,Low,Disease,2,1
+23,Male,33.1,109,216,77,82,Yes,Low,No Disease,1,0
+36,Male,22.8,145,213,93,83,Yes,Moderate,No Disease,0,0
+74,Female,21.7,141,220,133,84,Yes,Moderate,Disease,0,1
+22,Female,25.7,103,212,117,72,Yes,Low,No Disease,1,0
+20,Male,27.6,131,263,117,64,Yes,High,No Disease,1,0
+76,Male,23.6,146,274,106,75,No,Moderate,Disease,0,1
+18,Male,28.1,131,170,128,81,No,Low,No Disease,1,0
+75,Male,27.0,164,183,141,83,No,Moderate,Disease,2,1
+77,Female,20.7,151,207,114,69,No,Moderate,No Disease,0,1
+55,Female,28.0,111,185,120,76,No,Low,No Disease,1,2
+32,Male,29.6,119,212,102,59,No,Moderate,No Disease,1,0
+51,Male,26.3,135,172,89,82,Yes,Moderate,No Disease,1,0
+78,Male,31.0,170,233,160,65,No,Moderate,Disease,2,1
+52,Female,19.7,156,224,127,80,No,Moderate,No Disease,0,1
+66,Female,27.7,135,218,99,61,Yes,Moderate,No Disease,0,1
+42,Male,19.9,138,163,91,82,Yes,Low,No Disease,0,0
+41,Male,20.2,136,226,90,75,No,Moderate,No Disease,0,0
+29,Female,22.5,132,129,89,64,No,Moderate,No Disease,1,0
+35,Female,21.0,128,178,92,79,No,Moderate,No Disease,1,0
+32,Male,22.9,92,187,112,66,Yes,Moderate,No Disease,1,0
+61,Male,24.5,139,213,92,80,Yes,Moderate,No Disease,0,0
+33,Male,29.5,104,204,90,69,No,High,No Disease,1,2
+44,Female,24.0,125,217,127,55,No,Low,No Disease,1,1
+25,Male,17.9,127,175,76,62,No,Low,No Disease,1,0
+77,Male,31.0,157,223,104,69,No,Low,Disease,2,1
+63,Female,21.5,158,197,93,86,No,Low,No Disease,0,1
+42,Male,25.2,131,181,95,81,Yes,Moderate,No Disease,1,0
+34,Female,27.6,102,221,139,88,No,Low,No Disease,1,0
+46,Male,26.5,94,185,127,89,Yes,Low,No Disease,1,2
+70,Male,30.8,150,254,154,68,No,Low,Disease,2,1
+25,Female,27.8,111,191,119,70,No,Moderate,No Disease,1,0
+32,Male,21.4,105,170,110,68,Yes,High,No Disease,1,0
+44,Female,36.0,104,236,115,65,Yes,Moderate,No Disease,2,2
+63,Female,26.4,132,195,110,54,Yes,Low,No Disease,0,0
+67,Male,24.8,143,237,90,73,Yes,Moderate,No Disease,0,0
+69,Female,30.1,156,233,122,60,No,Low,Disease,2,1
+24,Male,26.7,116,170,113,71,No,Low,No Disease,1,0
+20,Female,27.4,133,202,100,93,No,High,No Disease,1,0
+46,Male,37.5,115,237,163,67,No,Moderate,No Disease,2,2
+61,Female,24.2,153,247,83,75,No,Low,No Disease,0,1
+70,Male,24.0,148,247,123,82,No,Moderate,Disease,2,1
+41,Male,26.1,135,215,76,75,No,Low,No Disease,1,0
+77,Female,30.6,147,200,133,76,No,Moderate,Disease,2,1
+75,Female,18.3,166,287,125,69,No,Moderate,Disease,0,1
+20,Male,16.1,114,127,79,69,No,Low,No Disease,1,0
+37,Male,22.7,113,220,106,62,Yes,High,No Disease,1,0
+63,Female,17.7,142,217,82,81,No,Moderate,Disease,0,0
+32,Female,23.5,116,154,65,54,No,High,No Disease,1,0
+42,Male,27.9,133,200,121,82,No,Moderate,No Disease,2,2
+47,Male,21.2,114,195,135,58,No,Moderate,No Disease,1,0
+31,Male,18.7,118,220,67,81,Yes,Moderate,No Disease,1,0
+24,Female,25.8,119,165,122,68,No,Low,No Disease,1,0
+34,Male,29.6,121,192,110,60,No,Moderate,No Disease,1,0
+79,Male,17.4,173,145,81,79,No,Moderate,No Disease,0,1
+61,Female,29.4,152,272,96,82,No,Low,No Disease,2,1
+37,Male,29.4,123,170,110,68,Yes,Moderate,Disease,1,0
+53,Male,30.1,138,225,110,80,No,Moderate,No Disease,2,2
+26,Male,31.3,119,193,81,50,No,High,No Disease,1,0
+55,Male,36.1,142,222,98,59,No,Moderate,No Disease,2,1
+65,Male,23.8,118,239,90,86,Yes,Moderate,No Disease,0,0
+74,Female,26.0,146,275,123,71,Yes,High,No Disease,2,1
+77,Male,23.5,132,231,113,54,No,Low,No Disease,0,1
+80,Female,25.5,173,248,109,66,No,Low,Disease,0,1
+39,Female,32.9,123,218,124,63,Yes,Low,Disease,2,0
+71,Female,19.0,146,242,130,71,Yes,High,No Disease,0,1
+70,Male,21.4,160,201,115,69,No,Low,Disease,0,1
+70,Male,32.1,153,263,129,75,No,Low,Disease,2,1
+19,Male,30.4,93,223,125,71,Yes,Moderate,No Disease,1,2
+41,Male,23.8,125,229,77,86,No,High,No Disease,1,0
+25,Male,29.6,109,173,100,76,No,High,No Disease,1,0
+28,Female,27.1,92,187,96,76,No,Moderate,No Disease,1,0
+30,Male,32.7,108,209,88,83,No,High,No Disease,1,2
+34,Male,25.9,118,153,91,68,No,Low,No Disease,1,0
+25,Male,30.4,112,242,65,59,No,Low,No Disease,1,0
+38,Female,38.2,103,215,175,84,No,High,No Disease,2,2
+35,Male,28.4,137,207,86,73,No,Moderate,No Disease,1,0
+47,Female,25.7,129,186,140,74,No,Low,No Disease,2,2
+35,Male,29.0,122,160,109,66,Yes,Moderate,No Disease,1,0
+63,Female,23.7,148,195,120,67,No,Moderate,No Disease,0,1
+64,Female,37.0,132,240,131,81,No,High,Disease,2,1
+48,Male,26.4,137,226,112,82,No,High,No Disease,2,2
+55,Male,24.2,131,212,120,80,No,Moderate,No Disease,0,1
+49,Male,21.5,119,209,112,80,No,High,No Disease,0,0
+28,Male,30.8,124,187,127,77,Yes,Moderate,Disease,1,2
+62,Female,29.7,162,236,114,74,Yes,Moderate,Disease,2,1
+42,Female,23.1,137,241,86,70,No,Moderate,No Disease,0,1
+50,Female,28.3,145,231,78,84,No,Moderate,No Disease,0,1
+77,Female,18.3,145,239,121,69,No,Low,Disease,0,1
+55,Male,26.4,114,220,135,76,No,Moderate,No Disease,2,0
+58,Male,27.7,159,170,151,64,No,Moderate,Disease,2,1
+25,Female,33.7,143,168,122,65,No,Low,No Disease,1,0
+28,Male,21.8,138,197,71,69,No,Low,No Disease,1,0
+39,Female,19.4,120,188,65,64,Yes,Low,No Disease,1,0
+68,Male,21.2,130,226,129,81,Yes,Low,No Disease,0,1
+41,Male,19.1,111,240,65,59,Yes,Moderate,No Disease,1,0
+58,Female,31.9,115,243,118,74,No,Low,No Disease,2,1
+34,Male,32.9,119,243,113,73,Yes,Low,No Disease,2,2
+29,Female,27.0,139,195,99,54,No,Moderate,No Disease,1,0
+74,Female,31.4,149,208,133,69,No,High,Disease,2,1
+63,Female,26.1,146,215,117,75,No,Low,No Disease,2,1
+49,Female,25.0,151,180,65,77,No,Low,No Disease,0,1
+32,Female,23.9,113,237,94,70,No,High,No Disease,1,0
+33,Female,24.0,148,214,65,79,Yes,Moderate,No Disease,0,0
+71,Male,18.1,176,226,123,72,Yes,High,Disease,0,1
+39,Male,26.8,122,237,92,72,Yes,Low,No Disease,1,0
+45,Female,25.3,121,141,65,75,Yes,Low,No Disease,1,0
+37,Male,29.1,133,219,91,81,No,Low,No Disease,1,2
+50,Male,25.9,128,167,95,66,No,Low,No Disease,1,0
+27,Male,24.7,99,187,120,67,No,High,No Disease,1,0
+57,Female,21.3,156,195,105,66,No,High,No Disease,0,1
+49,Female,25.8,149,225,114,69,No,High,No Disease,2,2
+67,Male,29.0,147,231,149,87,Yes,High,Disease,2,1
+77,Female,20.0,135,258,108,79,Yes,High,Disease,0,1
+50,Female,25.9,115,188,124,61,No,Moderate,No Disease,1,0
+19,Female,26.6,111,205,110,65,No,High,No Disease,1,0
+50,Female,22.1,126,206,69,76,No,Low,No Disease,0,0
+50,Female,22.7,128,152,132,63,No,Moderate,No Disease,1,0
+58,Male,26.6,153,186,81,65,Yes,Moderate,Disease,0,1
+30,Female,20.1,128,178,109,85,No,High,No Disease,1,0
+47,Male,27.2,150,239,76,66,Yes,Moderate,No Disease,0,1
+50,Female,21.2,119,213,111,82,No,High,No Disease,0,0
+30,Female,30.6,113,163,151,84,No,Moderate,No Disease,1,2
+69,Male,36.7,157,233,138,66,No,Moderate,Disease,2,1
+43,Male,21.4,134,255,89,63,Yes,High,No Disease,0,0
+39,Female,28.1,146,205,121,69,Yes,Low,No Disease,2,2
+56,Male,22.0,143,195,93,62,Yes,High,Disease,0,0
+19,Female,30.5,135,205,145,73,No,Moderate,No Disease,2,2
+55,Male,19.4,144,223,104,70,No,Moderate,Disease,0,1
+56,Male,27.8,152,200,108,76,No,High,Disease,2,2
+43,Female,21.3,123,209,82,86,No,Moderate,No Disease,1,0
+63,Female,24.5,142,204,89,81,Yes,Moderate,No Disease,0,1
+75,Female,20.6,164,239,95,78,Yes,Moderate,No Disease,0,1
+67,Male,29.4,168,229,116,53,Yes,Low,Disease,2,1
+32,Female,21.5,129,201,79,76,Yes,Moderate,No Disease,1,0
+51,Female,28.1,132,188,99,90,No,Low,No Disease,0,1
+59,Female,23.8,159,185,152,50,Yes,High,No Disease,2,1
+72,Female,25.0,118,250,92,80,No,Low,No Disease,0,1
+61,Female,26.2,121,213,116,71,No,Moderate,No Disease,2,1
+66,Male,21.8,154,221,118,64,No,High,Disease,0,1
+57,Male,26.5,138,203,126,81,No,High,No Disease,2,2
+28,Female,32.8,124,227,113,89,No,Moderate,No Disease,2,2
+78,Male,21.8,154,203,105,81,No,Moderate,Disease,0,1
+20,Female,31.1,118,188,117,68,No,Low,No Disease,1,0
+76,Male,32.7,141,260,142,64,Yes,Moderate,Disease,2,1
+23,Female,21.6,120,215,80,73,No,Low,No Disease,1,0
+26,Female,18.5,128,162,65,80,No,Moderate,No Disease,1,0
+23,Male,26.9,129,246,87,68,No,Low,No Disease,1,2
+26,Male,22.9,143,193,65,69,No,Moderate,No Disease,1,0
+56,Male,34.5,140,192,117,101,Yes,Moderate,Disease,2,1
+48,Female,25.7,135,216,107,83,Yes,Moderate,No Disease,0,1
+49,Female,21.6,110,188,105,84,Yes,Moderate,No Disease,1,0
+58,Male,20.0,131,217,140,58,No,High,No Disease,0,0
+67,Female,30.7,143,225,115,66,No,Low,Disease,2,1
+29,Male,22.8,131,188,107,72,No,Moderate,No Disease,1,0
+25,Male,25.7,105,160,102,62,No,Low,No Disease,1,0
+25,Female,30.1,125,224,135,88,Yes,Low,No Disease,2,2
+67,Male,23.2,145,180,121,87,No,Moderate,No Disease,0,1
+45,Male,25.3,126,168,81,67,No,Low,No Disease,1,0
+79,Male,25.4,158,238,81,91,No,Low,Disease,0,0
+37,Male,28.8,117,249,115,72,No,High,No Disease,2,2
+79,Male,28.3,148,221,115,99,No,Moderate,No Disease,2,1
+64,Male,24.4,119,236,88,74,Yes,Low,Disease,0,0
+76,Female,25.8,149,258,91,79,No,Low,Disease,0,1
+80,Male,23.7,148,250,119,87,Yes,Low,Disease,0,1
+24,Female,18.4,106,166,119,84,No,Moderate,No Disease,1,0
+28,Male,26.7,122,158,90,77,Yes,Moderate,No Disease,1,0
+37,Male,34.6,132,143,136,70,No,Moderate,No Disease,1,2
+33,Female,21.3,123,179,88,77,No,Low,No Disease,1,0
+21,Female,21.8,125,214,65,63,No,Moderate,No Disease,1,0
+23,Male,21.3,120,145,102,73,No,Moderate,No Disease,1,0
+75,Female,29.0,147,251,102,62,No,Moderate,Disease,2,1
+39,Female,27.7,118,172,107,54,No,High,No Disease,1,0
+43,Female,24.7,132,202,94,73,Yes,Low,Disease,1,1
+80,Male,21.1,163,243,131,86,No,Low,Disease,0,1
+20,Male,25.9,130,164,70,81,No,High,No Disease,1,0
+80,Male,18.0,172,222,120,72,No,Low,No Disease,0,1
+58,Female,26.2,131,200,93,90,No,Low,No Disease,0,1
+77,Male,29.7,151,253,118,67,Yes,Moderate,Disease,2,1
+59,Female,19.5,149,211,65,53,Yes,Moderate,Disease,0,0
+31,Male,18.1,133,182,135,50,No,High,No Disease,1,0
+28,Male,33.1,129,247,127,60,No,Low,No Disease,2,2
+35,Female,22.6,120,210,75,80,No,Moderate,No Disease,1,0
+71,Male,31.0,131,209,105,67,No,Low,No Disease,2,1
+29,Female,24.8,103,186,84,76,No,Moderate,No Disease,1,0
+40,Female,24.7,129,195,116,88,No,Low,No Disease,1,2
+29,Female,27.6,122,196,65,61,No,Moderate,No Disease,1,0
+30,Female,21.3,102,260,85,76,Yes,Low,No Disease,1,0
+42,Female,26.1,127,212,143,77,No,Low,No Disease,2,2
+62,Female,23.7,150,151,82,64,No,Moderate,No Disease,0,0
+68,Female,19.2,130,194,107,86,No,High,No Disease,0,0
+75,Male,27.1,167,169,170,70,No,High,Disease,2,1
+36,Male,24.2,117,183,111,68,Yes,High,No Disease,1,0
+72,Male,24.7,167,161,117,94,No,Moderate,Disease,0,1
+63,Male,19.7,135,181,114,78,No,Low,No Disease,0,0
+53,Female,33.1,120,174,118,82,No,Low,No Disease,2,2
+62,Female,29.7,135,233,151,86,No,Moderate,No Disease,2,1
+25,Female,30.1,112,194,98,65,No,Low,No Disease,1,0
+46,Male,24.0,124,210,65,85,No,Low,No Disease,1,0
+72,Female,17.2,146,207,99,68,No,Low,Disease,0,1
+70,Male,34.9,152,193,117,67,No,Moderate,Disease,2,1
+72,Female,25.2,147,237,109,70,No,Low,No Disease,0,1
+49,Female,21.9,131,257,91,66,No,Low,No Disease,0,0
+68,Male,27.5,122,235,146,81,No,Moderate,No Disease,2,1
+61,Male,31.1,146,210,140,75,Yes,Moderate,Disease,2,1
+35,Male,25.4,120,152,105,67,No,Moderate,No Disease,1,0
+23,Female,31.6,135,167,109,78,No,Moderate,No Disease,1,2
+35,Female,30.7,108,216,89,69,No,Low,No Disease,1,0
+36,Female,20.3,97,220,65,69,Yes,Moderate,No Disease,1,0
+39,Male,22.3,133,201,96,72,No,Low,No Disease,1,0
+54,Male,30.1,140,240,137,77,No,Moderate,No Disease,2,1
+49,Female,16.0,118,212,95,76,No,Moderate,No Disease,0,0
+73,Female,24.8,128,237,103,69,No,High,No Disease,0,1
+58,Male,18.6,160,182,111,81,No,Moderate,No Disease,0,1
+76,Male,23.2,172,227,110,71,No,Low,No Disease,0,1
+20,Female,24.1,90,156,126,65,Yes,Moderate,No Disease,1,0
+45,Male,23.8,122,200,127,57,No,Moderate,No Disease,1,0
+27,Male,22.8,139,194,110,81,Yes,Moderate,No Disease,1,0
+68,Male,20.2,139,262,122,73,No,Low,Disease,0,1
+52,Female,36.5,127,184,106,74,No,Moderate,Disease,2,2
+78,Female,34.5,150,255,156,84,No,Low,Disease,2,1
+46,Female,19.9,114,239,104,67,Yes,Moderate,No Disease,0,0
+71,Female,33.1,124,256,148,59,No,Moderate,No Disease,2,1
+80,Male,23.6,170,250,126,74,Yes,Low,No Disease,2,1
+32,Male,26.1,93,211,110,75,No,High,No Disease,1,2
+50,Female,25.2,136,244,165,70,No,Moderate,Disease,2,1
+24,Male,22.3,125,149,85,86,No,Low,No Disease,1,0
+29,Female,30.2,96,155,129,50,Yes,Low,No Disease,1,0
+66,Male,26.1,132,218,105,84,No,Moderate,No Disease,0,0
+47,Male,23.2,147,135,117,80,Yes,Moderate,No Disease,0,1
+38,Male,19.2,131,224,113,77,No,High,No Disease,0,0
+48,Male,21.2,122,234,105,50,No,Low,No Disease,0,0
+75,Male,17.6,168,200,145,86,No,Low,Disease,0,1
+78,Male,25.6,170,216,100,63,Yes,High,Disease,0,1
+41,Female,19.8,130,188,83,67,No,High,No Disease,1,0
+37,Male,24.2,110,196,102,70,No,Low,No Disease,1,0
+54,Female,32.1,130,222,144,76,Yes,Moderate,No Disease,2,2
+21,Female,31.3,115,209,112,78,No,Low,No Disease,1,0
+45,Female,25.3,126,197,132,81,No,Moderate,No Disease,2,1
+61,Female,25.1,154,242,96,81,No,High,No Disease,0,1
+79,Female,34.5,133,254,117,76,No,Low,Disease,2,1
+37,Male,28.0,102,182,113,76,No,Low,No Disease,1,0
+77,Male,23.9,155,264,113,62,No,Low,Disease,0,1
+41,Male,18.7,119,148,105,65,No,Low,No Disease,1,0
+67,Female,27.4,136,219,118,82,Yes,Low,Disease,2,1
+66,Female,29.5,120,253,116,81,Yes,High,Disease,2,1
+68,Male,22.5,146,193,105,80,No,Low,Disease,0,0
+49,Male,26.9,131,216,110,67,Yes,Moderate,No Disease,2,1
+58,Female,23.8,148,226,99,82,No,Moderate,No Disease,0,1
+53,Male,24.6,136,181,101,61,Yes,Moderate,No Disease,0,0
+75,Female,16.0,149,208,100,84,Yes,Moderate,No Disease,0,1
+70,Female,24.4,164,214,131,70,No,Low,Disease,2,1
+51,Female,30.2,115,197,123,89,Yes,Moderate,No Disease,2,0
+53,Female,22.5,142,273,150,57,No,Low,No Disease,2,1
+19,Female,25.8,90,160,97,89,No,Moderate,No Disease,1,0
+32,Male,21.9,107,217,77,68,No,Low,Disease,1,0
+51,Female,27.2,116,197,170,69,No,Moderate,No Disease,2,1
+53,Female,24.5,146,174,114,74,No,Moderate,Disease,0,1
+23,Male,21.0,111,182,107,65,Yes,Moderate,No Disease,1,0
+56,Male,31.9,137,239,138,72,No,Low,Disease,2,1
+59,Male,30.0,124,247,135,65,No,Low,Disease,2,2
+68,Male,22.6,142,262,119,66,No,High,Disease,0,1
+68,Female,27.9,135,311,96,78,No,Low,No Disease,2,1
+75,Female,28.1,157,236,132,64,No,Low,Disease,2,1
+71,Male,28.6,134,206,94,65,No,Moderate,No Disease,0,1
+78,Male,17.4,172,228,106,59,No,High,Disease,0,1
+29,Female,30.3,93,189,93,67,No,Moderate,No Disease,1,0
+20,Male,22.8,99,207,94,85,Yes,Moderate,No Disease,1,0
+62,Male,23.8,165,173,115,64,No,Moderate,No Disease,0,1
+35,Female,38.2,115,285,142,65,No,Low,Disease,2,2
+57,Female,26.9,119,239,119,74,No,Moderate,Disease,2,1
+38,Male,23.6,127,143,83,68,No,High,No Disease,1,0
+32,Male,16.0,112,157,84,94,No,High,No Disease,1,0
+50,Male,32.2,121,240,143,71,No,Low,No Disease,2,2
+52,Female,19.0,119,233,122,76,No,Moderate,No Disease,0,0
+43,Female,20.7,166,155,69,82,No,Moderate,No Disease,0,0
+25,Male,23.9,110,206,65,81,Yes,Low,No Disease,1,0
+53,Female,32.3,108,160,109,75,No,Moderate,No Disease,1,0
+65,Female,29.2,165,220,145,71,No,Low,Disease,2,1
+47,Male,24.7,139,236,130,92,No,Moderate,No Disease,2,1
+40,Male,27.0,114,184,85,71,No,Low,No Disease,1,0
+59,Female,22.6,126,163,110,68,Yes,Moderate,No Disease,0,1
+61,Male,26.2,150,219,153,66,Yes,Moderate,No Disease,2,1
+31,Male,25.9,115,174,108,54,Yes,Moderate,No Disease,1,0
+31,Female,30.2,91,217,141,80,Yes,Moderate,No Disease,1,2
+19,Female,30.1,134,163,126,50,Yes,Low,No Disease,1,0
+72,Female,27.9,143,203,102,73,No,Moderate,Disease,0,1
+54,Female,23.8,156,146,100,70,Yes,High,No Disease,0,0
+22,Female,29.1,129,195,103,94,No,Low,No Disease,1,0
+55,Male,25.1,122,204,110,54,Yes,Moderate,No Disease,1,0
+62,Female,20.3,156,171,123,64,No,Moderate,No Disease,0,0
+58,Male,23.6,129,215,114,71,No,Moderate,No Disease,0,0
+79,Male,25.9,128,259,65,71,No,Moderate,No Disease,0,1
+71,Female,29.9,142,222,98,67,No,Moderate,No Disease,2,1
+77,Female,24.6,158,233,68,72,No,Low,Disease,0,1
+78,Male,19.7,147,226,114,61,No,Moderate,No Disease,0,0
+64,Female,25.8,139,181,119,76,No,Moderate,No Disease,0,1
+31,Male,26.0,134,254,105,50,No,Low,No Disease,1,0
+73,Male,26.4,151,210,98,73,No,Moderate,Disease,0,1
+56,Male,29.9,125,237,135,66,Yes,Moderate,No Disease,2,1
+42,Female,30.4,136,230,131,82,No,Moderate,No Disease,2,1
+37,Female,22.6,126,187,66,89,No,Low,No Disease,1,0
+19,Male,22.5,90,196,65,68,No,High,No Disease,1,0
+56,Female,20.5,143,210,100,86,No,Moderate,No Disease,0,0
+23,Male,28.9,118,148,142,68,No,Moderate,No Disease,1,2
+34,Female,32.5,121,194,154,62,No,Low,No Disease,2,1
+76,Male,24.0,164,205,127,91,No,Moderate,Disease,0,1
+42,Male,24.3,117,184,84,77,Yes,High,Disease,1,0
+74,Female,32.5,155,195,154,73,Yes,Moderate,Disease,2,1
+45,Male,27.9,107,239,100,79,No,Moderate,No Disease,1,2
+19,Male,27.6,115,234,81,74,No,Moderate,No Disease,1,2
+52,Female,19.8,161,228,65,72,No,Moderate,No Disease,0,1
+54,Female,28.8,122,252,119,59,Yes,Low,No Disease,2,0
+22,Male,21.0,101,168,71,69,No,Moderate,No Disease,1,0
+80,Male,20.1,145,201,113,79,No,Moderate,No Disease,0,1
+18,Male,23.8,110,156,65,70,No,Low,No Disease,1,0
+57,Male,22.7,123,226,106,82,Yes,Moderate,No Disease,0,0
+29,Male,24.4,123,195,65,76,No,High,No Disease,1,0
+73,Female,18.6,162,210,132,64,No,Moderate,No Disease,0,1
+53,Female,30.1,142,254,131,59,No,Low,No Disease,2,1
+62,Male,30.9,117,235,119,71,No,High,No Disease,2,2
+40,Male,16.2,139,159,105,67,No,Low,No Disease,0,0
+64,Male,30.2,156,203,103,76,Yes,Low,No Disease,2,1
+48,Male,21.6,143,219,98,65,Yes,Low,No Disease,0,0
+28,Female,29.6,121,227,124,65,Yes,Low,No Disease,1,0
+27,Male,25.2,118,205,65,82,Yes,Low,No Disease,1,0
+20,Male,25.6,124,240,83,73,No,Moderate,No Disease,1,2
+71,Female,24.6,175,269,113,66,No,Moderate,Disease,2,1
+31,Male,31.3,105,213,108,72,Yes,Moderate,No Disease,1,2
+33,Female,19.5,135,159,122,86,No,Moderate,No Disease,1,1
+27,Male,28.4,114,154,78,75,No,Moderate,No Disease,1,0
+46,Female,30.8,128,199,104,78,No,Low,No Disease,1,2
+27,Female,28.9,94,216,65,64,No,Moderate,No Disease,1,0
+29,Female,36.7,113,262,158,82,No,Moderate,No Disease,2,2
+47,Female,23.0,116,212,93,95,Yes,High,No Disease,1,0
+58,Male,30.1,132,254,112,65,Yes,Low,No Disease,2,0
+18,Male,25.0,93,174,89,60,Yes,Low,No Disease,1,0
+22,Female,31.4,105,212,122,73,No,Moderate,No Disease,1,2
+37,Female,25.5,117,221,108,81,No,Moderate,No Disease,1,1
+25,Male,23.6,115,125,149,71,No,Low,No Disease,1,0
+60,Male,31.8,117,210,136,62,No,Moderate,No Disease,2,0
+29,Male,23.1,97,215,81,71,No,Low,No Disease,1,0
+18,Male,18.7,114,180,71,77,No,High,No Disease,1,0
+74,Male,23.0,139,184,102,69,No,Low,No Disease,0,0
+71,Female,28.5,163,153,90,79,No,Low,Disease,0,1
+37,Male,32.2,126,195,118,84,No,Low,No Disease,2,2
+45,Male,26.0,137,201,122,75,Yes,Moderate,No Disease,2,1
+74,Female,31.8,170,207,119,73,No,Low,Disease,2,1
+60,Female,19.0,136,208,84,81,No,Moderate,No Disease,0,0
+54,Female,23.4,127,221,136,64,Yes,High,No Disease,2,1
+64,Female,24.1,155,234,78,63,No,Low,Disease,0,1
+54,Male,25.0,143,137,65,70,No,Moderate,No Disease,1,0
+29,Female,25.9,114,151,72,67,Yes,Low,No Disease,1,0
+54,Female,28.8,155,205,82,64,Yes,Moderate,No Disease,0,1
+66,Male,23.4,142,232,117,91,No,Low,No Disease,0,1
+66,Female,26.2,145,233,107,94,No,Low,Disease,0,1
+73,Female,25.3,150,237,111,69,No,Moderate,No Disease,0,1
+61,Male,21.1,128,196,128,74,No,Low,Disease,0,0
+73,Male,25.0,151,212,100,71,Yes,High,Disease,0,1
+45,Male,24.8,148,179,119,83,Yes,Moderate,No Disease,0,1
+64,Male,24.7,149,238,144,86,No,Moderate,No Disease,2,1
+32,Male,25.7,119,165,89,54,No,High,No Disease,1,0
+23,Female,25.9,110,212,111,76,No,High,No Disease,1,0
+61,Male,23.4,145,217,101,60,Yes,Moderate,No Disease,0,1
+76,Female,31.6,162,233,154,91,No,Moderate,Disease,2,1
+78,Female,19.9,162,199,76,78,No,Low,No Disease,0,1
+37,Female,22.0,118,150,65,64,Yes,Moderate,No Disease,1,0
+67,Female,38.8,150,219,139,70,No,Moderate,Disease,2,1
+31,Male,20.5,125,174,69,69,Yes,High,No Disease,1,0
+19,Male,19.0,95,120,72,77,No,Low,No Disease,1,0
+26,Female,29.0,117,187,99,82,No,Low,No Disease,1,0
+80,Female,16.0,125,242,127,62,No,Low,No Disease,0,1
+54,Female,24.4,142,224,96,91,No,High,No Disease,0,1
+37,Male,35.8,132,197,108,88,No,Low,No Disease,2,2
+43,Female,18.1,138,191,87,63,Yes,Moderate,No Disease,0,0
+46,Male,16.0,124,172,79,73,No,Moderate,No Disease,1,0
+18,Female,18.3,113,175,65,88,No,Low,No Disease,1,0
+72,Female,29.8,169,275,91,85,No,Moderate,Disease,2,1
+52,Male,30.9,154,244,122,69,No,Moderate,Disease,2,1
+23,Female,23.0,112,197,75,80,No,Low,No Disease,1,0
+54,Male,28.8,137,199,138,102,No,Moderate,No Disease,2,1
+70,Male,32.2,163,253,100,74,No,High,Disease,2,1
+76,Male,34.1,131,188,128,67,No,High,No Disease,2,1
+22,Female,24.3,107,175,131,73,No,Moderate,No Disease,1,0
+50,Female,16.0,151,209,77,75,No,Moderate,No Disease,0,1
+66,Female,21.6,158,234,99,68,No,Low,No Disease,0,1
+68,Male,23.5,151,236,83,77,No,High,No Disease,0,1
+31,Female,24.3,97,199,65,59,No,Low,No Disease,1,0
+29,Female,24.6,116,183,129,65,No,Moderate,No Disease,1,0
+59,Male,30.9,131,237,128,80,No,Low,No Disease,2,1
+37,Female,31.6,127,177,119,54,Yes,Low,Disease,1,0
+70,Male,24.7,136,194,76,82,No,Low,No Disease,0,0
+67,Female,30.8,131,228,135,53,Yes,Moderate,Disease,2,1
+41,Male,27.2,97,207,132,55,No,Moderate,No Disease,1,0
+76,Male,25.8,169,171,144,68,Yes,Moderate,Disease,2,1
+60,Male,29.9,134,234,136,75,Yes,Low,No Disease,2,1
+79,Female,25.8,156,251,95,86,No,High,No Disease,0,1
+51,Male,35.4,133,219,138,73,No,Low,Disease,2,2
+42,Male,18.6,112,261,109,70,No,Low,No Disease,0,1
+67,Female,23.0,128,194,68,79,Yes,Moderate,No Disease,0,0
+46,Female,24.9,115,191,78,63,Yes,High,No Disease,1,0
+74,Male,27.6,140,215,142,74,Yes,Low,No Disease,2,1
+56,Male,31.6,142,217,143,60,No,Moderate,No Disease,2,1
+48,Male,25.4,120,194,71,73,No,Moderate,No Disease,1,0
+73,Male,18.7,174,171,125,72,No,High,No Disease,0,1
+64,Female,29.5,157,206,125,65,No,Low,Disease,2,1
+60,Female,29.1,151,216,137,74,No,Moderate,Disease,2,1
+67,Female,16.2,144,241,91,74,Yes,Low,No Disease,0,1
+40,Male,25.5,146,264,116,84,No,Low,No Disease,2,1
+61,Female,17.9,138,243,121,57,No,Low,No Disease,0,1
+55,Female,22.3,136,181,93,72,Yes,High,No Disease,0,0
+37,Female,21.2,125,169,92,64,Yes,Low,No Disease,1,0
+40,Female,29.4,135,199,97,81,Yes,High,No Disease,1,0
+79,Female,26.1,163,282,157,81,No,Low,Disease,2,1
+62,Female,19.3,135,200,100,78,No,High,No Disease,0,1
+69,Male,29.7,139,186,105,66,No,Moderate,No Disease,2,1
+33,Female,18.6,129,168,74,81,No,Low,No Disease,1,0
+67,Female,27.1,155,244,121,58,No,Moderate,No Disease,2,1
+59,Female,21.6,134,227,118,55,No,Low,Disease,0,1
+77,Male,23.7,131,217,85,60,No,Moderate,No Disease,0,1
+72,Female,27.9,146,246,163,73,Yes,Moderate,No Disease,2,1
+25,Female,28.0,122,123,108,78,No,Moderate,No Disease,1,0
+67,Male,31.9,171,231,140,50,No,Moderate,Disease,2,1
+38,Male,25.1,107,222,98,85,No,Moderate,No Disease,1,2
+18,Female,27.0,103,159,96,73,No,Low,No Disease,1,0
+72,Female,23.4,144,194,108,57,No,High,No Disease,0,1
+25,Female,26.4,133,132,120,73,Yes,High,No Disease,1,0
+46,Male,27.6,129,254,110,83,Yes,Low,Disease,2,0
+49,Female,25.0,119,183,121,78,No,Low,No Disease,1,2
+55,Male,16.8,144,204,90,83,No,Moderate,No Disease,0,1
+22,Male,27.1,106,205,102,58,Yes,Moderate,No Disease,1,0
+64,Male,27.2,126,264,99,69,No,Low,No Disease,2,1
+39,Male,22.2,112,188,120,63,Yes,Low,No Disease,1,0
+64,Male,19.3,167,191,85,90,No,Moderate,No Disease,0,1
+51,Male,32.6,139,222,117,79,No,Moderate,No Disease,2,2
+18,Male,27.9,110,224,91,100,Yes,Low,No Disease,1,0
+72,Male,24.4,146,215,106,68,No,High,No Disease,0,1
+72,Male,20.0,153,185,123,66,Yes,Moderate,No Disease,0,1
+43,Male,21.6,131,148,87,71,No,Moderate,No Disease,1,0
+60,Male,31.8,144,186,157,86,No,Moderate,No Disease,2,2
+27,Female,26.2,117,215,80,68,Yes,Low,No Disease,1,0
+47,Male,22.9,142,190,102,73,No,Moderate,No Disease,0,0
+67,Male,27.9,146,204,103,74,No,Low,No Disease,0,1
+35,Male,21.6,108,167,100,72,Yes,Low,No Disease,1,0
+34,Male,32.7,112,207,117,65,Yes,Low,No Disease,1,0
+43,Female,32.0,100,203,116,71,Yes,Low,No Disease,1,0
+25,Female,23.3,142,176,116,70,No,Moderate,No Disease,1,0
+64,Female,22.5,155,252,91,73,No,Moderate,No Disease,0,1
+57,Female,16.0,126,243,114,82,No,Low,No Disease,0,0
+66,Female,18.4,141,159,88,90,No,Low,No Disease,0,0
+29,Male,19.1,108,190,91,63,No,Moderate,No Disease,1,0
+44,Male,26.1,150,179,79,68,No,Low,No Disease,0,0
+25,Male,23.9,94,177,76,63,No,Low,No Disease,1,0
+42,Male,19.0,128,199,92,74,No,Moderate,No Disease,0,0
+63,Female,24.2,141,207,149,67,Yes,High,No Disease,2,1
+21,Female,27.9,122,195,101,74,No,High,No Disease,1,0
+50,Male,28.0,131,230,149,83,No,Moderate,Disease,2,1
+18,Female,16.4,90,177,88,50,No,Low,No Disease,1,0
+36,Female,24.9,118,175,90,77,No,Moderate,No Disease,1,0
+48,Male,18.9,117,175,130,68,No,Low,No Disease,1,0
+33,Male,29.8,121,156,119,76,No,Low,No Disease,1,0
+31,Male,29.3,138,172,93,63,Yes,Moderate,No Disease,1,0
+70,Male,21.2,123,273,117,85,Yes,Moderate,No Disease,0,1
+65,Male,21.8,133,188,98,82,No,Low,No Disease,0,0
+22,Male,23.3,104,146,65,77,Yes,Low,No Disease,1,0
+58,Male,16.0,133,207,122,80,No,Moderate,No Disease,0,1
+43,Male,27.1,138,200,131,65,No,High,No Disease,2,0
+79,Female,24.2,152,220,156,67,No,Moderate,No Disease,2,1
+45,Female,30.2,135,251,125,80,No,Moderate,No Disease,2,1
+19,Female,20.2,100,191,78,64,No,High,No Disease,1,0
+67,Male,22.5,148,198,125,87,No,Moderate,No Disease,0,1
+23,Male,18.3,123,162,104,68,Yes,Moderate,No Disease,1,0
+80,Female,20.7,145,206,147,78,No,Low,Disease,0,1
+26,Male,19.8,125,205,86,93,No,Low,No Disease,1,0
+50,Male,30.3,133,204,115,65,No,Moderate,No Disease,2,0
+58,Female,22.1,153,153,86,73,No,Low,No Disease,0,0
+42,Female,26.1,124,199,116,83,Yes,Low,No Disease,1,0
+65,Male,23.7,149,168,74,82,No,Moderate,No Disease,0,1
+30,Male,19.4,117,247,106,68,No,Low,No Disease,1,1
+26,Male,24.7,113,158,106,66,No,High,No Disease,1,0
+70,Male,28.4,151,220,135,71,No,Low,No Disease,2,1
+30,Male,19.7,125,190,92,86,No,Moderate,No Disease,1,0
+48,Male,29.4,114,201,149,69,No,Moderate,No Disease,2,2
+58,Male,21.4,159,197,120,73,No,Moderate,No Disease,0,1
+28,Female,23.2,90,198,77,67,Yes,Moderate,No Disease,1,0
+21,Female,28.0,101,234,86,78,No,Moderate,No Disease,1,2
+51,Female,22.3,132,225,79,74,Yes,High,No Disease,0,0
+78,Male,25.7,159,271,131,63,No,High,Disease,2,1
+55,Male,24.0,158,176,83,63,No,Moderate,Disease,0,1
+63,Male,26.1,116,226,137,53,Yes,Moderate,No Disease,2,0
+21,Male,16.0,104,174,114,63,No,Low,No Disease,1,0
+55,Male,16.7,106,207,80,80,No,High,No Disease,0,0
+36,Female,28.5,122,241,103,85,No,High,No Disease,1,2
+23,Female,30.5,116,186,107,78,Yes,Moderate,No Disease,1,2
+51,Female,21.1,156,188,117,78,No,Moderate,No Disease,0,0
+35,Male,24.3,123,209,132,71,No,Moderate,No Disease,1,0
+30,Female,26.9,132,140,65,79,No,Low,No Disease,1,0
+58,Male,28.8,147,210,111,75,No,High,No Disease,2,2
+40,Male,16.0,119,180,87,90,No,Moderate,No Disease,1,0
+36,Male,21.2,102,161,65,71,Yes,Moderate,No Disease,1,0
+62,Female,23.9,145,244,97,86,No,Moderate,Disease,0,1
+28,Female,28.9,95,162,114,80,No,High,No Disease,1,0
+18,Male,37.5,127,196,116,79,Yes,Moderate,No Disease,1,2
+41,Female,24.4,123,206,65,52,Yes,Low,No Disease,1,0
+79,Female,18.7,171,258,174,82,No,Moderate,Disease,2,1
+71,Male,27.4,142,224,126,72,No,High,Disease,2,1
+24,Male,31.8,117,224,113,67,No,Moderate,Disease,1,0
+42,Male,26.0,129,222,80,57,Yes,High,No Disease,1,0
+38,Female,21.1,123,194,98,72,No,High,No Disease,1,0
+32,Male,30.1,113,166,106,72,Yes,Moderate,No Disease,1,0
+18,Female,28.7,114,144,65,58,No,Low,No Disease,1,0
+29,Male,20.6,104,186,65,57,No,Low,No Disease,1,0
+75,Female,27.3,134,211,139,78,No,Moderate,No Disease,2,1
+24,Male,30.3,130,221,149,80,No,Moderate,No Disease,2,2
+32,Female,31.2,129,223,120,74,Yes,Moderate,No Disease,2,2
+38,Female,25.2,124,191,124,83,No,Moderate,No Disease,1,1
+36,Female,23.8,145,158,92,71,No,Low,No Disease,1,0
+77,Female,31.4,149,250,131,73,Yes,Moderate,Disease,2,1
+46,Male,19.7,148,164,120,63,No,Moderate,No Disease,0,0
+42,Female,27.6,129,180,144,56,No,Low,No Disease,1,1
+50,Male,18.9,118,166,126,91,No,Moderate,No Disease,0,0
+66,Male,30.6,170,221,103,84,No,High,Disease,2,1
+49,Female,24.3,146,238,101,58,No,Moderate,Disease,0,1
+66,Male,31.6,143,227,135,74,No,Low,Disease,2,1
+52,Male,27.9,144,198,107,71,No,Moderate,No Disease,2,2
+61,Female,19.6,135,159,111,70,No,Low,No Disease,0,1
+55,Male,32.3,148,236,144,68,No,Moderate,Disease,2,1
+43,Female,32.9,94,188,144,76,No,Low,No Disease,1,0
+28,Male,29.7,102,199,144,80,Yes,High,No Disease,1,2
+52,Male,21.8,148,191,91,76,No,Low,No Disease,0,0
+25,Male,24.0,110,210,65,70,No,Moderate,No Disease,1,0
+63,Female,26.2,145,212,122,71,Yes,Low,Disease,2,1
+31,Female,22.1,99,185,131,81,Yes,High,No Disease,1,0
+27,Female,33.6,141,215,106,76,No,Moderate,No Disease,2,2
+19,Female,26.2,126,247,109,72,No,High,No Disease,1,0
+63,Male,16.0,139,228,119,72,No,Moderate,No Disease,0,1
+26,Male,27.1,109,187,104,75,No,Moderate,No Disease,1,2
+20,Female,23.8,124,181,89,67,Yes,High,No Disease,1,0
+38,Male,25.1,151,180,80,80,No,Low,No Disease,0,0
+43,Male,23.7,141,169,65,61,Yes,Moderate,No Disease,1,0
+25,Male,29.4,144,176,80,67,No,Low,No Disease,1,0
+65,Female,30.9,131,202,118,79,No,Moderate,Disease,2,1
+19,Female,26.9,98,204,120,60,No,High,No Disease,1,0
+23,Male,23.9,96,151,88,56,No,High,No Disease,1,0
+45,Male,25.3,135,242,92,73,No,Low,No Disease,0,0
+70,Female,25.6,150,243,96,56,No,Moderate,Disease,0,1
+46,Female,21.6,127,198,110,59,No,Moderate,No Disease,1,0
+43,Male,28.3,139,205,140,80,No,Low,No Disease,2,2
+42,Female,27.7,144,186,132,70,No,Low,No Disease,2,2
+29,Male,32.9,95,209,129,85,Yes,Moderate,No Disease,1,2
+22,Male,31.5,103,226,76,59,No,High,No Disease,1,0
+51,Female,22.2,145,180,91,71,No,Moderate,No Disease,0,1
+65,Female,29.4,137,177,166,77,Yes,Moderate,No Disease,2,1
+54,Male,20.9,124,223,124,61,No,Moderate,No Disease,0,0
+32,Female,28.8,133,207,73,82,Yes,Moderate,No Disease,1,0
+61,Female,23.0,123,177,104,78,No,High,No Disease,0,0
+53,Female,20.6,131,179,107,56,No,Moderate,No Disease,0,0
+32,Female,26.8,124,168,85,71,No,Low,No Disease,1,0
+60,Female,16.0,132,177,65,76,No,Moderate,No Disease,0,0
+65,Male,17.1,155,195,106,67,No,High,No Disease,0,1
+40,Male,24.6,117,189,82,57,Yes,Moderate,No Disease,1,0
+23,Male,25.9,132,167,78,74,Yes,Moderate,No Disease,1,0
+63,Male,23.7,140,190,100,95,Yes,Low,No Disease,0,0
+67,Female,17.9,155,200,102,69,No,Low,No Disease,0,1
+61,Male,21.6,151,213,102,88,No,High,No Disease,0,0
+76,Male,27.4,143,219,103,66,No,Low,Disease,0,1
+60,Male,28.3,111,252,113,75,No,Low,No Disease,2,1
+62,Male,25.4,147,230,73,80,No,Moderate,Disease,0,1
+38,Male,31.1,125,157,122,72,Yes,High,No Disease,1,2
+40,Female,27.4,133,217,65,69,No,Low,No Disease,1,0
+60,Male,21.9,137,226,96,80,Yes,High,No Disease,0,0
+72,Female,24.2,143,207,133,92,No,Low,Disease,2,1
+33,Female,18.8,148,138,67,75,No,High,No Disease,1,0
+64,Male,25.0,122,216,127,68,Yes,High,No Disease,2,1
+70,Male,30.8,158,228,154,71,Yes,Low,Disease,2,1
+77,Male,28.8,145,197,65,98,No,Low,No Disease,0,0
+32,Female,32.2,114,159,112,73,No,Low,No Disease,1,0
+42,Female,24.0,122,195,65,66,No,Moderate,No Disease,1,0
+53,Male,32.0,124,211,121,61,No,Low,No Disease,2,2
+28,Female,24.6,124,175,94,53,No,Low,No Disease,1,0
+68,Female,32.6,165,227,77,76,No,Low,No Disease,2,1
+32,Male,25.4,126,159,140,78,No,Moderate,No Disease,1,2
+21,Male,28.9,112,176,108,67,No,Low,No Disease,1,0
+38,Female,32.6,110,223,100,72,No,High,No Disease,1,2
+30,Female,24.6,125,179,127,60,Yes,High,No Disease,1,0

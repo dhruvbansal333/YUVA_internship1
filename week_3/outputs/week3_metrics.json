@@ -1,0 +1,172 @@
+{
+  "clustering": {
+    "kmeans_sil_by_k": {
+      "2": 0.1788,
+      "3": 0.1349,
+      "4": 0.1133,
+      "5": 0.1105,
+      "6": 0.0984,
+      "7": 0.0965,
+      "8": 0.0948,
+      "9": 0.0913,
+      "10": 0.0878
+    },
+    "best_k_by_silhouette": 2,
+    "chosen_k": 3,
+    "kmeans_silhouette": 0.1349,
+    "hier_silhouette": 0.0736,
+    "kmeans_vs_disease_ARI": 0.1414,
+    "hier_vs_disease_ARI": 0.1537,
+    "kmeans_profile": [
+      {
+        "KMeans_Cluster": 0,
+        "Size": 947,
+        "Age": 61.633,
+        "BMI": 22.021,
+        "BP": 143.442,
+        "Chol": 209.472,
+        "Glucose": 102.144,
+        "HR": 73.728,
+        "Disease_rate": 0.242,
+        "Smoker_share": 0.284
+      },
+      {
+        "KMeans_Cluster": 1,
+        "Size": 1206,
+        "Age": 32.163,
+        "BMI": 25.132,
+        "BP": 116.388,
+        "Chol": 186.049,
+        "Glucose": 97.808,
+        "HR": 71.054,
+        "Disease_rate": 0.023,
+        "Smoker_share": 0.288
+      },
+      {
+        "KMeans_Cluster": 2,
+        "Size": 847,
+        "Age": 60.432,
+        "BMI": 29.43,
+        "BP": 142.273,
+        "Chol": 225.648,
+        "Glucose": 130.646,
+        "HR": 73.633,
+        "Disease_rate": 0.525,
+        "Smoker_share": 0.254
+      }
+    ],
+    "pca_var_ratio_2": [
+      0.2892,
+      0.1623
+    ],
+    "pca_n_for_95": 9
+  },
+  "cv_table": [
+    {
+      "Model": "Logistic Regression",
+      "accuracy": "0.812 +/- 0.018",
+      "precision": "0.567 +/- 0.027",
+      "recall": "0.836 +/- 0.044",
+      "f1": "0.675 +/- 0.030",
+      "roc_auc": "0.903 +/- 0.020"
+    },
+    {
+      "Model": "Random Forest",
+      "accuracy": "0.843 +/- 0.013",
+      "precision": "0.731 +/- 0.049",
+      "recall": "0.528 +/- 0.017",
+      "f1": "0.613 +/- 0.022",
+      "roc_auc": "0.889 +/- 0.019"
+    }
+  ],
+  "tuning": {
+    "Logistic Regression": {
+      "best_params": {
+        "C": 1
+      },
+      "best_cv_f1": 0.6753,
+      "n_combinations": 5
+    },
+    "Random Forest": {
+      "best_params": {
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "n_estimators": 200
+      },
+      "best_cv_f1": 0.6856,
+      "n_combinations": 24
+    }
+  },
+  "test_eval": [
+    {
+      "Model": "Logistic Regression (default)",
+      "Accuracy": 0.8217,
+      "Precision": 0.5805,
+      "Recall": 0.85,
+      "F1": 0.6899,
+      "ROC_AUC": 0.9117
+    },
+    {
+      "Model": "Logistic Regression (tuned)",
+      "Accuracy": 0.8217,
+      "Precision": 0.5805,
+      "Recall": 0.85,
+      "F1": 0.6899,
+      "ROC_AUC": 0.9117
+    },
+    {
+      "Model": "Random Forest (default)",
+      "Accuracy": 0.85,
+      "Precision": 0.7155,
+      "Recall": 0.5929,
+      "F1": 0.6484,
+      "ROC_AUC": 0.9014
+    },
+    {
+      "Model": "Random Forest (tuned)",
+      "Accuracy": 0.855,
+      "Precision": 0.6626,
+      "Recall": 0.7714,
+      "F1": 0.7129,
+      "ROC_AUC": 0.8975
+    }
+  ],
+  "best_model": "Random Forest (tuned)",
+  "best_cm": [
+    [
+      405,
+      55
+    ],
+    [
+      32,
+      108
+    ]
+  ],
+  "best_report": {
+    "No Disease": {
+      "precision": 0.9267734553775744,
+      "recall": 0.8804347826086957,
+      "f1-score": 0.903010033444816,
+      "support": 460.0
+    },
+    "Disease": {
+      "precision": 0.6625766871165644,
+      "recall": 0.7714285714285715,
+      "f1-score": 0.7128712871287128,
+      "support": 140.0
+    },
+    "accuracy": 0.855,
+    "macro avg": {
+      "precision": 0.7946750712470694,
+      "recall": 0.8259316770186336,
+      "f1-score": 0.8079406602867645,
+      "support": 600.0
+    },
+    "weighted avg": {
+      "precision": 0.8651275427833387,
+      "recall": 0.855,
+      "f1-score": 0.8586443259710586,
+      "support": 600.0
+    }
+  }
+}
