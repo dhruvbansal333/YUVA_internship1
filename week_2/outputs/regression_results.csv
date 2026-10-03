@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Linear Regression,23.4321,29.2831,0.2226
+Random Forest Regressor,23.8231,29.6091,0.2052
+Baseline (predict mean),26.6773,33.2876,-0.0045

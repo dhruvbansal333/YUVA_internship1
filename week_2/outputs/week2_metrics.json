@@ -1,0 +1,130 @@
+{
+  "classification": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.8217,
+      "Precision": 0.5805,
+      "Recall": 0.85,
+      "F1": 0.6899,
+      "ROC_AUC": 0.9117
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.7817,
+      "Precision": 0.5193,
+      "Recall": 0.8643,
+      "F1": 0.6488,
+      "ROC_AUC": 0.8684
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.8533,
+      "Precision": 0.7203,
+      "Recall": 0.6071,
+      "F1": 0.6589,
+      "ROC_AUC": 0.8996
+    },
+    {
+      "Model": "KNN (k=7)",
+      "Accuracy": 0.8417,
+      "Precision": 0.6891,
+      "Recall": 0.5857,
+      "F1": 0.6332,
+      "ROC_AUC": 0.8569
+    }
+  ],
+  "regression": [
+    {
+      "Model": "Linear Regression",
+      "MAE": 23.4321,
+      "RMSE": 29.2831,
+      "R2": 0.2226
+    },
+    {
+      "Model": "Random Forest Regressor",
+      "MAE": 23.8231,
+      "RMSE": 29.6091,
+      "R2": 0.2052
+    },
+    {
+      "Model": "Baseline (predict mean)",
+      "MAE": 26.6773,
+      "RMSE": 33.2876,
+      "R2": -0.0045
+    }
+  ],
+  "test_size": 600,
+  "train_size": 2400,
+  "rf_importance": {
+    "num__Blood_Pressure_mmHg": 0.2451,
+    "num__Age": 0.2252,
+    "num__Cholesterol_mg_dL": 0.1301,
+    "num__Glucose_mg_dL": 0.1291,
+    "num__BMI": 0.128,
+    "num__Heart_Rate_bpm": 0.0758,
+    "cat__Exercise_Level_Low": 0.011,
+    "cat__Gender_Female": 0.0103,
+    "cat__Exercise_Level_Moderate": 0.0101,
+    "cat__Gender_Male": 0.01,
+    "cat__Smoking_No": 0.009,
+    "cat__Smoking_Yes": 0.0088,
+    "cat__Exercise_Level_High": 0.0075
+  },
+  "lr_coef": {
+    "cat__Exercise_Level_High": -0.358,
+    "cat__Smoking_No": -0.346,
+    "cat__Gender_Male": -0.293,
+    "cat__Exercise_Level_Moderate": -0.276,
+    "cat__Gender_Female": -0.136,
+    "cat__Smoking_Yes": -0.083,
+    "num__Heart_Rate_bpm": 0.037,
+    "cat__Exercise_Level_Low": 0.205,
+    "num__Glucose_mg_dL": 0.448,
+    "num__Cholesterol_mg_dL": 0.517,
+    "num__BMI": 0.728,
+    "num__Age": 0.808,
+    "num__Blood_Pressure_mmHg": 1.172
+  },
+  "cm": {
+    "Logistic Regression": [
+      [
+        374,
+        86
+      ],
+      [
+        21,
+        119
+      ]
+    ],
+    "Decision Tree": [
+      [
+        348,
+        112
+      ],
+      [
+        19,
+        121
+      ]
+    ],
+    "Random Forest": [
+      [
+        427,
+        33
+      ],
+      [
+        55,
+        85
+      ]
+    ],
+    "KNN (k=7)": [
+      [
+        423,
+        37
+      ],
+      [
+        58,
+        82
+      ]
+    ]
+  }
+}
